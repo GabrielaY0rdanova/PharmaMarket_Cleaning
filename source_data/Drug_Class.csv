@@ -1,0 +1,1600 @@
+﻿Drug_Class_ID,Drug_Class_Name,Slug
+1,4-Quinolone preparations,"4-quinolone-preparations-55,16"
+2,5-HT Agonists,"5-ht-agonists-155,5"
+3,Abdominal gas adsorbent preparations,"abdominal-gas-adsorbent-preparations-392,0"
+4,Acne treatment preparations,"acne-treatment-preparations-561,4"
+5,Adenosine triphosphate-citrate lyase (ACL) inhibitor,"adenosine-triphosphate-citrate-lyase-acl-inhibitor-658,0"
+6,Adjunct anti-epileptic drugs,"adjunct-anti-epileptic-drugs-168,11"
+7,Aldose reductase inhibitor,"aldose-reductase-inhibitor-591,1"
+8,Alpha adrenoceptor blocking drugs,"alpha-adrenoceptor-blocking-drugs-125,5"
+9,Alpha and Beta-adrenergic agonist,"alpha-and-beta-adrenergic-agonist-126,0"
+10,Alpha-Glucosidase inhibitor,"alpha-glucosidase-inhibitor-612,3"
+11,Aminoglycosides,"aminoglycosides-56,4"
+12,Aminosalicylates,"aminosalicylates-655,1"
+13,Amoebicides,"amoebicides-79,5"
+14,Anabolic steroid (Androgens),"anabolic-steroid-androgens-592,2"
+15,Anaphylaxis,"anaphylaxis-21,1"
+16,Angiotensin-converting enzyme (ACE) inhibitors,"angiotensin-converting-enzyme-ace-inhibitors-118,5"
+17,Angiotensin-ll receptor blocker,"angiotensin-ll-receptor-blocker-117,7"
+18,Antacid with laxative action,"antacid-with-laxative-action-393,3"
+19,Antacids,"antacids-407,6"
+20,Anthelmintic,"anthelmintic-78,5"
+21,Anti adrenergic agent (Beta blockers),"anti-adrenergic-agent-beta-blockers-113,3"
+22,Anti H. pylori drugs,"anti-h-pylori-drugs-531,3"
+23,Anti neoplastic preparations,"anti-neoplastic-preparations-232,5"
+24,Anti vertigo drugs,"anti-vertigo-drugs-170,3"
+25,Anti-Alzheimer drugs,"anti-alzheimer-drugs-173,1"
+26,Anti-anginal & lipid lowering drugs,"anti-anginal-lipid-lowering-drugs-107,1"
+27,Antiarrhythmic Therapy,"antiarrhythmic-therapy-630,0"
+28,Anticavity Mouthwash,"anticavity-mouthwash-624,1"
+29,Anti-cholinergic & anti-psychotic combination drugs,"anti-cholinergic-anti-psychotic-combination-drugs-532,0"
+30,Anticholinergic bronchodilators,"anticholinergic-bronchodilators-475,3"
+31,Anticholinergics,"anticholinergics-535,6"
+32,Anticholinergics (antimuscarinics)/ Anti-spasmodics,"anticholinergics-antimuscarinics-anti-spasmodics-534,12"
+33,Anti-cholinesterases,"anti-cholinesterases-34,1"
+34,Anti-coagulants,"anti-coagulants-513,3"
+35,Anti-diarrhoeal,"anti-diarrhoeal-401,3"
+36,Anti-diarrhoeal Antimicrobial drugs,"anti-diarrhoeal-antimicrobial-drugs-402,4"
+37,Anti-diarrhoeal Antiprotozoal,"anti-diarrhoeal-antiprotozoal-403,4"
+38,Anti-diarrhoeal Enzyme,"anti-diarrhoeal-enzyme-404,0"
+39,Antidote preparations,"antidote-preparations-177,12"
+40,Anti-dyspeptic/Carminatives,"anti-dyspepticcarminatives-408,2"
+41,Anti-emetic drugs,"anti-emetic-drugs-171,15"
+42,Anti-fibrinolytic drugs,"anti-fibrinolytic-drugs-103,4"
+43,Anti-fungal or anti-bacterial ear drops,"anti-fungal-or-anti-bacterial-ear-drops-650,2"
+44,Anti-gallstones drugs: Bile Acids,"anti-gallstones-drugs-bile-acids-387,1"
+45,Antihaemophilic factor,"antihaemophilic-factor-105,1"
+46,Anti-histamine & decongestant,"anti-histamine-decongestant-22,1"
+47,Anti-histamine Preparations,"anti-histamine-preparations-187,2"
+48,Antihistamines anti-allergies & hypo-sensitisation,"antihistamines-anti-allergies-hypo-sensitisation-476,2"
+49,Anti-hypertensive,"anti-hypertensive-559,5"
+50,Anti-infective & Anesthetic combined preparations,"anti-infective-anesthetic-combined-preparations-238,1"
+51,Anti-Leprotic drugs,"anti-leprotic-drugs-57,1"
+52,Anti-malarial drugs,"anti-malarial-drugs-80,10"
+53,Anti-manic drugs,"anti-manic-drugs-181,1"
+54,Anti-motility drugs,"anti-motility-drugs-405,1"
+55,Anti-oxidant Multivitamin Multimineral preparations,"anti-oxidant-multivitamin-multimineral-preparations-285,2"
+56,Anti-oxidant Multivitamin preparations,"anti-oxidant-multivitamin-preparations-286,2"
+57,Antioxidant vitamins & minerals for eye,"antioxidant-vitamins-minerals-for-eye-357,1"
+58,Antiparkinson drugs,"antiparkinson-drugs-174,14"
+59,Anti-platelet drugs,"anti-platelet-drugs-104,14"
+60,Anti-thyroid drugs,"anti-thyroid-drugs-606,2"
+61,Anti-Tubercular Antibiotics,"anti-tubercular-antibiotics-58,2"
+62,Anti-Tubercular Chemotherapeutics,"anti-tubercular-chemotherapeutics-59,3"
+63,Anti-viral drugs,"anti-viral-drugs-609,4"
+64,Appetite suppressant drugs/Anti-obesity drugs,"appetite-suppressant-drugsanti-obesity-drugs-178,1"
+65,Atypical anti-depressant drugs,"atypical-anti-depressant-drugs-163,5"
+66,Atypical neuroleptic drugs,"atypical-neuroleptic-drugs-182,12"
+67,Aural Anti-bacterial preparations,"aural-anti-bacterial-preparations-308,5"
+68,Aural Anti-fungal preparations,"aural-anti-fungal-preparations-309,3"
+69,Aural steroid & antibiotic combined preparations,"aural-steroid-antibiotic-combined-preparations-310,4"
+70,Barbiturates,"barbiturates-158,1"
+71,Barium Sulphate,"barium-sulphate-444,0"
+72,Beclomethasone & Combined Preparations,"beclomethasone-combined-preparations-248,0"
+73,Benzodiazepine antagonist,"benzodiazepine-antagonist-35,2"
+74,Benzodiazepine hypnotics,"benzodiazepine-hypnotics-159,8"
+75,Benzodiazepine sedatives,"benzodiazepine-sedatives-160,7"
+76,Benzoyl peroxide; Azelaic acid & other preparations,"benzoyl-peroxide-azelaic-acid-other-preparations-223,2"
+77,Benzylpenicillin & Phenoxymethyl penicillin,"benzylpenicillin-phenoxymethyl-penicillin-60,3"
+78,Beta-adrenoceptor blocking drugs,"beta-adrenoceptor-blocking-drugs-496,7"
+79,Beta-blockers,"beta-blockers-188,6"
+80,Betamethasone & Combined preparations,"betamethasone-combined-preparations-249,4"
+81,Biguanides,"biguanides-576,1"
+82,Bile acid sequestrants,"bile-acid-sequestrants-388,0"
+83,Bisphosphonate preparations,"bisphosphonate-preparations-268,7"
+84,Black Seed Oil,"black-seed-oil-452,0"
+85,Bleaching and Disinfectants,"bleaching-and-disinfectants-217,6"
+86,BPH/ Urinary retention/ Urinary incontinence,"bph-urinary-retention-urinary-incontinence-425,12"
+87,Broad spectrum penicillins,"broad-spectrum-penicillins-61,3"
+88,Bronchodilator,"bronchodilator-637,6"
+89,Bulk-forming laxatives,"bulk-forming-laxatives-394,5"
+90,Butyrophenone drugs,"butyrophenone-drugs-183,1"
+91,Calcium Regulator,"calcium-regulator-598,2"
+92,Calcium-channel blockers,"calcium-channel-blockers-108,11"
+93,Candida infections,"candida-infections-651,1"
+94,Carbonic anhydrase inhibitor,"carbonic-anhydrase-inhibitor-498,1"
+95,Carboxylic acids and derivatives,"carboxylic-acids-and-derivatives-636,2"
+96,Central Depolarizing muscle relaxants,"central-depolarizing-muscle-relaxants-47,1"
+97,Centrally acting antihypertensive drugs (central sympatholytic),"centrally-acting-antihypertensive-drugs-central-sympatholytic-499,2"
+98,Centrally acting Skeletal Muscle Relaxants,"centrally-acting-skeletal-muscle-relaxants-466,8"
+99,Cerebral vasodilator & Neurosensory oxygenator drugs,"cerebral-vasodilator-neurosensory-oxygenator-drugs-137,2"
+100,Cerumenolytic,"cerumenolytic-654,1"
+101,Chelating complex,"chelating-complex-536,1"
+102,Chlorhexidine & Chloroxylenol preparations,"chlorhexidine-chloroxylenol-preparations-218,6"
+103,Cholagogues; Cholelitholytics & Hepatic Protectors,"cholagogues-cholelitholytics-hepatic-protectors-389,2"
+104,Clobetasol / Clobetasone & Combined Preparations,"clobetasol-clobetasone-combined-preparations-250,4"
+105,CNS stimulant drugs,"cns-stimulant-drugs-179,4"
+106,Coal-tar preparations,"coal-tar-preparations-209,3"
+107,Combination Insulin,"combination-insulin-583,3"
+108,Combination Oral hypoglycemic preparations,"combination-oral-hypoglycemic-preparations-577,10"
+109,Combined anti- Tubercular Preparations,"combined-anti-tubercular-preparations-62,3"
+110,Combined antihypertensive preparations,"combined-antihypertensive-preparations-500,20"
+111,Combined anxiolytics & anti-depressant drugs,"combined-anxiolytics-anti-depressant-drugs-164,3"
+112,Combined bronchodilators,"combined-bronchodilators-477,6"
+113,Combined cough expectorants,"combined-cough-expectorants-486,6"
+114,Combined cough suppressants,"combined-cough-suppressants-487,5"
+115,Combined preparation for constipation,"combined-preparation-for-constipation-395,0"
+116,Combined preparations,"combined-preparations-233,1"
+117,Combined preparations: Inhibiting bone resorption,"combined-preparations-inhibiting-bone-resorption-269,1"
+118,Compound steroidal preparations,"compound-steroidal-preparations-417,2"
+119,Contrast medium for diagnostic procedures,"contrast-medium-for-diagnostic-procedures-439,6"
+120,Corticosteroid,"corticosteroid-23,10"
+121,Cough expectorants & mucolytics,"cough-expectorants-mucolytics-488,6"
+122,Cough suppressant,"cough-suppressant-489,4"
+123,Cromoglycate & related drugs,"cromoglycate-related-drugs-478,1"
+124,Crystal violet/ Gentian violet preparations,"crystal-violet-gentian-violet-preparations-219,1"
+125,Cytotoxic Chemotherapy,"cytotoxic-chemotherapy-548,41"
+126,Cytotoxic immunosuppressants,"cytotoxic-immunosuppressants-553,3"
+127,Decongestant,"decongestant-312,1"
+128,Depolarizing muscle relaxants,"depolarizing-muscle-relaxants-48,1"
+129,Digestive Enzyme,"digestive-enzyme-390,3"
+130,Dipeptidyl Peptidase-4 (DPP-4) inhibitor,"dipeptidyl-peptidase-4-dpp-4-inhibitor-578,6"
+131,Direct Renin Inhibitors,"direct-renin-inhibitors-501,1"
+132,Disease-modifying antirheumatic drugs (DMARDs),"disease-modifying-antirheumatic-drugs-dmards-460,3"
+133,Dithranol & combined preparations,"dithranol-combined-preparations-210,1"
+134,Dressing products for wounds/burns/ulcers,"dressing-products-for-woundsburnsulcers-222,1"
+135,Drugs acting on the Uterus,"drugs-acting-on-the-uterus-426,12"
+136,Drugs affecting (inhibiting) gonadotrophin,"drugs-affecting-inhibiting-gonadotrophin-604,4"
+137,Drugs affecting exocrine secretions,"drugs-affecting-exocrine-secretions-391,2"
+138,Drugs affecting the immune response,"drugs-affecting-the-immune-response-211,3"
+139,Drugs for Age-Related Macular Degeneration (AMD),"drugs-for-age-related-macular-degeneration-amd-358,2"
+140,Drugs for Aphthous ulcer,"drugs-for-aphthous-ulcer-537,0"
+141,Drugs for corneal oedema,"drugs-for-corneal-oedema-360,0"
+142,Drugs for Dementia,"drugs-for-dementia-175,2"
+143,Drugs for Dry eyes,"drugs-for-dry-eyes-359,12"
+144,Drugs for Erectile Dysfunction,"drugs-for-erectile-dysfunction-427,5"
+145,Drugs for Growth failure,"drugs-for-growth-failure-599,1"
+146,Drugs for Haemolytic Hypoplastic & Renal Anemia,"drugs-for-haemolytic-hypoplastic-renal-anemia-263,6"
+147,Drugs for HIV / Anti-retroviral drugs,"drugs-for-hiv-anti-retroviral-drugs-83,10"
+148,Drugs for Infertility,"drugs-for-infertility-600,9"
+149,Drugs for Irritable Bowel Syndrome,"drugs-for-irritable-bowel-syndrome-415,2"
+150,Drugs for lens opacification,"drugs-for-lens-opacification-361,1"
+151,Drugs for Megaloblastic Anemia,"drugs-for-megaloblastic-anemia-264,3"
+152,Drugs for menopausal symptoms: Hormone replacement therapy,"drugs-for-menopausal-symptoms-hormone-replacement-therapy-602,8"
+153,Drugs for Milk suppression,"drugs-for-milk-suppression-601,0"
+154,Drugs for miotics and glaucoma,"drugs-for-miotics-and-glaucoma-362,17"
+155,Drugs for muscular energy metabolism,"drugs-for-muscular-energy-metabolism-138,1"
+156,Drugs for Osteoarthritis,"drugs-for-osteoarthritis-519,27"
+157,Drugs for reduction of serum phosphorus in patients with ESRD,"drugs-for-reduction-of-serum-phosphorus-in-patients-with-esrd-430,2"
+158,Drugs for subcutaneous and mycoses,"drugs-for-subcutaneous-and-mycoses-77,8"
+159,Drugs used for Rheumatoid Arthritis,"drugs-used-for-rheumatoid-arthritis-461,32"
+160,Drugs used in Ano-rectal region,"drugs-used-in-ano-rectal-region-428,5"
+161,Drugs used in Cerebral Palsy,"drugs-used-in-cerebral-palsy-467,1"
+162,Drugs used in chronic kidney dialysis,"drugs-used-in-chronic-kidney-dialysis-622,2"
+163,Drugs used in diaper rash,"drugs-used-in-diaper-rash-239,2"
+164,Drugs used in Gout,"drugs-used-in-gout-462,5"
+165,Drugs used in meniere's diseases,"drugs-used-in-menieres-diseases-172,2"
+166,Drugs used in Myasthenia Gravis,"drugs-used-in-myasthenia-gravis-468,2"
+167,Drugs used in substance dependence,"drugs-used-in-substance-dependence-180,1"
+168,Drugs used in tremor; tics & related disorder,"drugs-used-in-tremor-tics-related-disorder-176,2"
+169,Drugs used in Vaginal and Vulval condition,"drugs-used-in-vaginal-and-vulval-condition-429,12"
+170,Dyslipidaemic Agents,"dyslipidaemic-agents-616,1"
+171,Ear Anti-Infectives & Antiseptics,"ear-anti-infectives-antiseptics-566,1"
+172,Echinocandins,"echinocandins-653,1"
+173,Electrolytes preparations,"electrolytes-preparations-621,3"
+174,Emergency Contraceptive Pill,"emergency-contraceptive-pill-608,2"
+175,Emollients & combined preparations,"emollients-combined-preparations-212,8"
+176,Endothelin receptor antagonist,"endothelin-receptor-antagonist-502,2"
+177,Enema & bowel cleansing solution,"enema-bowel-cleansing-solution-396,3"
+178,Enzymes,"enzymes-470,1"
+179,Ergot Alkaloids,"ergot-alkaloids-156,1"
+180,Eye Anti-Infectives & Antiseptics,"eye-anti-infectives-antiseptics-565,2"
+181,Ezetimibe,"ezetimibe-132,1"
+182,Farnesoid X Receptor Agonists,"farnesoid-x-receptor-agonists-634,1"
+183,Female Sex hormones,"female-sex-hormones-593,19"
+184,Fibrates,"fibrates-133,1"
+185,Fibrinolytics (Thrombolytics),"fibrinolytics-thrombolytics-99,7"
+186,First generation Cephalosporins,"first-generation-cephalosporins-63,4"
+187,Fluocinolone & Combined Preparations,"fluocinolone-combined-preparations-251,6"
+188,Fluticasone & combined preparations topical,"fluticasone-combined-preparations-topical-252,1"
+189,Fourth generation Cephalosporins,"fourth-generation-cephalosporins-64,2"
+190,Gadodiamide,"gadodiamide-442,0"
+191,Gadoversetamide,"gadoversetamide-441,0"
+192,General (Inhalation) anesthetics,"general-inhalation-anesthetics-41,3"
+193,General (Intravenous) anesthetics,"general-intravenous-anesthetics-42,3"
+194,GLP-1 receptor agonists,"glp-1-receptor-agonists-584,4"
+195,Glucocorticoids,"glucocorticoids-589,10"
+196,Glycopeptide,"glycopeptide-648,1"
+197,Gonadotropin-releasing hormone (GnRH) antagonist,"gonadotropin-releasing-hormone-gnrh-antagonist-594,2"
+198,Growth hormone antagonist,"growth-hormone-antagonist-605,2"
+199,H2 receptor antagonist,"h2-receptor-antagonist-409,3"
+200,Haematopoietic Agents,"haematopoietic-agents-611,4"
+201,Haemodialysis solutions,"haemodialysis-solutions-431,4"
+202,Haemostatic drugs,"haemostatic-drugs-106,3"
+203,Haemostatics,"haemostatics-615,1"
+204,Hair Growth Inhibitor,"hair-growth-inhibitor-628,1"
+205,Hematopoietic drug,"hematopoietic-drug-100,1"
+206,Hepatic viral infections (Hepatitis B),"hepatic-viral-infections-hepatitis-b-85,7"
+207,Hepatic viral infections (Hepatitis C),"hepatic-viral-infections-hepatitis-c-86,8"
+208,Herbal and Nutraceuticals,"herbal-and-nutraceuticals-645,153"
+209,Herpes simplex & Varicella-zoster virus infections,"herpes-simplex-varicella-zoster-virus-infections-87,4"
+210,Hormonal Chemotherapy,"hormonal-chemotherapy-549,5"
+211,Hormonal Implants,"hormonal-implants-595,0"
+212,Hormone in bone formation by Inhibiting bone resorption,"hormone-in-bone-formation-by-inhibiting-bone-resorption-270,1"
+213,Hormone in bone formation by stimulation,"hormone-in-bone-formation-by-stimulation-271,2"
+214,Hormone preparations for other uses,"hormone-preparations-for-other-uses-603,2"
+215,Hydrocortisone & Combined preparations,"hydrocortisone-combined-preparations-253,6"
+216,Hydroquinone Preparations,"hydroquinone-preparations-231,2"
+217,Hyperkalaemia Products,"hyperkalaemia-products-647,1"
+218,Immunological Chemotherapy,"immunological-chemotherapy-550,4"
+219,Immunomodulator,"immunomodulator-640,1"
+220,Immunosuppressant,"immunosuppressant-26,14"
+221,Inhibiting bone resorption,"inhibiting-bone-resorption-273,2"
+222,Inotropic-sympathomimetics,"inotropic-sympathomimetics-119,2"
+223,Intracellular antibiotic,"intracellular-antibiotic-68,1"
+224,Intravenous fluid preparations,"intravenous-fluid-preparations-302,8"
+225,Iodine compounds (Anti-septic Preparations),"iodine-compounds-anti-septic-preparations-220,1"
+226,Iron & Vitamin Combined preparations,"iron-vitamin-combined-preparations-259,8"
+227,Iron; Vitamin & Mineral Combined preparation,"iron-vitamin-mineral-combined-preparation-260,8"
+228,Irrigation during various surgical procedures,"irrigation-during-various-surgical-procedures-613,1"
+229,Irrigation Solution used in Urological Surgery,"irrigation-solution-used-in-urological-surgery-434,1"
+230,Leishmaniacides,"leishmaniacides-81,2"
+231,Leukotriene receptor antagonists,"leukotriene-receptor-antagonists-479,2"
+232,Local & Surface anesthesia,"local-surface-anesthesia-45,9"
+233,Local Antipruritic,"local-antipruritic-245,9"
+234,Locally acting Skeletal Muscle Relaxants,"locally-acting-skeletal-muscle-relaxants-469,3"
+235,lodixanol,"lodixanol-445,0"
+236,lohexol,"lohexol-446,0"
+237,Long Acting Insulin,"long-acting-insulin-585,4"
+238,Long acting penicillin,"long-acting-penicillin-65,1"
+239,Long-acting selective Î²-adrenoceptor stimulants,"long-acting-selective-Î²-adrenoceptor-stimulants-480,4"
+240,Loop diuretics,"loop-diuretics-120,4"
+241,lopamidol,"lopamidol-447,0"
+242,lopanoic Acid,"lopanoic-acid-443,0"
+243,loversol,"loversol-448,0"
+244,Macrolides,"macrolides-66,13"
+245,Male Sex hormones (Androgens),"male-sex-hormones-androgens-596,2"
+246,Mast Cell Stabiliser,"mast-cell-stabiliser-313,3"
+247,Mecillinams,"mecillinams-67,1"
+248,Medicated Shampoos,"medicated-shampoos-236,0"
+249,Medium Acting Insulin,"medium-acting-insulin-586,1"
+250,Meglitinide Analogues,"meglitinide-analogues-579,2"
+251,Membrane stabilizing agent (Sodium channel blockers),"membrane-stabilizing-agent-sodium-channel-blockers-115,2"
+252,Methoxsalen preparation,"methoxsalen-preparation-230,1"
+253,Methyl xanthine derivatives,"methyl-xanthine-derivatives-481,2"
+254,Minerals in bone formation,"minerals-in-bone-formation-272,6"
+255,Miscellaneous prophylactic migraine preparations,"miscellaneous-prophylactic-migraine-preparations-189,1"
+256,Miscellaneous sedatives & hypnotics,"miscellaneous-sedatives-hypnotics-161,9"
+257,Miscellaneous topical agents,"miscellaneous-topical-agents-558,19"
+258,Motility Stimulants,"motility-stimulants-410,1"
+259,Motility stimulants/Dopamine antagonist,"motility-stimulantsdopamine-antagonist-539,2"
+260,Multiple gynecological preparation,"multiple-gynecological-preparation-623,0"
+261,Multi-vitamin & Multi-mineral combined preparations,"multi-vitamin-multi-mineral-combined-preparations-520,12"
+262,Mydriatic and Cycloplegic agents,"mydriatic-and-cycloplegic-agents-363,4"
+263,Nasal Anti-cholinergic (Anti- muscarinic) Preparations,"nasal-anti-cholinergic-anti-muscarinic-preparations-314,0"
+264,Nasal Anti-histamine preparations,"nasal-anti-histamine-preparations-315,4"
+265,Nasal Decongestants & Other Nasal Preparations,"nasal-decongestants-other-nasal-preparations-614,5"
+266,Nasal non-steroid Preparation,"nasal-non-steroid-preparation-317,0"
+267,Nasal Steroid Preparations,"nasal-steroid-preparations-316,6"
+268,Neurodegenerative Disease Drugs / Neuromuscular Disorder Drugs,"neurodegenerative-disease-drugs-neuromuscular-disorder-drugs-631,1"
+269,Nicotine,"nicotine-453,0"
+270,Nicotinic acid group,"nicotinic-acid-group-134,1"
+271,Nitrates: Coronary vasodilators,"nitrates-coronary-vasodilators-109,5"
+272,Nitrous Oxide 98 % Gas,"nitrous-oxide-98-gas-451,0"
+273,Non depolarizing muscle relaxants,"non-depolarizing-muscle-relaxants-49,5"
+274,Non opioid analgesics,"non-opioid-analgesics-43,4"
+275,Non-Benzodiazepine hypnotics,"non-benzodiazepine-hypnotics-162,0"
+276,Non-Opioid Analgesics,"non-opioid-analgesics-152,3"
+277,Non-prostanoid IP prostacyclin receptor agonist,"non-prostanoid-ip-prostacyclin-receptor-agonist-660,1"
+278,Non-sedating antihistamines,"non-sedating-antihistamines-24,9"
+279,Non-steroidal Anti-inflammatory Drugs (NSAIDs),"non-steroidal-anti-inflammatory-drugs-nsaids-153,31"
+280,Ocular perioperative drugs,"ocular-perioperative-drugs-364,2"
+281,Ophthalmic and Topical antibacterial products,"ophthalmic-and-topical-antibacterial-products-366,1"
+282,Ophthalmic Anti-allergic preparations,"ophthalmic-anti-allergic-preparations-365,3"
+283,Ophthalmic antibacterial drugs,"ophthalmic-antibacterial-drugs-562,16"
+284,Ophthalmic Anti-fungal Products,"ophthalmic-anti-fungal-products-367,2"
+285,Ophthalmic Anti-viral Products,"ophthalmic-anti-viral-products-368,4"
+286,Ophthalmic Non-Steroid Combined preparations,"ophthalmic-non-steroid-combined-preparations-369,1"
+287,Ophthalmic Non-Steroid drugs,"ophthalmic-non-steroid-drugs-370,10"
+288,Ophthalmic steroid - antibiotic combined preparations,"ophthalmic-steroid-antibiotic-combined-preparations-373,12"
+289,Ophthalmic Steroid- anti allergic combined preparations,"ophthalmic-steroid-anti-allergic-combined-preparations-372,0"
+290,Ophthalmic Steroid preparations,"ophthalmic-steroid-preparations-371,8"
+291,Opioid analgesics,"opioid-analgesics-44,8"
+292,Oral Anti-coagulants,"oral-anti-coagulants-101,3"
+293,Oral Contraceptive preparations,"oral-contraceptive-preparations-597,19"
+294,Oral electrolytes preparations,"oral-electrolytes-preparations-303,6"
+295,Oral Hormonal preparations for Acne,"oral-hormonal-preparations-for-acne-224,1"
+296,Oral Iron preparations,"oral-iron-preparations-261,6"
+297,Oral nutritional preparations,"oral-nutritional-preparations-646,7"
+298,Oral preparations,"oral-preparations-311,5"
+299,Oral Retinoid preparations,"oral-retinoid-preparations-213,2"
+300,Oral retinoids for Acne,"oral-retinoids-for-acne-225,1"
+301,Osmotic diuretics,"osmotic-diuretics-504,1"
+302,Osmotic purgatives,"osmotic-purgatives-397,9"
+303,Other adrenoceptor stimulants,"other-adrenoceptor-stimulants-482,3"
+304,Other Anti-anginal & Anti-ischaemic drugs,"other-anti-anginal-anti-ischaemic-drugs-110,8"
+305,Other antibacterial preparation,"other-antibacterial-preparation-610,8"
+306,Other antibiotic,"other-antibiotic-618,2"
+307,Other Antifungal preparations,"other-antifungal-preparations-240,6"
+308,Other Anti-protozoals,"other-anti-protozoals-82,2"
+309,Other beta-lactam Antibiotics,"other-beta-lactam-antibiotics-69,6"
+310,Other drugs for migraine,"other-drugs-for-migraine-157,3"
+311,Other drugs used for peptic ulcer disease,"other-drugs-used-for-peptic-ulcer-disease-540,0"
+312,Other genito-urinary preparations,"other-genito-urinary-preparations-546,4"
+313,Other laxative preparations,"other-laxative-preparations-398,2"
+314,Other lipid regulating drugs,"other-lipid-regulating-drugs-135,2"
+315,Other ophthalmic preparations,"other-ophthalmic-preparations-374,8"
+316,Other preparations,"other-preparations-440,6"
+317,Other scalp preparations,"other-scalp-preparations-237,3"
+318,Other Systemic Anti-infective Effective in Urinary tract infections,"other-systemic-anti-infective-effective-in-urinary-tract-infections-435,0"
+319,Other Topical corticosteroids,"other-topical-corticosteroids-254,14"
+320,Oxidising agent with antibacterial and antiviral properties,"oxidising-agent-with-antibacterial-and-antiviral-properties-620,1"
+321,Painkiller Muscle Relaxant,"painkiller-muscle-relaxant-659,1"
+322,Parasiticidal preparations,"parasiticidal-preparations-241,5"
+323,Parenteral anti-coagulants,"parenteral-anti-coagulants-102,4"
+324,Parenteral Iron Preparations,"parenteral-iron-preparations-262,4"
+325,Parenteral nutritional preparations,"parenteral-nutritional-preparations-295,9"
+326,Paroxysmal supraventricular tachycardia (PSVT),"paroxysmal-supraventricular-tachycardia-psvt-116,1"
+327,Penicillinase-resistant penicillins,"penicillinase-resistant-penicillins-71,2"
+328,Peripheral Vasodilator drugs: Intermittent Claudication,"peripheral-vasodilator-drugs-intermittent-claudication-139,2"
+329,Peritoneal dialysis solution,"peritoneal-dialysis-solution-547,1"
+330,Phenothiazine drugs,"phenothiazine-drugs-184,4"
+331,Phenothiazine related drugs,"phenothiazine-related-drugs-185,5"
+332,Phlebotonic & Vascular protecting preparation,"phlebotonic-vascular-protecting-preparation-418,2"
+333,Piperidinyl-benzisoxazole derivative,"piperidinyl-benzisoxazole-derivative-186,1"
+334,Plasma expanders,"plasma-expanders-304,4"
+335,Positive Inotropic drugs,"positive-inotropic-drugs-121,1"
+336,Potassium channel blockers,"potassium-channel-blockers-112,1"
+337,Potassium-channel activator,"potassium-channel-activator-111,1"
+338,Potassium-sparing diuretics,"potassium-sparing-diuretics-122,3"
+339,Potassium-sparing diuretics & Aldosterone antagonists,"potassium-sparing-diuretics-aldosterone-antagonists-505,3"
+340,Preparations for Ophthalmic diagnosis,"preparations-for-ophthalmic-diagnosis-375,3"
+341,Preparations for Oral Ulceration & Inflammation,"preparations-for-oral-ulceration-inflammation-564,1"
+342,Prevention of repeated kidney stone formation,"prevention-of-repeated-kidney-stone-formation-424,2"
+343,Primary anti-epileptic drugs,"primary-anti-epileptic-drugs-169,6"
+344,Prokinetic drugs,"prokinetic-drugs-524,3"
+345,Prostaglandin analogues,"prostaglandin-analogues-541,3"
+346,Protein kinase inhibitor,"protein-kinase-inhibitor-643,2"
+347,Proton Pump Inhibitor,"proton-pump-inhibitor-411,6"
+348,Pulmonary surfactants,"pulmonary-surfactants-490,1"
+349,Purified Soybean Oil,"purified-soybean-oil-455,0"
+350,Pyrrolopyrimidines,"pyrrolopyrimidines-638,1"
+351,Rapid Acting Insulin,"rapid-acting-insulin-587,6"
+352,Regional anesthesia,"regional-anesthesia-46,3"
+353,Respiratory corticosteroids,"respiratory-corticosteroids-483,13"
+354,Respiratory stimulants: analeptics,"respiratory-stimulants-analeptics-491,3"
+355,Respiratory viral infections (Influenza),"respiratory-viral-infections-influenza-88,3"
+356,Salmon Calcitonin,"salmon-calcitonin-456,0"
+357,Second generation Cephalosporins,"second-generation-cephalosporins-72,5"
+358,Sedating Anti-histamine,"sedating-anti-histamine-25,10"
+359,Selective vasopressin V2-receptor antagonist,"selective-vasopressin-v2-receptor-antagonist-652,1"
+360,Serotonin-norepinephrine reuptake inhibitor (SNRI),"serotonin-norepinephrine-reuptake-inhibitor-snri-166,6"
+361,Short Acting Insulin,"short-acting-insulin-588,0"
+362,Short-acting selective & Î²2-adrenoceptor stimulants,"short-acting-selective-Î²2-adrenoceptor-stimulants-484,7"
+363,Silymarin,"silymarin-449,0"
+364,Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors,"sodium-glucose-cotransporter-2-sglt2-inhibitors-580,4"
+365,Specific combined vitamin preparations,"specific-combined-vitamin-preparations-288,14"
+366,Specific mineral & vitamin combined preparations,"specific-mineral-vitamin-combined-preparations-289,15"
+367,Specific mineral preparations,"specific-mineral-preparations-290,13"
+368,SSRIs & related anti-depressant drugs,"ssris-related-anti-depressant-drugs-165,6"
+369,Statins,"statins-136,5"
+370,Stimulant purgatives,"stimulant-purgatives-399,1"
+371,Stimulation of Cartilage formation,"stimulation-of-cartilage-formation-276,3"
+372,Stimulator of soluble guanylate cyclase,"stimulator-of-soluble-guanylate-cyclase-661,1"
+373,Stool softener,"stool-softener-400,1"
+374,Sulfonylureas,"sulfonylureas-581,4"
+375,Sulphonamides & Trimethoprim,"sulphonamides-trimethoprim-73,1"
+376,Sunblock Preparation,"sunblock-preparation-235,7"
+377,Supplements & adjuvant therapy,"supplements-adjuvant-therapy-560,4"
+378,Supportive Care Therapy,"supportive-care-therapy-551,2"
+379,Synthetic analogue of ADH,"synthetic-analogue-of-adh-656,1"
+380,Systemic Urinary Anti- infective,"systemic-urinary-anti-infective-436,3"
+381,Targeted Cancer Therapy,"targeted-cancer-therapy-552,18"
+382,Tetracycline group of drugs,"tetracycline-group-of-drugs-74,6"
+383,Theophylline & related drugs,"theophylline-related-drugs-485,2"
+384,Thiazide diuretics & related drugs,"thiazide-diuretics-related-drugs-123,4"
+385,Thiazolidinedione Group,"thiazolidinedione-group-582,1"
+386,Third generation Cephalosporins,"third-generation-cephalosporins-75,10"
+387,Thyroid drugs & hormone,"thyroid-drugs-hormone-607,4"
+388,Topical Analgesics,"topical-analgesics-208,9"
+389,Topical antibiotic & retinoid preparations,"topical-antibiotic-retinoid-preparations-226,1"
+390,Topical Antibiotic preparations,"topical-antibiotic-preparations-242,10"
+391,Topical antibiotics for Acne,"topical-antibiotics-for-acne-227,2"
+392,Topical Antifungal preparations,"topical-antifungal-preparations-243,19"
+393,Topical Antihistamines,"topical-antihistamines-246,1"
+394,Topical anti-inflammatory preparations,"topical-anti-inflammatory-preparations-471,9"
+395,Topical Antiviral preparations,"topical-antiviral-preparations-244,1"
+396,Topical Local Anesthetics,"topical-local-anesthetics-247,3"
+397,Topical retinoid and related preparations,"topical-retinoid-and-related-preparations-214,7"
+398,Topical salicylic preparation,"topical-salicylic-preparation-234,1"
+399,Topical urea preparations,"topical-urea-preparations-229,2"
+400,Topical Vitamin D & related preparations,"topical-vitamin-d-related-preparations-215,1"
+401,Triamcinolone & Combined preparations,"triamcinolone-combined-preparations-255,4"
+402,Tricyclic & related anti-depressant drugs,"tricyclic-related-anti-depressant-drugs-167,5"
+403,Tricyclic Anti-depressant,"tricyclic-anti-depressant-190,5"
+404,Trophic Hormones & Related Synthetic Drugs,"trophic-hormones-related-synthetic-drugs-617,3"
+405,Tyrosine Kinase Inhibitor,"tyrosine-kinase-inhibitor-639,7"
+406,Ulcer protective,"ulcer-protective-543,0"
+407,Ulcerative Colitis,"ulcerative-colitis-416,2"
+408,Urinary Alkalinizing Agent,"urinary-alkalinizing-agent-437,2"
+409,Vaccines; Anti-sera & Immunoglobulin,"vaccines-anti-sera-immunoglobulin-27,36"
+410,Vaso Protective,"vaso-protective-633,1"
+411,Vasoconstrictor/Venotonic,"vasoconstrictorvenotonic-124,2"
+412,Vasodilator antihypertensive drugs,"vasodilator-antihypertensive-drugs-508,1"
+413,Vitamin in bone formation,"vitamin-in-bone-formation-274,3"
+414,Vitamin-A preparations,"vitamin-a-preparations-296,1"
+415,Vitamin-B preparations,"vitamin-b-preparations-297,7"
+416,Vitamin-C Preparations,"vitamin-c-preparations-298,1"
+417,Vitamin-D preparations,"vitamin-d-preparations-299,3"
+418,Vitamin-E Preparations,"vitamin-e-preparations-300,1"
+419,Vitamin-K Preparations,"vitamin-k-preparations-301,2"
+420,Water purifying agent,"water-purifying-agent-406,2"
+421,Zinc & Combined preparations,"zinc-combined-preparations-216,0"
+422,",",
+423,",Complicated skin and skin structure infections",
+424,",Diarrhoea",
+425,",Endocrine Disorders",
+426,",Gastrointestinal disorders",
+427,",Infections",
+428,",Irritable bowel syndrome (IBS)",
+429,",Mild to moderate dementia in Alzheimerâ€™s disease",
+430,",Stomach upset",
+431,",Susceptible infections",
+432,",Upper Gl bloating",
+433,"4-Quinolone preparations,",
+434,"4-Quinolone preparations,Acute bacterial sinusitis",
+435,"4-Quinolone preparations,Corneal ulcer",
+436,"4-Quinolone preparations,Pneumonia",
+437,"4-Quinolone preparations,Skin and skin sructure infections",
+438,"4-Quinolone preparations,Travellerâ€™s diarrhea",
+439,"4-Quinolone preparations,Upper and lower respiratory tract infections",
+440,"4-Quinolone preparations,Urinary tract infection",
+441,"5-HT Agonists,Cluster headache",
+442,"5-HT Agonists,Leg cramps",
+443,"5-HT Agonists,Migraine",
+444,"5-HT Agonists,Migraine headache",
+445,"5-HT Agonists,Migraines",
+446,"Acne treatment preparations,Acne vulgaris",
+447,"Acne treatment preparations,Rosacea",
+448,"Acne treatment preparations,Teeth whitening",
+449,"Adjunct anti-epileptic drugs,",
+450,"Adjunct anti-epileptic drugs,Cortical myoclonus",
+451,"Adjunct anti-epileptic drugs,Partial seizures",
+452,"Adjunct anti-epileptic drugs,Seizures",
+453,"Adjunct anti-epileptic drugs,Tonic-clonic status epilepticus",
+454,"Adjunct anti-epileptic drugs,Trigeminal neuralgia",
+455,"Aldose reductase inhibitor,Neuropathy",
+456,"Alpha adrenoceptor blocking drugs,Hypertension",
+457,"Alpha adrenoceptor blocking drugs,Hypotensive anaesthesia",
+458,"Alpha adrenoceptor blocking drugs,Myocardial infarction",
+459,"Alpha adrenoceptor blocking drugs,Severe hypertension",
+460,"Alpha and Beta-adrenergic agonist,Sepsis",
+461,"Alpha-Glucosidase inhibitor,Type 2 DM",
+462,"Aminoglycosides,Cystic fibrosis",
+463,"Aminoglycosides,Tuberculosis",
+464,"Aminoglycosides,Urinary tract infection",
+465,"Aminosalicylates,Ulcerative colitis",
+466,"Amoebicides,Intestinal amoebiasis",
+467,"Amoebicides,Trichomoniasis",
+468,"Amoebicides,Vaginal trichomoniasis",
+469,"Angiotensin-converting enzyme (ACE) inhibitors,Hypertension",
+470,"Angiotensin-converting enzyme (ACE) inhibitors,Myocardial infarction",
+471,"Angiotensin-converting enzyme (ACE) inhibitors,Thrombotic cardiovascular (CV) events",
+472,"Angiotensin-ll receptor blocker,Hypertension",
+473,"Angiotensin-ll receptor blocker,Post myocardial infarction",
+474,"Angiotensin-ll receptor blocker,Stroke",
+475,"Antacid with laxative action,Constipation",
+476,"Antacid with laxative action,Osmotic laxative",
+477,"Antacid with laxative action,Peptic ulcer disease",
+478,"Antacids,",
+479,"Antacids,Peptic ulcer disease",
+480,"Antacids,Upper Gl bloating",
+481,"Anthelmintic,",
+482,"Anthelmintic,Helminthiasis",
+483,"Anthelmintic,Worm infections",
+484,"Anti adrenergic agent (Beta blockers),Hypertension",
+485,"Anti adrenergic agent (Beta blockers),Supraventricular and ventricular arrhythmias",
+486,"Anti adrenergic agent (Beta blockers),Tachycardia",
+487,"Anti H. pylori drugs,Gastric ulcer",
+488,"Anti H. pylori drugs,H. pylori infection",
+489,"Anti neoplastic preparations,Follicular lymphoma",
+490,"Anti neoplastic preparations,Metastatic breast carcinoma",
+491,"Anti neoplastic preparations,Warts",
+492,"Anti vertigo drugs,Vertigo",
+493,"Anti vertigo drugs,Vomiting",
+494,"Anti-Alzheimer drugs,Alzheimerâ€™s disease",
+495,"Anti-anginal & lipid lowering drugs,Stroke",
+496,"Anticavity Mouthwash,Dental caries",
+497,"Anticholinergic bronchodilators,Emphysema",
+498,"Anticholinergic bronchodilators,Severe bronchospasm",
+499,"Anticholinergics (antimuscarinics)/ Anti-spasmodics,Cerebral palsy",
+500,"Anticholinergics (antimuscarinics)/ Anti-spasmodics,Irritable bowel syndrome (IBS)",
+501,"Anticholinergics (antimuscarinics)/ Anti-spasmodics,Pancreatitis",
+502,"Anticholinergics (antimuscarinics)/ Anti-spasmodics,Peptic ulcer disease",
+503,"Anticholinergics (antimuscarinics)/ Anti-spasmodics,Reverse residual neuromuscular blockade",
+504,"Anticholinergics (antimuscarinics)/ Anti-spasmodics,Spasm",
+505,"Anticholinergics (antimuscarinics)/ Anti-spasmodics,Urinary frequency and urgency",
+506,"Anticholinergics (antimuscarinics)/ Anti-spasmodics,Visceral spasms",
+507,"Anticholinergics,Mydriasis",
+508,"Anticholinergics,Paralytic ileus and post-operative urinary retention",
+509,"Anticholinergics,Spasm",
+510,"Anticholinergics,Spastic or irritable colon",
+511,"Anticholinergics,Tetanus",
+512,"Anticholinergics,Visceral muscle spasm",
+513,"Anti-cholinesterases,Reversal of neuromuscular blockade",
+514,"Anti-diarrhoeal Antimicrobial drugs,Urinary tract infection",
+515,"Anti-diarrhoeal Antiprotozoal,Giardiasis",
+516,"Anti-diarrhoeal,Diarrhoea",
+517,"Anti-diarrhoeal,Ulcerative colitis",
+518,"Antidote preparations,",
+519,"Antidote preparations,Cyanide poisoning",
+520,"Antidote preparations,Heparin overdosage",
+521,"Antidote preparations,Iron overload",
+522,"Antidote preparations,Opioid dependence",
+523,"Antidote preparations,Organophosphorous poisoning",
+524,"Antidote preparations,Pernicious anemia",
+525,"Antidote preparations,Poisoning due to foods; heavy meals & drugs",
+526,"Antidote preparations,Tuberculosis",
+527,"Antidote preparations,Urothelial toxicity",
+528,"Anti-dyspeptic/Carminatives,Upper Gl bloating",
+529,"Anti-emetic drugs,Motion sickness",
+530,"Anti-emetic drugs,Nausea and vomiting",
+531,"Anti-emetic drugs,Post-operative nausea and vomiting",
+532,"Anti-emetic drugs,Pregnancy-associated nausea and vomiting",
+533,"Anti-emetic drugs,Vertigo",
+534,"Anti-emetic drugs,Vomiting",
+535,"Anti-fibrinolytic drugs,Hemophilia",
+536,"Anti-fibrinolytic drugs,Secondary hemorrhage",
+537,"Anti-fibrinolytic drugs,Traumatic hyphema",
+538,"Anti-fibrinolytic drugs,Uterine bleeding",
+539,"Anti-fungal or anti-bacterial ear drops,Fungal eye infections",
+540,"Anti-fungal or anti-bacterial ear drops,Fungal infections",
+541,"Anti-gallstones drugs: Bile Acids,Primary biliary cirrhosis",
+542,"Antihaemophilic factor,Hemophilia",
+543,"Anti-histamine & decongestant,Sneezing",
+544,"Anti-histamine Preparations,Conjunctivitis",
+545,"Antihistamines anti-allergies & hypo-sensitisation,COPD",
+546,"Antihistamines anti-allergies & hypo-sensitisation,Nasal polyps",
+547,"Anti-hypertensive,Hypertension",
+548,"Anti-hypertensive,Lower the blood pressure",
+549,"Anti-hypertensive,Pulmonary arterial hypertension",
+550,"Anti-hypertensive,Systemic sclerosis",
+551,"Anti-infective & Anesthetic combined preparations,Minor burns",
+552,"Anti-malarial drugs,Chloroquine-resistant falciparum malaria",
+553,"Anti-malarial drugs,Falciparum malaria",
+554,"Anti-malarial drugs,Malaria",
+555,"Anti-malarial drugs,Nocturnal leg cramps",
+556,"Anti-malarial drugs,Pneumocystis jiroveci pneumonia",
+557,"Anti-malarial drugs,Schistosomiasis",
+558,"Anti-malarial drugs,Systemic lupus erythematosus (SLE)",
+559,"Anti-malarial drugs,Toxoplasmosis",
+560,"Anti-manic drugs,Unipolar and bipolar depression",
+561,"Anti-oxidant Multivitamin Multimineral preparations,Spermatogenesis induction",
+562,"Anti-oxidant Multivitamin Multimineral preparations,Vitamin or mineral deficiency",
+563,"Anti-oxidant Multivitamin preparations,Vitamin C deficiency",
+564,"Anti-oxidant Multivitamin preparations,Vitamin deficiency",
+565,"Antiparkinson drugs,Hyperprolactinemia",
+566,"Antiparkinson drugs,Parkinsonâ€™s disease",
+567,"Antiparkinson drugs,Parkinsonism",
+568,"Antiparkinson drugs,Protects from Parkinson's disease",
+569,"Antiparkinson drugs,Restless leg syndrome",
+570,"Antiparkinson drugs,Sialorrhea",
+571,"Antiparkinson drugs,Tourette syndrome",
+572,"Anti-platelet drugs,Transient ischemic attack",
+573,"Anti-platelet drugs,Unstable angina",
+574,"Anti-platelet drugs,Venous thromboembolism",
+575,"Anti-platelet drugs,Venous thrombosis",
+576,"Anti-platelet drugs,With percutaneous coronary intervention or coronary artery bypass graft",
+577,"Anti-platelet drugs,Yellow fever infection",
+578,"Anti-thyroid drugs,Hyperthyroidism",
+579,"Anti-thyroid drugs,Thyrotoxicosis",
+580,"Anti-Tubercular Antibiotics,Tuberculosis",
+581,"Anti-Tubercular Chemotherapeutics,Tuberculosis",
+582,"Anti-viral drugs,Cytomegalovirus (CMV) retinitis",
+583,"Anti-viral drugs,HIV infection",
+584,"Anti-viral drugs,Influenza",
+585,"Anti-viral drugs,Suspected or confirmed COVID-19",
+586,"Appetite suppressant drugs/Anti-obesity drugs,Obesity",
+587,"Atypical anti-depressant drugs,Major depressive disorder",
+588,"Atypical anti-depressant drugs,Migraine",
+589,"Atypical anti-depressant drugs,Seizures",
+590,"Atypical anti-depressant drugs,Smoking cessation",
+591,"Atypical neuroleptic drugs,Moderate to severe tardive dyskinesia",
+592,"Atypical neuroleptic drugs,Post-operative nausea and vomiting",
+593,"Atypical neuroleptic drugs,Schizoaffective Disorder",
+594,"Atypical neuroleptic drugs,Schizophrenia",
+595,"Atypical neuroleptic drugs,Severe anxiety disorders",
+596,"Atypical neuroleptic drugs,Unipolar and bipolar depression",
+597,"Aural Anti-bacterial preparations,Bacterial ear infections",
+598,"Aural Anti-bacterial preparations,Otic infections",
+599,"Aural Anti-bacterial preparations,Superficial ophthalmic infections",
+600,"Aural Anti-bacterial preparations,Uncomplicated cystitis",
+601,"Aural Anti-bacterial preparations,Urinary tract infection",
+602,"Aural Anti-fungal preparations,Fungal infections",
+603,"Aural Anti-fungal preparations,Fungal infections of the mouth Throat and gut",
+604,"Aural Anti-fungal preparations,Invasive aspergillosis",
+605,"Aural steroid & antibiotic combined preparations,Inflammation of the external ear",
+606,"Aural steroid & antibiotic combined preparations,Steroid-responsive inflammatory ocular conditions",
+607,"Aural steroid & antibiotic combined preparations,Systemic lupus erythematosus (SLE)",
+608,"Benzodiazepine antagonist,Insomnia and sleep disturbances",
+609,"Benzodiazepine antagonist,Schizophrenia",
+610,"Benzodiazepine hypnotics,",
+611,"Benzodiazepine hypnotics,Insomnia and sleep disturbances",
+612,"Benzodiazepine hypnotics,Status epilepticus",
+613,"Benzodiazepine hypnotics,Tension",
+614,"Benzodiazepine sedatives,Panic attack",
+615,"Benzodiazepine sedatives,Vestibular neuritis",
+616,"Benzoyl peroxide; Azelaic acid & other preparations,Acne vulgaris",
+617,"Benzylpenicillin & Phenoxymethyl penicillin,Syphilis",
+618,"Benzylpenicillin & Phenoxymethyl penicillin,Vincentâ€™s infection",
+619,"Beta-adrenoceptor blocking drugs,Hypertension",
+620,"Beta-adrenoceptor blocking drugs,Tachycardia",
+621,"Beta-adrenoceptor blocking drugs,Tuberculosis",
+622,"Beta-blockers,Lower the blood pressure",
+623,"Betamethasone & Combined preparations,Scalp psoriasis",
+624,"Betamethasone & Combined preparations,Seborrhoeic dermatitis",
+625,"Betamethasone & Combined preparations,Tinea corporis (ringworm)",
+626,"Betamethasone & Combined preparations,Urticaria",
+627,"Biguanides,Type 2 DM",
+628,"Bisphosphonate preparations,Hypercalcaemia of malignancy",
+629,"Bisphosphonate preparations,Osteoporosis",
+630,"Bisphosphonate preparations,Post-menopausal osteoporosis",
+631,"Bleaching and Disinfectants,Disinfection",
+632,"Bleaching and Disinfectants,Preoperative hand disinfection",
+633,"Bleaching and Disinfectants,Prophylaxis of omphalitis",
+634,"Bleaching and Disinfectants,Topical antiseptic",
+635,"Bleaching and Disinfectants,Wound and burn dressing",
+636,"BPH/ Urinary retention/ Urinary incontinence,Benign prostatic hyperplasia (BPH)",
+637,"BPH/ Urinary retention/ Urinary incontinence,Supports normal prostate function",
+638,"BPH/ Urinary retention/ Urinary incontinence,Urinary frequency and urgency",
+639,"BPH/ Urinary retention/ Urinary incontinence,Urinary incontinence",
+640,"Broad spectrum penicillins,Severe or recurrent respiratory tract infections",
+641,"Broad spectrum penicillins,Skin and skin sructure infections",
+642,"Bronchodilator,Emphysema",
+643,"Bronchodilator,Severe bronchospasm",
+644,"Bronchodilator,Status asthmaticus",
+645,"Bulk-forming laxatives,Constipation",
+646,"Bulk-forming laxatives,Hypercholesterolaemia",
+647,"Bulk-forming laxatives,Piles",
+648,"Bulk-forming laxatives,Ulcerative colitis",
+649,"Calcium Regulator,Hyperkalemia",
+650,"Calcium Regulator,Secondary hyperparathyroidism",
+651,"Calcium-channel blockers,Hypertension",
+652,"Calcium-channel blockers,Mild to moderate hypertension",
+653,"Calcium-channel blockers,Stroke",
+654,"Calcium-channel blockers,Supraventricular tachycardia",
+655,"Calcium-channel blockers,Tachycardia",
+656,"Carbonic anhydrase inhibitor,Tumor lysis syndrome",
+657,"Carboxylic acids and derivatives,Iron overload",
+658,"Central Depolarizing muscle relaxants,Spasticity and muscle spasms",
+659,"Centrally acting antihypertensive drugs (central sympatholytic),Hypertension",
+660,"Centrally acting antihypertensive drugs (central sympatholytic),Social anxiety disorder",
+661,"Centrally acting Skeletal Muscle Relaxants,Musculoskeletal pain",
+662,"Centrally acting Skeletal Muscle Relaxants,Rigidity",
+663,"Centrally acting Skeletal Muscle Relaxants,Spasticity",
+664,"Centrally acting Skeletal Muscle Relaxants,Spinal automatism and discopathy",
+665,"Centrally acting Skeletal Muscle Relaxants,Stroke",
+666,"Centrally acting Skeletal Muscle Relaxants,Trigeminal neuralgia",
+667,"Cerebral vasodilator & Neurosensory oxygenator drugs,Ischaemic events",
+668,"Cerebral vasodilator & Neurosensory oxygenator drugs,Vestibular and visual disorders of ischaemic aetiology",
+669,"Cerumenolytic,Removal of earwax",
+670,"Chelating complex,Peptic ulcer disease",
+671,"Chlorhexidine & Chloroxylenol preparations,Preoperative hand disinfection",
+672,"Chlorhexidine & Chloroxylenol preparations,Sunburn",
+673,"Chlorhexidine & Chloroxylenol preparations,Tinea corporis (ringworm)",
+674,"Chlorhexidine & Chloroxylenol preparations,Wounds",
+675,"Cholagogues; Cholelitholytics & Hepatic Protectors,",
+676,"Cholagogues; Cholelitholytics & Hepatic Protectors,Jaundice",
+677,"Clobetasol / Clobetasone & Combined Preparations,Seborrhoeic dermatitis",
+678,"Clobetasol / Clobetasone & Combined Preparations,Severe inflammatory skin disorders",
+679,"Clobetasol / Clobetasone & Combined Preparations,Vaginitis",
+680,"Clobetasol / Clobetasone & Combined Preparations,Warts",
+681,"CNS stimulant drugs,Hyperactivity disorders",
+682,"CNS stimulant drugs,Narcolepsy",
+683,"CNS stimulant drugs,Parkinsonâ€™s disease",
+684,"CNS stimulant drugs,Shift work disorder (SWD)",
+685,"Coal-tar preparations,Seborrhea",
+686,"Coal-tar preparations,Seborrhoeic dermatitis",
+687,"Combination Insulin,Type 1 DM",
+688,"Combination Oral hypoglycemic preparations,Hypoglycemia",
+689,"Combination Oral hypoglycemic preparations,Type 2 DM",
+690,"Combined anti- Tubercular Preparations,Tuberculosis",
+691,"Combined antihypertensive preparations,Essential hypertension",
+692,"Combined antihypertensive preparations,Hypertension",
+693,"Combined antihypertensive preparations,Ischaemic heart disease",
+694,"Combined antihypertensive preparations,Lower the blood pressure",
+695,"Combined antihypertensive preparations,Myocardial infarction",
+696,"Combined antihypertensive preparations,Oedema",
+697,"Combined antihypertensive preparations,Refractory angina pectoris where nitrate therapy has failed",
+698,"Combined antihypertensive preparations,Stroke",
+699,"Combined anxiolytics & anti-depressant drugs,Gastric problems",
+700,"Combined anxiolytics & anti-depressant drugs,Psychosis",
+701,"Combined anxiolytics & anti-depressant drugs,Tension",
+702,"Combined bronchodilators,",
+703,"Combined bronchodilators,COPD",
+704,"Combined bronchodilators,Severe bronchospasm",
+705,"Combined cough expectorants,Dry cough",
+706,"Combined cough expectorants,Productive cough",
+707,"Combined cough expectorants,Sneezing",
+708,"Combined cough expectorants,Sore throat",
+709,"Combined cough suppressants,Non-productive cough",
+710,"Combined cough suppressants,Sneezing",
+711,"Combined cough suppressants,Sore throat",
+712,"Combined preparations,Warts",
+713,"Combined preparations: Inhibiting bone resorption,Post-menopausal osteoporosis",
+714,"Compound steroidal preparations,Pruritus ani",
+715,"Contrast medium for diagnostic procedures,Intravenous use in MRI to visualize lesions with abnormal vascularity in the brain; spine and associated tissues",
+716,"Contrast medium for diagnostic procedures,Peripheral venography",
+717,"Contrast medium for diagnostic procedures,Radiographic contrast medium for diagnostic procedures",
+718,"Contrast medium for diagnostic procedures,X-ray imaging",
+719,"Corticosteroid,Asthma",
+720,"Corticosteroid,Ocular infections",
+721,"Corticosteroid,Perennial or seasonal allergic rhinitis",
+722,"Corticosteroid,Premenstrual syndrome",
+723,"Corticosteroid,Psoriasis",
+724,"Corticosteroid,Rheumatoid arthritis",
+725,"Corticosteroid,Salt losing adrenogenital syndrome",
+726,"Corticosteroid,Severe erythema multiforme (Stevens-Johnson syndrome)",
+727,"Corticosteroid,Ulcerative colitis",
+728,"Cough expectorants & mucolytics,Bronchitis",
+729,"Cough expectorants & mucolytics,Chronic obstructive pulmonary disease (COPD)",
+730,"Cough expectorants & mucolytics,Mucolytic",
+731,"Cough expectorants & mucolytics,Sore throat",
+732,"Cough suppressant,Dry cough",
+733,"Cough suppressant,Non-productive cough",
+734,"Cough suppressant,Nonproductive coughs",
+735,"Cough suppressant,Whooping cough",
+736,"Cromoglycate & related drugs,Asthma prophylaxis",
+737,"Crystal violet/ Gentian violet preparations,Topical antiseptic",
+738,"Cytotoxic Chemotherapy,Carcinoma",
+739,"Cytotoxic Chemotherapy,Carcinoma of the colon or rectum",
+740,"Cytotoxic Chemotherapy,Chronic lymphocytic leukemia",
+741,"Cytotoxic Chemotherapy,Colorectal cancer",
+742,"Cytotoxic Chemotherapy,Leukemia",
+743,"Cytotoxic Chemotherapy,Metastatic melanoma",
+744,"Cytotoxic Chemotherapy,Metastatic non-small cell lung cancer",
+745,"Cytotoxic Chemotherapy,Metastatic prostate cancer",
+746,"Cytotoxic Chemotherapy,Non-Hodgkin lymphoma",
+747,"Cytotoxic Chemotherapy,Non-small cell lung cancer",
+748,"Cytotoxic Chemotherapy,Oesophageal cancer",
+749,"Cytotoxic Chemotherapy,Ovarian cancer",
+750,"Cytotoxic Chemotherapy,Pancreatic cancer",
+751,"Cytotoxic Chemotherapy,Polycythaemia vera",
+752,"Cytotoxic Chemotherapy,Prostate carcinoma",
+753,"Cytotoxic Chemotherapy,Sickle-cell disease",
+754,"Cytotoxic Chemotherapy,Small cell lung cancer",
+755,"Cytotoxic Chemotherapy,Stomach carcinoma",
+756,"Cytotoxic Chemotherapy,Testicular cancer",
+757,"Cytotoxic Chemotherapy,Uncomplicated pneumococcal pneumonia",
+758,"Cytotoxic Chemotherapy,Urothelial bladder carcinoma",
+759,"Cytotoxic Chemotherapy,Vasculitis",
+760,"Cytotoxic Chemotherapy,Waldenstrom's macroglobulinaemia",
+761,"Cytotoxic Chemotherapy,Wilm's tumour",
+762,"Cytotoxic immunosuppressants,Organ transplantation",
+763,"Cytotoxic immunosuppressants,Rheumatoid arthritis",
+764,"Cytotoxic immunosuppressants,Vasculitis",
+765,"Decongestant,Nasal congestion",
+766,"Depolarizing muscle relaxants,Muscle relaxant",
+767,"Digestive Enzyme,Liver disease",
+768,"Digestive Enzyme,Pancreatic insufficiency",
+769,"Digestive Enzyme,Pancreatitis",
+770,"Dipeptidyl Peptidase-4 (DPP-4) inhibitor,Type 2 DM",
+771,"Disease-modifying antirheumatic drugs (DMARDs),Psoriatic arthritis",
+772,"Dithranol & combined preparations,Psoriasis",
+773,"Dressing products for wounds/burns/ulcers,Wounds",
+774,"Drugs acting on the Uterus,Postpartum haemorrhage",
+775,"Drugs acting on the Uterus,Premature labour",
+776,"Drugs acting on the Uterus,Uterine atony",
+777,"Drugs acting on the Uterus,Uterine bleeding",
+778,"Drugs acting on the Uterus,Uterine fibroids",
+779,"Drugs acting on the Uterus,Uterine hemorrhage",
+780,"Drugs affecting (inhibiting) gonadotrophin,In vitro fertilization",
+781,"Drugs affecting (inhibiting) gonadotrophin,Prostate carcinoma",
+782,"Drugs affecting (inhibiting) gonadotrophin,Uterine fibroids",
+783,"Drugs affecting exocrine secretions,Sjogrenâ€™s syndrome",
+784,"Drugs affecting exocrine secretions,Suspected glaucoma",
+785,"Drugs affecting the immune response,Atopic dermatitis",
+786,"Drugs affecting the immune response,Prophylaxis of acute renal graft rejection",
+787,"Drugs affecting the immune response,Vitiligo",
+788,"Drugs for Age-Related Macular Degeneration (AMD),Neovascular age-related macular degeneration",
+789,"Drugs for Age-Related Macular Degeneration (AMD),Wet age-related macular degeneration",
+790,"Drugs for Dementia,Dementia",
+791,"Drugs for Dementia,Mild to moderate dementia in Alzheimerâ€™s disease",
+792,"Drugs for Dry eyes,",
+793,"Drugs for Dry eyes,Dry eye",
+794,"Drugs for Dry eyes,Eye irritation",
+795,"Drugs for Dry eyes,Irritation and discomfort of the eye",
+796,"Drugs for Dry eyes,Lubrication",
+797,"Drugs for Dry eyes,Scleritis",
+798,"Drugs for Dry eyes,Surgical aid in the anterior segment",
+799,"Drugs for Dry eyes,Unstable tear film",
+800,"Drugs for Dry eyes,Watery eye",
+801,"Drugs for Erectile Dysfunction,Erectile dysfunction",
+802,"Drugs for Erectile Dysfunction,Premature ejaculation",
+803,"Drugs for Erectile Dysfunction,Pulmonary arterial hypertension",
+804,"Drugs for Growth failure,Growth hormone deficiency",
+805,"Drugs for Haemolytic Hypoplastic & Renal Anemia,Anemia; vitamin & mineral deficiency",
+806,"Drugs for Haemolytic Hypoplastic & Renal Anemia,Chronic renal failure",
+807,"Drugs for Haemolytic Hypoplastic & Renal Anemia,Increase yield of autologous blood",
+808,"Drugs for Haemolytic Hypoplastic & Renal Anemia,Kidney disease",
+809,"Drugs for Haemolytic Hypoplastic & Renal Anemia,To reduce the need for allogenic blood tranfusion",
+810,"Drugs for HIV / Anti-retroviral drugs,HIV infection",
+811,"Drugs for Infertility,Infertility",
+812,"Drugs for Infertility,Ovulation induction",
+813,"Drugs for Infertility,Polycystic ovarian syndrome",
+814,"Drugs for Infertility,Spermatogenesis induction",
+815,"Drugs for Infertility,Stimulate ovulation",
+816,"Drugs for Irritable Bowel Syndrome,Irritable bowel syndrome and constipation",
+817,"Drugs for Irritable Bowel Syndrome,Rheumatoid arthritis",
+818,"Drugs for lens opacification,Lens opacification",
+819,"Drugs for Megaloblastic Anemia,Nutritional supplement",
+820,"Drugs for Megaloblastic Anemia,Peripheral neuropathy",
+821,"Drugs for menopausal symptoms: Hormone replacement therapy,Hormone replacement therapy",
+822,"Drugs for menopausal symptoms: Hormone replacement therapy,Vaginal dryness",
+823,"Drugs for miotics and glaucoma,",
+824,"Drugs for miotics and glaucoma,Open angle glaucoma",
+825,"Drugs for muscular energy metabolism,Male infertility",
+826,"Drugs for Osteoarthritis,Osteoarthritis (degenerative arthritis)",
+827,"Drugs for Osteoarthritis,Pain and inflammation associated with musculoskeletal and joint disorders",
+828,"Drugs for Osteoarthritis,Rheumatic disorders",
+829,"Drugs for Osteoarthritis,Rheumatoid arthritis",
+830,"Drugs for Osteoarthritis,Spondylitis",
+831,"Drugs for Osteoarthritis,Surgical aid in the anterior segment",
+832,"Drugs for Osteoarthritis,Systemic lupus erythematosus (SLE)",
+833,"Drugs for Osteoarthritis,Tendonitis",
+834,"Drugs for Osteoarthritis,Yellow fever infection",
+835,"Drugs for reduction of serum phosphorus in patients with ESRD,End-stage renal failure",
+836,"Drugs for reduction of serum phosphorus in patients with ESRD,Hyperphosphataemia",
+837,"Drugs for subcutaneous and mycoses,Candida albicans",
+838,"Drugs for subcutaneous and mycoses,CutaneousÂor mucocutaneous mycotic infections",
+839,"Drugs for subcutaneous and mycoses,Seborrhoeic dermatitis",
+840,"Drugs for subcutaneous and mycoses,Superficial dermatophyte infections and pityriasis versicolor",
+841,"Drugs for subcutaneous and mycoses,Tinea (pityriasis) versicolor",
+842,"Drugs for subcutaneous and mycoses,Tinea corporis (ringworm)",
+843,"Drugs for subcutaneous and mycoses,Vaginal candidiasis or thrush",
+844,"Drugs for subcutaneous and mycoses,Vaginitis",
+845,"Drugs used for Rheumatoid Arthritis,Rheumatoid arthritis",
+846,"Drugs used for Rheumatoid Arthritis,Soft tissue inflammation",
+847,"Drugs used for Rheumatoid Arthritis,Ulcerative colitis",
+848,"Drugs used in Ano-rectal region,Chronic anal fissure",
+849,"Drugs used in Ano-rectal region,Soreness and discomfort due to hemorrhoids",
+850,"Drugs used in chronic kidney dialysis,Deficient protein metabolism",
+851,"Drugs used in chronic kidney dialysis,End-stage renal failure",
+852,"Drugs used in diaper rash,Pressure sores",
+853,"Drugs used in Gout,Hyperuricaemia",
+854,"Drugs used in Gout,Uric acid nephropathy",
+855,"Drugs used in Gout,Vasculitis",
+856,"Drugs used in meniere's diseases,Vertigo",
+857,"Drugs used in Myasthenia Gravis,Paralytic ileus",
+858,"Drugs used in substance dependence,Smoking cessation aid",
+859,"Drugs used in tremor; tics & related disorder,Unipolar and bipolar depression",
+860,"Drugs used in Vaginal and Vulval condition,Vaginal candidiasis or thrush",
+861,"Drugs used in Vaginal and Vulval condition,Vaginal dryness",
+862,"Drugs used in Vaginal and Vulval condition,Vaginal leucorrhoea",
+863,"Drugs used in Vaginal and Vulval condition,Vulvovaginal candidiasis",
+864,"Dyslipidaemic Agents,Obesity",
+865,"Echinocandins,Deep tissue candida infections",
+866,"Electrolytes preparations,",
+867,"Electrolytes preparations,Ulcerative colitis",
+868,"Electrolytes preparations,Vomiting",
+869,"Emergency Contraceptive Pill,Oral contraceptives",
+870,"Emollients & combined preparations,Dry skin",
+871,"Emollients & combined preparations,Ophthalmic surgery",
+872,"Emollients & combined preparations,Psoriasis",
+873,"Emollients & combined preparations,Repairs; restores & protects dry skin & sensitive skin conditions",
+874,"Emollients & combined preparations,Skin care",
+875,"Emollients & combined preparations,Skin moisturization",
+876,"Emollients & combined preparations,Skin rash",
+877,"Enema & bowel cleansing solution,Cleansing of the colon",
+878,"Enema & bowel cleansing solution,Constipation",
+879,"Enzymes,Sprains",
+880,"Ergot Alkaloids,Acute migraine attacks",
+881,"Ezetimibe,Obesity",
+882,"Farnesoid X Receptor Agonists,Primary biliary cholangitis (PBC)",
+883,"Female Sex hormones,Contraception",
+884,"Female Sex hormones,Endometriosis",
+885,"Female Sex hormones,Male Hypogonadotropic Hypogonadism",
+886,"Female Sex hormones,Oestrogen deficiency",
+887,"Female Sex hormones,Oral contraceptives",
+888,"Female Sex hormones,Osteoporosis",
+889,"Female Sex hormones,Ovulation induction",
+890,"Female Sex hormones,Premenstrual syndrome",
+891,"Female Sex hormones,Recurrent miscarriage",
+892,"Female Sex hormones,Stimulation of follicle growth",
+893,"Female Sex hormones,Threatened abortion",
+894,"Female Sex hormones,Uterine bleeding",
+895,"Female Sex hormones,Vaginal dryness",
+896,"Female Sex hormones,Vaginitis",
+897,"Fibrates,Hypertriglyceridaemia",
+898,"Fibrinolytics (Thrombolytics),Myocardial infarction",
+899,"Fibrinolytics (Thrombolytics),Pulmonary thromboembolism",
+900,"Fibrinolytics (Thrombolytics),Stroke",
+901,"Fibrinolytics (Thrombolytics),Thromboembolism",
+902,"Fibrinolytics (Thrombolytics),Venous thrombosis",
+903,"First generation Cephalosporins,Urinary tract infection",
+904,"Fluocinolone & Combined Preparations,Asthma",
+905,"Fluocinolone & Combined Preparations,Rhinitis",
+906,"Fluocinolone & Combined Preparations,Tularaemia",
+907,"Fluticasone & combined preparations topical,Pruritic skin conditions",
+908,"Fourth generation Cephalosporins,Susceptible infections",
+909,"Fourth generation Cephalosporins,Urinary tract infection",
+910,"General (Inhalation) anesthetics,General anaesthesia",
+911,"General (Inhalation) anesthetics,Obstetric analgesia",
+912,"General (Intravenous) anesthetics,Induction of anesthesia",
+913,"General (Intravenous) anesthetics,Reduction of raised intracranial pressure",
+914,"General (Intravenous) anesthetics,Sedation",
+915,"GLP-1 receptor agonists,Type 2 DM",
+916,"Glucocorticoids,Allergic and inflammatory disorders",
+917,"Glucocorticoids,Rheumatic disorders",
+918,"Glucocorticoids,Supplement in adrenal insufficiency during minor surgery under general anaesthesia",
+919,"Glucocorticoids,Surgical aid in the anterior segment",
+920,"Glucocorticoids,Vestibular neuritis",
+921,"Glucocorticoids,Wiskott-Aldrich syndrome",
+922,"Glycopeptide,Septic arthritis",
+923,"Gonadotropin-releasing hormone (GnRH) antagonist,",
+924,"Gonadotropin-releasing hormone (GnRH) antagonist,Endometriosis",
+925,"Growth hormone antagonist,Haemorrhage",
+926,"Growth hormone antagonist,Variceal haemorrhage",
+927,"H2 receptor antagonist,Yellow fever infection",
+928,"H2 receptor antagonist,Zollinger-Ellison syndrome",
+929,"Haematopoietic Agents,Allogeneic or autologous haematopoietic progenitor cell transplantation (HPCT)",
+930,"Haematopoietic Agents,Anaemia",
+931,"Haematopoietic Agents,Neutropenia",
+932,"Haematopoietic Agents,Peripheral blood progenitor cell collection and therapy",
+933,"Haemodialysis solutions,Haemodialysis",
+934,"Haemodialysis solutions,Vomiting",
+935,"Haemostatic drugs,Idiopathic thrombocytopenic purpura",
+936,"Haemostatics,Prevention & control of bleeding in Factor VIII deficiency",
+937,"Hair Growth Inhibitor,Reduction of unwanted facial hair in women",
+938,"Hematopoietic drug,Neutropenia",
+939,"Hepatic viral infections (Hepatitis B),Chronic hepatitis B",
+940,"Hepatic viral infections (Hepatitis B),Chronic myelogenous leukaemia",
+941,"Hepatic viral infections (Hepatitis B),Hepatitis B virus",
+942,"Hepatic viral infections (Hepatitis B),Liver disease",
+943,"Hepatic viral infections (Hepatitis C),Chronic hepatitis C",
+944,"Hepatic viral infections (Hepatitis C),Direct acting antiviral agent (DAA) against the hepatitis C virus",
+945,"Herbal and Nutraceuticals,",
+946,"Herbal and Nutraceuticals,Anorexia nervosa",
+947,"Herbal and Nutraceuticals,Antioxidant",
+948,"Herbal and Nutraceuticals,Artificial sweetener",
+949,"Herbal and Nutraceuticals,Asthma",
+950,"Herbal and Nutraceuticals,Benign prostatic hyperplasia (BPH)",
+951,"Herbal and Nutraceuticals,Bleeding or blood clotting problems",
+952,"Herbal and Nutraceuticals,Cough",
+953,"Herbal and Nutraceuticals,Diabetes mellitus",
+954,"Herbal and Nutraceuticals,Diarrhoea",
+955,"Herbal and Nutraceuticals,Enuresis",
+956,"Herbal and Nutraceuticals,Epilepsy",
+957,"Herbal and Nutraceuticals,Erectile dysfunction",
+958,"Herbal and Nutraceuticals,Gastric ulcer",
+959,"Herbal and Nutraceuticals,General weakness",
+960,"Herbal and Nutraceuticals,Gonorrhoea",
+961,"Herbal and Nutraceuticals,Haemorrhoids (Piles)",
+962,"Herbal and Nutraceuticals,Hair loss",
+963,"Herbal and Nutraceuticals,Headache",
+964,"Herbal and Nutraceuticals,Healthy urinary flow",
+965,"Herbal and Nutraceuticals,Hot flushes",
+966,"Herbal and Nutraceuticals,Hyperacidity",
+967,"Herbal and Nutraceuticals,Immunodeficiency",
+968,"Herbal and Nutraceuticals,Indigestion",
+969,"Herbal and Nutraceuticals,Insomnia and sleep disturbances",
+970,"Herbal and Nutraceuticals,Intermittent claudication",
+971,"Herbal and Nutraceuticals,Iron deficiency anemia",
+972,"Herbal and Nutraceuticals,Jaundice",
+973,"Herbal and Nutraceuticals,Lactose intolerance such as bloating; flatulence; diarrhea",
+974,"Herbal and Nutraceuticals,Libido",
+975,"Herbal and Nutraceuticals,Macular Degeneration",
+976,"Herbal and Nutraceuticals,Maintain healthy skin; hair; nail; teeth; bone; eye and nervous system",
+977,"Herbal and Nutraceuticals,Malnutrition",
+978,"Herbal and Nutraceuticals,Menorrhagia",
+979,"Herbal and Nutraceuticals,Mild diarrhea",
+980,"Herbal and Nutraceuticals,Nausea",
+981,"Herbal and Nutraceuticals,Night blindness",
+982,"Herbal and Nutraceuticals,Nocturnal enuresis",
+983,"Herbal and Nutraceuticals,Obesity",
+984,"Herbal and Nutraceuticals,Oedema",
+985,"Herbal and Nutraceuticals,Osmotic laxative",
+986,"Herbal and Nutraceuticals,Osteoarthritis (degenerative arthritis)",
+987,"Herbal and Nutraceuticals,Pain",
+988,"Herbal and Nutraceuticals,Painful muscle spasm",
+989,"Herbal and Nutraceuticals,Peptic ulcer disease",
+990,"Herbal and Nutraceuticals,Piles",
+991,"Herbal and Nutraceuticals,Polycystic ovarian syndrome",
+992,"Herbal and Nutraceuticals,Premature ejaculation",
+993,"Herbal and Nutraceuticals,Premenstrual syndrome",
+994,"Herbal and Nutraceuticals,Promote the quality and quantity of milk",
+995,"Herbal and Nutraceuticals,Psoriasis",
+996,"Herbal and Nutraceuticals,Relieve pain",
+997,"Herbal and Nutraceuticals,Respiratory tract infections",
+998,"Herbal and Nutraceuticals,Restlessness",
+999,"Herbal and Nutraceuticals,Rheumatoid arthritis",
+1000,"Herbal and Nutraceuticals,Rough & defective voice",
+1001,"Herbal and Nutraceuticals,Runny nose",
+1002,"Herbal and Nutraceuticals,Scabies",
+1003,"Herbal and Nutraceuticals,Secondary amenorrhoea",
+1004,"Herbal and Nutraceuticals,Severe diarrhea",
+1005,"Herbal and Nutraceuticals,Shigellosis",
+1006,"Herbal and Nutraceuticals,Shoulder pain",
+1007,"Herbal and Nutraceuticals,Sinusitis",
+1008,"Herbal and Nutraceuticals,Sluggishness",
+1009,"Herbal and Nutraceuticals,Spasm",
+1010,"Herbal and Nutraceuticals,Spermatogenesis induction",
+1011,"Herbal and Nutraceuticals,Spondylitis",
+1012,"Herbal and Nutraceuticals,Stabilize blood sugar",
+1013,"Herbal and Nutraceuticals,Stiffness",
+1014,"Herbal and Nutraceuticals,Supports normal prostate function",
+1015,"Herbal and Nutraceuticals,Syphilis",
+1016,"Herbal and Nutraceuticals,Testosterone replacement therapy",
+1017,"Herbal and Nutraceuticals,To develop immune system",
+1018,"Herbal and Nutraceuticals,Tonsillitis",
+1019,"Herbal and Nutraceuticals,Toothache",
+1020,"Herbal and Nutraceuticals,Tuberculosis",
+1021,"Herbal and Nutraceuticals,Typhoid fever",
+1022,"Herbal and Nutraceuticals,Ulcerative colitis",
+1023,"Herbal and Nutraceuticals,Urinary tract infection",
+1024,"Herbal and Nutraceuticals,Uterine bleeding",
+1025,"Herbal and Nutraceuticals,Vaginal leucorrhoea",
+1026,"Herbal and Nutraceuticals,Venous thrombosis",
+1027,"Herbal and Nutraceuticals,Vertigo",
+1028,"Herbal and Nutraceuticals,Vitamin C deficiency",
+1029,"Herbal and Nutraceuticals,Vitiligo",
+1030,"Herbal and Nutraceuticals,Vomiting",
+1031,"Herbal and Nutraceuticals,Whooping cough",
+1032,"Herbal and Nutraceuticals,Wounds",
+1033,"Herpes simplex & Varicella-zoster virus infections,Varicella zoster (chickenpox)",
+1034,"Hormonal Chemotherapy,Breast cancer",
+1035,"Hormonal Chemotherapy,Metastatic prostate cancer",
+1036,"Hormonal Chemotherapy,Ovulation induction",
+1037,"Hormonal Chemotherapy,Prostate carcinoma",
+1038,"Hormonal Chemotherapy,Stimulate ovulation",
+1039,"Hormone in bone formation by Inhibiting bone resorption,Post-menopausal osteoporosis",
+1040,"Hormone in bone formation by stimulation,Osteoporosis",
+1041,"Hormone in bone formation by stimulation,Post-menopausal osteoporosis",
+1042,"Hormone preparations for other uses,Reduce the risk of preterm birth in women",
+1043,"Hydrocortisone & Combined preparations,Dermatophytosis",
+1044,"Hydrocortisone & Combined preparations,Herpes labialis",
+1045,"Hydrocortisone & Combined preparations,Seborrhoeic dermatitis",
+1046,"Hydrocortisone & Combined preparations,Susceptible infections",
+1047,"Hydrocortisone & Combined preparations,Sweat rash",
+1048,"Hydroquinone Preparations,Melasma",
+1049,"Hydroquinone Preparations,Senile lentigines",
+1050,"Hyperkalaemia Products,Hyperkalemia",
+1051,"Immunological Chemotherapy,Renal cell carcinoma",
+1052,"Immunomodulator,Heart disease",
+1053,"Immunosuppressant,Basal cell carcinoma",
+1054,"Immunosuppressant,Idiopathic Pulmonary Fibrosis",
+1055,"Immunosuppressant,Melanoma",
+1056,"Immunosuppressant,Receiving a kidney transplant",
+1057,"Immunosuppressant,Rheumatoid arthritis",
+1058,"Immunosuppressant,Severe erythema multiforme (Stevens-Johnson syndrome)",
+1059,"Immunosuppressant,Tuberous sclerosis",
+1060,"Immunosuppressant,Ulcerative colitis",
+1061,"Immunosuppressant,Vasculitis",
+1062,"Inhibiting bone resorption,Post-menopausal osteoporosis",
+1063,"Inhibiting bone resorption,Prostate carcinoma",
+1064,"Inotropic-sympathomimetics,Heart failure",
+1065,"Inotropic-sympathomimetics,Hypotension",
+1066,"Intracellular antibiotic,Uncomplicated UTI",
+1067,"Intravenous fluid preparations,Fluid and electrolyte imbalance",
+1068,"Intravenous fluid preparations,Hypovolemia",
+1069,"Intravenous fluid preparations,Metabolic alkalosis",
+1070,"Intravenous fluid preparations,Source of water",
+1071,"Intravenous fluid preparations,Urine alkalinisation",
+1072,"Intravenous fluid preparations,Vomiting",
+1073,"Iodine compounds (Anti-septic Preparations),Secondarily infected dermatoses",
+1074,"Iron & Vitamin Combined preparations,Iron and folic acid deficiency in pregnancy",
+1075,"Iron & Vitamin Combined preparations,Iron deficiency anemia",
+1076,"Iron & Vitamin Combined preparations,Megaloblastic anaemia",
+1077,"Iron & Vitamin Combined preparations,Pregnancy",
+1078,"Iron & Vitamin Combined preparations,Vitamin deficiency",
+1079,"Iron & Vitamin Combined preparations,Zinc & folic acid deficiency",
+1080,"Iron; Vitamin & Mineral Combined preparation,Iron; Folic Acid and zinc deficiency during pregnancy and lactation",
+1081,"Iron; Vitamin & Mineral Combined preparation,Pregnancy",
+1082,"Iron; Vitamin & Mineral Combined preparation,Vitamin deficiency",
+1083,"Iron; Vitamin & Mineral Combined preparation,Vitamin or mineral supplement",
+1084,"Iron; Vitamin & Mineral Combined preparation,Zinc & folic acid deficiency",
+1085,"Irrigation during various surgical procedures,Irrigation solution",
+1086,"Irrigation Solution used in Urological Surgery,Supports normal prostate function",
+1087,"Leishmaniacides,Visceral leishmaniasis",
+1088,"Leukotriene receptor antagonists,Chronic asthma",
+1089,"Leukotriene receptor antagonists,Rhinitis",
+1090,"Local & Surface anesthesia,",
+1091,"Local & Surface anesthesia,Dental infiltration anesthesia",
+1092,"Local & Surface anesthesia,Local anaesthesia",
+1093,"Local & Surface anesthesia,Local pain relief",
+1094,"Local & Surface anesthesia,Pain",
+1095,"Local & Surface anesthesia,Surface anaesthesia",
+1096,"Local & Surface anesthesia,Sympathetic nerve block",
+1097,"Local & Surface anesthesia,Toothache",
+1098,"Local & Surface anesthesia,Ventricular arrhythmias",
+1099,"Local Antipruritic,Pruritus",
+1100,"Local Antipruritic,Sunburn",
+1101,"Local Antipruritic,Urticaria",
+1102,"Local Antipruritic,Wounds",
+1103,"Locally acting Skeletal Muscle Relaxants,Muscle spasm",
+1104,"Locally acting Skeletal Muscle Relaxants,Sedation",
+1105,"Long Acting Insulin,Type 1 DM",
+1106,"Long acting penicillin,Uncomplicated pneumococcal pneumonia",
+1107,"Long-acting selective Î²-adrenoceptor stimulants,COPD",
+1108,"Long-acting selective Î²-adrenoceptor stimulants,Emphysema",
+1109,"Loop diuretics,Oedema",
+1110,"Loop diuretics,Tumor lysis syndrome",
+1111,"Macrolides,Bacterial infections",
+1112,"Macrolides,Bacterial vaginosis",
+1113,"Macrolides,Conjunctivitis",
+1114,"Macrolides,Susceptible infections",
+1115,"Macrolides,Tonsillitis",
+1116,"Macrolides,Toxic shock syndrome",
+1117,"Macrolides,Toxoplasmosis",
+1118,"Macrolides,Uncomplicated pneumococcal pneumonia",
+1119,"Macrolides,Urethritis",
+1120,"Macrolides,Whippleâ€™s disease",
+1121,"Male Sex hormones (Androgens),Testosterone replacement therapy",
+1122,"Mast Cell Stabiliser,Rhinitis",
+1123,"Mecillinams,Shigellosis",
+1124,"Medium Acting Insulin,Type 1 DM",
+1125,"Meglitinide Analogues,Type 2 DM",
+1126,"Membrane stabilizing agent (Sodium channel blockers),Supraventricular and ventricular arrhythmias",
+1127,"Membrane stabilizing agent (Sodium channel blockers),Ventricular tachycardia",
+1128,"Methoxsalen preparation,Vitiligo",
+1129,"Minerals in bone formation,",
+1130,"Minerals in bone formation,Calcium suppliment",
+1131,"Minerals in bone formation,Heartburn",
+1132,"Minerals in bone formation,Peripheral neuritis",
+1133,"Minerals in bone formation,Post-menopausal osteoporosis",
+1134,"Minerals in bone formation,Rickets",
+1135,"Miscellaneous prophylactic migraine preparations,Vertigo",
+1136,"Miscellaneous sedatives & hypnotics,Insomnia and sleep disturbances",
+1137,"Miscellaneous sedatives & hypnotics,Sedation",
+1138,"Miscellaneous topical agents,Acne vulgaris",
+1139,"Miscellaneous topical agents,Androgenic alopecia",
+1140,"Miscellaneous topical agents,Antioxidant",
+1141,"Miscellaneous topical agents,Contraception",
+1142,"Miscellaneous topical agents,Dental hypersensitivity",
+1143,"Miscellaneous topical agents,Dry eye",
+1144,"Miscellaneous topical agents,Hair loss",
+1145,"Miscellaneous topical agents,Head lice",
+1146,"Miscellaneous topical agents,Hyperhidrosis",
+1147,"Miscellaneous topical agents,Insect bites",
+1148,"Miscellaneous topical agents,Insect repellent",
+1149,"Miscellaneous topical agents,Intimate hygiene wash",
+1150,"Miscellaneous topical agents,Lubrication",
+1151,"Miscellaneous topical agents,Oesophagitis",
+1152,"Miscellaneous topical agents,Scaly or itchy scalps",
+1153,"Miscellaneous topical agents,Skin irritations",
+1154,"Miscellaneous topical agents,Tinea corporis (ringworm)",
+1155,"Motility Stimulants,Vomiting",
+1156,"Multi-vitamin & Multi-mineral combined preparations,General weakness",
+1157,"Multi-vitamin & Multi-mineral combined preparations,Mild diarrhea",
+1158,"Multi-vitamin & Multi-mineral combined preparations,Trauma",
+1159,"Multi-vitamin & Multi-mineral combined preparations,Vitamin deficiency",
+1160,"Mydriatic and Cycloplegic agents,Organophosphorous poisoning",
+1161,"Mydriatic and Cycloplegic agents,Uveitis",
+1162,"Nasal Anti-histamine preparations,Seasonal allergic rhinitis",
+1163,"Nasal Anti-histamine preparations,Sinusitis",
+1164,"Nasal Anti-histamine preparations,Vasomotor rhinitis",
+1165,"Nasal Decongestants & Other Nasal Preparations,Asthma",
+1166,"Nasal Decongestants & Other Nasal Preparations,Pain or swelling of the cornea",
+1167,"Nasal Decongestants & Other Nasal Preparations,Vasomotor rhinitis",
+1168,"Nasal Steroid Preparations,Perennial or seasonal allergic rhinitis",
+1169,"Nasal Steroid Preparations,Rhinitis",
+1170,"Neurodegenerative Disease Drugs / Neuromuscular Disorder Drugs,Abdominal pain",
+1171,"Nicotinic acid group,Raynaud's disease",
+1172,"Nitrates: Coronary vasodilators,Angina pectoris",
+1173,"Nitrates: Coronary vasodilators,Ischaemic heart disease",
+1174,"Nitrates: Coronary vasodilators,Severe hypertension",
+1175,"Non depolarizing muscle relaxants,General anaesthesia",
+1176,"Non depolarizing muscle relaxants,Muscle relaxant in general anaesthesia",
+1177,"Non depolarizing muscle relaxants,Muscle relaxant in general anesthesia",
+1178,"Non depolarizing muscle relaxants,Skeletal muscle relaxation",
+1179,"Non depolarizing muscle relaxants,Vomiting",
+1180,"Non opioid analgesics,Pain",
+1181,"Non opioid analgesics,Postoperative eye inflammation",
+1182,"Non opioid analgesics,Toothache",
+1183,"Non-prostanoid IP prostacyclin receptor agonist,Pulmonary arterial hypertension",
+1184,"Non-sedating antihistamines,",
+1185,"Non-sedating antihistamines,Allergic conditions",
+1186,"Non-sedating antihistamines,Urticaria",
+1187,"Non-sedating antihistamines,Watery eye",
+1188,"Non-steroidal Anti-inflammatory Drugs (NSAIDs),Mild to moderate pain",
+1189,"Non-steroidal Anti-inflammatory Drugs (NSAIDs),Mouth ulcers",
+1190,"Non-steroidal Anti-inflammatory Drugs (NSAIDs),Pain",
+1191,"Non-steroidal Anti-inflammatory Drugs (NSAIDs),Pain and inflammation associated with musculoskeletal and joint disorders",
+1192,"Non-steroidal Anti-inflammatory Drugs (NSAIDs),Primary dysmenorrhoea",
+1193,"Non-steroidal Anti-inflammatory Drugs (NSAIDs),Renal colic",
+1194,"Non-steroidal Anti-inflammatory Drugs (NSAIDs),Rheumatoid arthritis",
+1195,"Non-steroidal Anti-inflammatory Drugs (NSAIDs),Spondylitis",
+1196,"Ocular perioperative drugs,Local anaesthesia",
+1197,"Ocular perioperative drugs,Tonometry",
+1198,"Ophthalmic and Topical antibacterial products,Superficial skin infections",
+1199,"Ophthalmic Anti-allergic preparations,Conjunctivitis",
+1200,"Ophthalmic Anti-allergic preparations,Itching",
+1201,"Ophthalmic Anti-allergic preparations,Prevention of itching associated with allergic conjunctivitis",
+1202,"Ophthalmic antibacterial drugs,Bacterial ocular infections",
+1203,"Ophthalmic antibacterial drugs,Conjunctivitis",
+1204,"Ophthalmic antibacterial drugs,Diaper rash",
+1205,"Ophthalmic antibacterial drugs,Inflammation of the cornea",
+1206,"Ophthalmic antibacterial drugs,Inflammatory conditions of the palpebral and bulbar conjunctiva",
+1207,"Ophthalmic antibacterial drugs,Keratitis",
+1208,"Ophthalmic antibacterial drugs,Ocular infections",
+1209,"Ophthalmic antibacterial drugs,Otic infections",
+1210,"Ophthalmic antibacterial drugs,Otitis externa",
+1211,"Ophthalmic antibacterial drugs,Superficial bacterial infections",
+1212,"Ophthalmic antibacterial drugs,tympanoplasty",
+1213,"Ophthalmic Anti-fungal Products,Fungal corneal ulcers",
+1214,"Ophthalmic Anti-fungal Products,Fungal eye infections",
+1215,"Ophthalmic Anti-viral Products,Herpes simplex keratitis",
+1216,"Ophthalmic Anti-viral Products,Keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex viruses",
+1217,"Ophthalmic Anti-viral Products,Neonatal Conjunctivitis",
+1218,"Ophthalmic Non-Steroid Combined preparations,Red eye",
+1219,"Ophthalmic Non-Steroid drugs,Conjunctivitis",
+1220,"Ophthalmic Non-Steroid drugs,Ocular inflammation",
+1221,"Ophthalmic Non-Steroid drugs,Postoperative ocular inflammation",
+1222,"Ophthalmic Non-Steroid drugs,Rhinitis",
+1223,"Ophthalmic Non-Steroid drugs,Viral conjunctivitis",
+1224,"Ophthalmic Non-Steroid drugs,Watery eye",
+1225,"Ophthalmic steroid - antibiotic combined preparations,Ocular infections",
+1226,"Ophthalmic steroid - antibiotic combined preparations,Ocular inflammation",
+1227,"Ophthalmic steroid - antibiotic combined preparations,Pink eye",
+1228,"Ophthalmic steroid - antibiotic combined preparations,Post-herpetic keratitis",
+1229,"Ophthalmic steroid - antibiotic combined preparations,Steroid-responsive inflammatory ocular conditions",
+1230,"Ophthalmic steroid - antibiotic combined preparations,Uveitis",
+1231,"Ophthalmic Steroid preparations,",
+1232,"Ophthalmic Steroid preparations,Ocular inflammation",
+1233,"Ophthalmic Steroid preparations,Scleritis",
+1234,"Ophthalmic Steroid preparations,Steroid-responsive inflammatory ocular conditions",
+1235,"Opioid analgesics,Pain",
+1236,"Opioid analgesics,Pain associated with myocardial infarction",
+1237,"Opioid analgesics,Post-operative pain",
+1238,"Opioid analgesics,Relieve pain",
+1239,"Opioid analgesics,Renal colic",
+1240,"Oral Anti-coagulants,Stroke",
+1241,"Oral Anti-coagulants,Venous thromboembolism",
+1242,"Oral Contraceptive preparations,Oral contraceptives",
+1243,"Oral Contraceptive preparations,Premenstrual dysmorphic disorder",
+1244,"Oral electrolytes preparations,",
+1245,"Oral electrolytes preparations,Severe diarrhea",
+1246,"Oral electrolytes preparations,Sodium Chloride deficiency",
+1247,"Oral electrolytes preparations,Vomiting",
+1248,"Oral Hormonal preparations for Acne,Prostate carcinoma",
+1249,"Oral Iron preparations,Anaemia",
+1250,"Oral Iron preparations,Iron deficiency",
+1251,"Oral Iron preparations,Iron deficiency anemia",
+1252,"Oral nutritional preparations,Artificial sweetener",
+1253,"Oral nutritional preparations,Osteoporosis",
+1254,"Oral nutritional preparations,Sugar substitute",
+1255,"Oral nutritional preparations,Vitamin or mineral deficiency",
+1256,"Oral preparations,Oral hygiene",
+1257,"Oral preparations,Pharyngitis",
+1258,"Oral preparations,Plaque",
+1259,"Oral preparations,Teeth cleaner & brighter",
+1260,"Oral preparations,Teething pain",
+1261,"Oral Retinoid preparations,Leukemia",
+1262,"Oral Retinoid preparations,Scaly skin disease",
+1263,"Oral retinoids for Acne,Acne vulgaris",
+1264,"Osmotic diuretics,Elevated intraocular pressure",
+1265,"Osmotic purgatives,Constipation",
+1266,"Osmotic purgatives,Faecal impaction",
+1267,"Osmotic purgatives,Hepatic encephalopathy",
+1268,"Osmotic purgatives,Lubrication",
+1269,"Osmotic purgatives,Osmotic laxative",
+1270,"Other adrenoceptor stimulants,Hypotension",
+1271,"Other adrenoceptor stimulants,Transfusion reactions",
+1272,"Other adrenoceptor stimulants,Wheezing",
+1273,"Other Anti-anginal & Anti-ischaemic drugs,Chronic angina",
+1274,"Other Anti-anginal & Anti-ischaemic drugs,Chronic stable angina",
+1275,"Other Anti-anginal & Anti-ischaemic drugs,Meniereâ€™s disease",
+1276,"Other Anti-anginal & Anti-ischaemic drugs,Obesity",
+1277,"Other Anti-anginal & Anti-ischaemic drugs,Reducing cholesterol levels",
+1278,"Other Anti-anginal & Anti-ischaemic drugs,Stroke",
+1279,"Other antibacterial preparation,Antiseptic skin cleanser",
+1280,"Other antibacterial preparation,Bacterial infections",
+1281,"Other antibacterial preparation,Bacterial vaginosis",
+1282,"Other antibacterial preparation,Surface disinfection",
+1283,"Other antibacterial preparation,Topical antiseptic",
+1284,"Other antibacterial preparation,Upper and lower respiratory tract infections",
+1285,"Other antibacterial preparation,Urinary tract infection",
+1286,"Other Antifungal preparations,",
+1287,"Other Antifungal preparations,Fungal infections",
+1288,"Other Antifungal preparations,Nail fungal infections",
+1289,"Other Antifungal preparations,Scedosporiosis and fusariosis",
+1290,"Other Antifungal preparations,Superficial dermatophyte infections and pityriasis versicolor",
+1291,"Other Antifungal preparations,Visceral leishmaniasis",
+1292,"Other Anti-protozoals,Toxocariasis",
+1293,"Other Anti-protozoals,Urinary tract infection",
+1294,"Other beta-lactam Antibiotics,Skin and skin sructure infections",
+1295,"Other beta-lactam Antibiotics,Uncomplicated pneumococcal pneumonia",
+1296,"Other beta-lactam Antibiotics,Urinary tract infection",
+1297,"Other drugs for migraine,Migraine",
+1298,"Other drugs for migraine,Pain",
+1299,"Other genito-urinary preparations,Chronic renal failure",
+1300,"Other genito-urinary preparations,Interstitial cystitis",
+1301,"Other genito-urinary preparations,Urinary incontinence",
+1302,"Other genito-urinary preparations,Urinary tract infection",
+1303,"Other laxative preparations,Constipation",
+1304,"Other laxative preparations,Irritable bowel syndrome (IBS)",
+1305,"Other lipid regulating drugs,",
+1306,"Other ophthalmic preparations,Dry eye",
+1307,"Other ophthalmic preparations,Keratitis",
+1308,"Other ophthalmic preparations,Lubrication",
+1309,"Other ophthalmic preparations,Mydriasis",
+1310,"Other ophthalmic preparations,Open angle glaucoma",
+1311,"Other ophthalmic preparations,Pain or swelling of the cornea",
+1312,"Other ophthalmic preparations,Removal of foreign bodies",
+1313,"Other ophthalmic preparations,Skin infections",
+1314,"Other preparations,Bleeding or blood clotting problems",
+1315,"Other preparations,Delay imminent pre-term birth",
+1316,"Other preparations,Eye health",
+1317,"Other preparations,Irrigation solution",
+1318,"Other preparations,Onychomycosis",
+1319,"Other scalp preparations,Male pattern baldness",
+1320,"Other scalp preparations,Pediculosis capitis",
+1321,"Other scalp preparations,Warts",
+1322,"Other Topical corticosteroids,Acute hemorrhoidal thrombosis",
+1323,"Other Topical corticosteroids,Anti - inflammatory treatment",
+1324,"Other Topical corticosteroids,Atopic dermatitis",
+1325,"Other Topical corticosteroids,Plaque psoriasis",
+1326,"Other Topical corticosteroids,Pruritic skin conditions",
+1327,"Other Topical corticosteroids,Psoriasis",
+1328,"Other Topical corticosteroids,Seborrheic dermatitis of the scalp",
+1329,"Other Topical corticosteroids,Seborrhoeic dermatitis",
+1330,"Other Topical corticosteroids,Skin infections",
+1331,"Other Topical corticosteroids,Vitiligo",
+1332,"Oxidising agent with antibacterial and antiviral properties,Wound cleansing",
+1333,"Painkiller Muscle Relaxant,Obstructive sleep apnea (OSA)",
+1334,"Parasiticidal preparations,Scabies",
+1335,"Parenteral anti-coagulants,Unstable angina",
+1336,"Parenteral anti-coagulants,Venous thromboembolism",
+1337,"Parenteral Iron Preparations,Iron deficiency",
+1338,"Parenteral Iron Preparations,Iron deficiency anemia",
+1339,"Parenteral Iron Preparations,Peritoneal dialysis dependent-chronic kidney disease (PDD-CKD) patients receiving an erythropoietin",
+1340,"Parenteral nutritional preparations,Fluid and electrolyte imbalance",
+1341,"Parenteral nutritional preparations,Negative nitrogen balance",
+1342,"Parenteral nutritional preparations,Parenteral nutrition",
+1343,"Parenteral nutritional preparations,Prevent nitrogen loss",
+1344,"Parenteral nutritional preparations,Protein supply for peritoneal nutrition",
+1345,"Parenteral nutritional preparations,Renal impairment",
+1346,"Parenteral nutritional preparations,Supplement for intravenous nutrition",
+1347,"Paroxysmal supraventricular tachycardia (PSVT),Supraventricular tachycardia",
+1348,"Penicillinase-resistant penicillins,UTI caused by Staphylococcus Aureus",
+1349,"Penicillinase-resistant penicillins,Wounds",
+1350,"Peripheral Vasodilator drugs: Intermittent Claudication,Intermittent angioneurotic dysbasia",
+1351,"Peripheral Vasodilator drugs: Intermittent Claudication,Peripheral vascular disease",
+1352,"Peritoneal dialysis solution,Peritoneal dialysis",
+1353,"Phenothiazine drugs,Schizophrenia",
+1354,"Phenothiazine drugs,Tourette syndrome",
+1355,"Phenothiazine related drugs,Obsessive-compulsive disorder (OCD)",
+1356,"Phenothiazine related drugs,Schizophrenia",
+1357,"Phenothiazine related drugs,Tension",
+1358,"Phlebotonic & Vascular protecting preparation,Piles",
+1359,"Piperidinyl-benzisoxazole derivative,Schizophrenia",
+1360,"Plasma expanders,Hypoproteinaemia",
+1361,"Plasma expanders,Therapeutic dilution of blood",
+1362,"Plasma expanders,Venous thrombosis",
+1363,"Positive Inotropic drugs,Supraventricular arrhythmias",
+1364,"Potassium channel blockers,Ventricular arrhythmias",
+1365,"Potassium-channel activator,Ischaemic heart disease",
+1366,"Potassium-sparing diuretics,Hypertension",
+1367,"Potassium-sparing diuretics,Oedema",
+1368,"Potassium-sparing diuretics,Severe congestive heart failure",
+1369,"Preparations for Ophthalmic diagnosis,Aid in ophthalmic surgery by staining the anterior capsule of the lens",
+1370,"Preparations for Ophthalmic diagnosis,Fitting of hard contact lenses",
+1371,"Preparations for Ophthalmic diagnosis,Uveal tract inflammation",
+1372,"Prevention of repeated kidney stone formation,Urinary tract infection",
+1373,"Prevention of repeated kidney stone formation,Urine alkalinisation",
+1374,"Primary anti-epileptic drugs,Seizures",
+1375,"Primary anti-epileptic drugs,Severe anxiety disorders",
+1376,"Primary anti-epileptic drugs,Unipolar and bipolar depression",
+1377,"Prokinetic drugs,Reduce peristalsis",
+1378,"Prostaglandin analogues,Gastric and duodenal ulceration",
+1379,"Prostaglandin analogues,Hyperlipidemia",
+1380,"Prostaglandin analogues,Termination of pregnancy",
+1381,"Protein kinase inhibitor,Breast cancer",
+1382,"Protein kinase inhibitor,Metastatic non-small cell lung cancer",
+1383,"Proton Pump Inhibitor,Gastric ulcer",
+1384,"Proton Pump Inhibitor,Oesophagitis",
+1385,"Proton Pump Inhibitor,Peptic ulcer disease",
+1386,"Proton Pump Inhibitor,Zollinger-Ellison syndrome",
+1387,"Pyrrolopyrimidines,Polycythaemia vera",
+1388,"Rapid Acting Insulin,Type 1 DM",
+1389,"Rapid Acting Insulin,Type 2 DM",
+1390,"Regional anesthesia,Regional anesthesia",
+1391,"Regional anesthesia,Subarachnoid anesthesia",
+1392,"Regional anesthesia,Surgical anaesthesia",
+1393,"Respiratory corticosteroids,Asthma",
+1394,"Respiratory corticosteroids,COPD",
+1395,"Respiratory corticosteroids,Perennial or seasonal allergic rhinitis",
+1396,"Respiratory corticosteroids,Sinusitis",
+1397,"Respiratory stimulants: analeptics,Tranquilizer overdoses",
+1398,"Respiratory viral infections (Influenza),Influenza",
+1399,"Respiratory viral infections (Influenza),Parkinsonâ€™s disease",
+1400,"Respiratory viral infections (Influenza),Swine flu",
+1401,"Second generation Cephalosporins,Upper and lower respiratory tract infections",
+1402,"Second generation Cephalosporins,Urinary tract infection",
+1403,"Sedating Anti-histamine,Motion sickness",
+1404,"Sedating Anti-histamine,Urticaria",
+1405,"Sedating Anti-histamine,Vasomotor rhinitis",
+1406,"Sedating Anti-histamine,Vertigo",
+1407,"Sedating Anti-histamine,Vomiting",
+1408,"Sedating Anti-histamine,Watery eye",
+1409,"Sedating Anti-histamine,Wheezing",
+1410,"Selective vasopressin V2-receptor antagonist,Kidney disease",
+1411,"Serotonin-norepinephrine reuptake inhibitor (SNRI),",
+1412,"Serotonin-norepinephrine reuptake inhibitor (SNRI),Depression",
+1413,"Serotonin-norepinephrine reuptake inhibitor (SNRI),Fibromyalgia",
+1414,"Serotonin-norepinephrine reuptake inhibitor (SNRI),Major depressive disorder",
+1415,"Serotonin-norepinephrine reuptake inhibitor (SNRI),Social anxiety disorder",
+1416,"Serotonin-norepinephrine reuptake inhibitor (SNRI),Urinary incontinence",
+1417,"Short-acting selective & Î²2-adrenoceptor stimulants,Chronic obstructive pulmonary disease (COPD)",
+1418,"Short-acting selective & Î²2-adrenoceptor stimulants,COPD",
+1419,"Short-acting selective & Î²2-adrenoceptor stimulants,Emphysema",
+1420,"Short-acting selective & Î²2-adrenoceptor stimulants,H. pylori infection",
+1421,"Short-acting selective & Î²2-adrenoceptor stimulants,Severe bronchospasm",
+1422,"Short-acting selective & Î²2-adrenoceptor stimulants,Uncomplicated premature labour",
+1423,"Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors,Type 2 DM",
+1424,"Specific combined vitamin preparations,Parenteral nutrition",
+1425,"Specific combined vitamin preparations,Vitamin A deficiency",
+1426,"Specific combined vitamin preparations,Vitamin B deficiencies",
+1427,"Specific combined vitamin preparations,Vitamin B;Vitamin-C and Folic acid deficiencies",
+1428,"Specific combined vitamin preparations,Vitamin deficiency",
+1429,"Specific combined vitamin preparations,Weight gain and calcium retention",
+1430,"Specific mineral & vitamin combined preparations,Osteoarthritis (degenerative arthritis)",
+1431,"Specific mineral & vitamin combined preparations,Osteoporosis",
+1432,"Specific mineral & vitamin combined preparations,Premenstrual syndrome",
+1433,"Specific mineral & vitamin combined preparations,Rickets",
+1434,"Specific mineral & vitamin combined preparations,Vitamin deficiency",
+1435,"Specific mineral & vitamin combined preparations,Vitamins B and Zinc deficiencies",
+1436,"Specific mineral & vitamin combined preparations,Zinc & folic acid deficiency",
+1437,"Specific mineral preparations,",
+1438,"Specific mineral preparations,Hypomagnesemia",
+1439,"Specific mineral preparations,Osteoarthritis (degenerative arthritis)",
+1440,"Specific mineral preparations,Rheumatoid arthritis",
+1441,"Specific mineral preparations,Severe diarrhea",
+1442,"Specific mineral preparations,Tetanus",
+1443,"Specific mineral preparations,Zinc deficiency",
+1444,"SSRIs & related anti-depressant drugs,Obsessive-compulsive disorder (OCD)",
+1445,"SSRIs & related anti-depressant drugs,Schizophrenia",
+1446,"SSRIs & related anti-depressant drugs,Social anxiety disorder",
+1447,"SSRIs & related anti-depressant drugs,Trichotillomania",
+1448,"Stimulant purgatives,Osmotic purgative",
+1449,"Stimulation of Cartilage formation,Rheumatoid arthritis",
+1450,"Stimulation of Cartilage formation,Vascular complications (e. g.; atherosclerosis)",
+1451,"Stimulator of soluble guanylate cyclase,Cardiovascular disease",
+1452,"Stool softener,Constipation",
+1453,"Sulfonylureas,Type 2 DM",
+1454,"Sulphonamides & Trimethoprim,Urinary tract infection",
+1455,"Sunblock Preparation,Senile lentigines",
+1456,"Sunblock Preparation,Sunblock",
+1457,"Sunblock Preparation,Sunburn",
+1458,"Sunblock Preparation,Vitiligo",
+1459,"Supplements & adjuvant therapy,Antioxidant",
+1460,"Supplements & adjuvant therapy,Hypertension",
+1461,"Supplements & adjuvant therapy,Skin moisturization",
+1462,"Supplements & adjuvant therapy,Strength and endurance & immune system",
+1463,"Supportive Care Therapy,Methotrexate toxicity",
+1464,"Supportive Care Therapy,Vomiting",
+1465,"Synthetic analogue of ADH,Diabetes insipidus",
+1466,"Systemic Urinary Anti- infective,Urinary tract infection",
+1467,"Targeted Cancer Therapy,",
+1468,"Targeted Cancer Therapy,Breast cancer",
+1469,"Targeted Cancer Therapy,Chronic myeloid leukaemia",
+1470,"Targeted Cancer Therapy,Head & neck cancer",
+1471,"Targeted Cancer Therapy,Hepatocellular Carcinoma",
+1472,"Targeted Cancer Therapy,Leukemia",
+1473,"Targeted Cancer Therapy,Metastatic breast carcinoma",
+1474,"Targeted Cancer Therapy,Metastatic non-small cell lung cancer",
+1475,"Targeted Cancer Therapy,Multiple myeloma",
+1476,"Targeted Cancer Therapy,Non-small cell lung cancer",
+1477,"Targeted Cancer Therapy,Ovarian cancer",
+1478,"Targeted Cancer Therapy,Pancreatic cancer",
+1479,"Targeted Cancer Therapy,Renal cell carcinoma",
+1480,"Targeted Cancer Therapy,Ulcerative colitis",
+1481,"Targeted Cancer Therapy,WaldenstrÃ¶m's macroglobulinemia",
+1482,"Targeted Cancer Therapy,Wet age-related macular degeneration",
+1483,"Tetracycline group of drugs,Skin and skin sructure infections",
+1484,"Tetracycline group of drugs,Syphilis",
+1485,"Tetracycline group of drugs,Uncomplicated gonorrhoea",
+1486,"Tetracycline group of drugs,Urinary tract infection",
+1487,"Thiazide diuretics & related drugs,Oedema",
+1488,"Thiazolidinedione Group,Type 2 DM",
+1489,"Third generation Cephalosporins,Tonsillitis",
+1490,"Third generation Cephalosporins,Uncomplicated cystitis",
+1491,"Third generation Cephalosporins,Urethritis",
+1492,"Third generation Cephalosporins,Urinary tract infection",
+1493,"Thyroid drugs & hormone,Hyperthyroidism",
+1494,"Thyroid drugs & hormone,Hypothyroidism",
+1495,"Thyroid drugs & hormone,Osteoporosis",
+1496,"Thyroid drugs & hormone,Secondary hyperparathyroidism",
+1497,"Topical Analgesics,Pain",
+1498,"Topical Analgesics,Skin irritations",
+1499,"Topical Analgesics,Strains",
+1500,"Topical Analgesics,Sunburn",
+1501,"Topical Analgesics,Teeth whitening",
+1502,"Topical Analgesics,Tendonitis",
+1503,"Topical Analgesics,Trigeminal neuralgia",
+1504,"Topical antibiotic & retinoid preparations,Acne vulgaris",
+1505,"Topical Antibiotic preparations,Bacterial skin infections",
+1506,"Topical Antibiotic preparations,Impetigo",
+1507,"Topical Antibiotic preparations,Minor cuts",
+1508,"Topical Antibiotic preparations,Scrapes",
+1509,"Topical Antibiotic preparations,Skin infections",
+1510,"Topical Antibiotic preparations,Superficial skin infections",
+1511,"Topical Antibiotic preparations,Varicose ulcers",
+1512,"Topical Antibiotic preparations,Wounds",
+1513,"Topical antibiotics for Acne,Diaper rash",
+1514,"Topical Antifungal preparations,Psoriasis",
+1515,"Topical Antifungal preparations,Seborrheic dermatitis of the scalp",
+1516,"Topical Antifungal preparations,Skin fungal infections",
+1517,"Topical Antifungal preparations,Tinea (pityriasis) versicolor",
+1518,"Topical Antifungal preparations,Tinea corporis (ringworm)",
+1519,"Topical Antifungal preparations,Tinea pedis (athleteâ€™s foot)",
+1520,"Topical Antifungal preparations,Tularaemia",
+1521,"Topical Antifungal preparations,Vaginitis",
+1522,"Topical Antifungal preparations,Vulvovaginal candidiasis",
+1523,"Topical anti-inflammatory preparations,Atopic dermatitis",
+1524,"Topical anti-inflammatory preparations,Seborrhea",
+1525,"Topical anti-inflammatory preparations,Sore throat",
+1526,"Topical anti-inflammatory preparations,Strains",
+1527,"Topical Antiviral preparations,Sore lips",
+1528,"Topical Local Anesthetics,Toothache",
+1529,"Topical Local Anesthetics,Topical anesthesia",
+1530,"Topical retinoid and related preparations,Acne vulgaris",
+1531,"Topical retinoid and related preparations,Keratosis pilaris",
+1532,"Topical retinoid and related preparations,Rough skin",
+1533,"Topical retinoid and related preparations,Scaly skin disease",
+1534,"Topical retinoid and related preparations,Stable plaque psoriasis",
+1535,"Topical salicylic preparation,Warts",
+1536,"Topical urea preparations,Hyperkeratosis",
+1537,"Topical urea preparations,Psoriasis",
+1538,"Topical Vitamin D & related preparations,Scalp psoriasis",
+1539,"Triamcinolone & Combined preparations,Superficial bacterial infections",
+1540,"Triamcinolone & Combined preparations,Tinea corporis (ringworm)",
+1541,"Tricyclic & related anti-depressant drugs,Depression",
+1542,"Tricyclic & related anti-depressant drugs,Insomnia and sleep disturbances",
+1543,"Tricyclic & related anti-depressant drugs,Trichotillomania",
+1544,"Tricyclic & related anti-depressant drugs,Urinary incontinence",
+1545,"Tricyclic Anti-depressant,Anxiety",
+1546,"Tricyclic Anti-depressant,Major depressive disorder",
+1547,"Tricyclic Anti-depressant,Trichotillomania",
+1548,"Trophic Hormones & Related Synthetic Drugs,Polycystic ovarian syndrome",
+1549,"Tyrosine Kinase Inhibitor,Breast cancer",
+1550,"Tyrosine Kinase Inhibitor,Idiopathic Pulmonary Fibrosis",
+1551,"Tyrosine Kinase Inhibitor,Lymphocytic leukemia",
+1552,"Tyrosine Kinase Inhibitor,Lymphoma",
+1553,"Tyrosine Kinase Inhibitor,Non-small cell lung cancer",
+1554,"Tyrosine Kinase Inhibitor,Renal cell carcinoma",
+1555,"Ulcerative Colitis,Ulcerative colitis",
+1556,"Vaccines; Anti-sera & Immunoglobulin,Active immunisation against hepatitis A",
+1557,"Vaccines; Anti-sera & Immunoglobulin,Active immunisation against hepatitis B",
+1558,"Vaccines; Anti-sera & Immunoglobulin,Active immunisation against Poliomyelitis",
+1559,"Vaccines; Anti-sera & Immunoglobulin,Active immunisation against rabies",
+1560,"Vaccines; Anti-sera & Immunoglobulin,Active immunization against typhoid fever",
+1561,"Vaccines; Anti-sera & Immunoglobulin,Cervical cancer",
+1562,"Vaccines; Anti-sera & Immunoglobulin,Cholera",
+1563,"Vaccines; Anti-sera & Immunoglobulin,Diphtheria",
+1564,"Vaccines; Anti-sera & Immunoglobulin,Encephalitis virus vaccine",
+1565,"Vaccines; Anti-sera & Immunoglobulin,Envenomation caused by snake bites",
+1566,"Vaccines; Anti-sera & Immunoglobulin,Hepatitis A virus",
+1567,"Vaccines; Anti-sera & Immunoglobulin,Increases immunity",
+1568,"Vaccines; Anti-sera & Immunoglobulin,Influenza A and B",
+1569,"Vaccines; Anti-sera & Immunoglobulin,Measles",
+1570,"Vaccines; Anti-sera & Immunoglobulin,Meningococcal infection",
+1571,"Vaccines; Anti-sera & Immunoglobulin,Pneumococcal pneumonia",
+1572,"Vaccines; Anti-sera & Immunoglobulin,Premalignant cervical lesions and cervical cancer",
+1573,"Vaccines; Anti-sera & Immunoglobulin,Primary antibodies deficiency",
+1574,"Vaccines; Anti-sera & Immunoglobulin,Renal transplant",
+1575,"Vaccines; Anti-sera & Immunoglobulin,Rhesus disease",
+1576,"Vaccines; Anti-sera & Immunoglobulin,Rotavirus diarrhea",
+1577,"Vaccines; Anti-sera & Immunoglobulin,Septic arthritis",
+1578,"Vaccines; Anti-sera & Immunoglobulin,Septicemia",
+1579,"Vaccines; Anti-sera & Immunoglobulin,Sexual Exposure to an HBsAg-positive Person",
+1580,"Vaccines; Anti-sera & Immunoglobulin,Strabismus",
+1581,"Vaccines; Anti-sera & Immunoglobulin,Tetanus",
+1582,"Vaccines; Anti-sera & Immunoglobulin,Urothelial bladder carcinoma",
+1583,"Vaccines; Anti-sera & Immunoglobulin,Urticaria",
+1584,"Vaccines; Anti-sera & Immunoglobulin,Varicella infection",
+1585,"Vaso Protective,",
+1586,"Vasoconstrictor/Venotonic,Rosacea",
+1587,"Vasodilator antihypertensive drugs,Severe hypertension",
+1588,"Vitamin in bone formation,Rickets",
+1589,"Vitamin in bone formation,Secondary hyperparathyroidism",
+1590,"Vitamin-A preparations,Xerophthalmia",
+1591,"Vitamin-B preparations,Thiamine and riboflavin deficiency",
+1592,"Vitamin-B preparations,Vitamin B12 deficiency",
+1593,"Vitamin-B preparations,Vitamin B6 deficiency",
+1594,"Vitamin-B preparations,Wernicke-Korsakoff syndrome",
+1595,"Vitamin-C Preparations,Vitamin C deficiency",
+1596,"Vitamin-E Preparations,Vitamin E deficiency and peripheral neuropathy",
+1597,"Vitamin-K Preparations,Vitamin K deficiency",
+1598,"Water purifying agent,Water disinfection",
+1599,"Water purifying agent,Water purification",

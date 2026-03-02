@@ -1,0 +1,114 @@
+﻿Dosage_Form_ID,Dosage_Form_Name,Slug
+1,Bolus Tablet,bolus-tablet-179
+2,Capsule,capsule-2
+3,Capsule (Controlled Release),capsule-controlled-release-82
+4,Capsule (Delayed Release),capsule-delayed-release-60
+5,Capsule (Extended Release),capsule-extended-release-80
+6,Capsule (Modified Release),capsule-modified-release-109
+7,Capsule (Sustained Release),capsule-sustained-release-38
+8,Capsule (Timed Release),capsule-timed-release-81
+9,Chewable Tablet,chewable-tablet-24
+10,Chewing Gum Tablet,chewing-gum-tablet-149
+11,Cream,cream-8
+12,Dental Gel,dental-gel-122
+13,Dialysis Solution,dialysis-solution-110
+14,Dispersible Tablet,dispersible-tablet-28
+15,Ear Drop,ear-drop-72
+16,Effervescent Granules,effervescent-granules-27
+17,Effervescent Powder,effervescent-powder-164
+18,Effervescent Tablet,effervescent-tablet-31
+19,Emulsion for infusion,emulsion-for-infusion-178
+20,Eye Capsule,eye-capsule-159
+21,Flash Tablet,flash-tablet-175
+22,Gel,gel-6
+23,Hand Rub,hand-rub-94
+24,IM Injection,im-injection-69
+25,IM/IA Injection,imia-injection-147
+26,IM/IV Injection,imiv-injection-68
+27,IM/SC Injection,imsc-injection-105
+28,Inhalation Capsule,inhalation-capsule-136
+29,Inhaler,inhaler-14
+30,Injection,injection-12
+31,Intra-articular Injection,intra-articular-injection-104
+32,Intracameral Injection,intracameral-injection-180
+33,Intraspinal Injection,intraspinal-injection-107
+34,Intratracheal Suspension,intratracheal-suspension-59
+35,Intravitreal Injection,intravitreal-injection-119
+36,Irrigation Solution,irrigation-solution-108
+37,IV Infusion,iv-infusion-17
+38,IV Injection,iv-injection-70
+39,IV Injection or Infusion,iv-injection-or-infusion-134
+40,IV/SC Injection,ivsc-injection-133
+41,Liquid,liquid-162
+42,Liquid Cleanser Soap,liquid-cleanser-soap-92
+43,Long Acting Injection,long-acting-injection-166
+44,Long Acting Tablet,long-acting-tablet-63
+45,Lotion,lotion-9
+46,Medicated Bar,medicated-bar-88
+47,Microgranules,microgranules-176
+48,Mouthwash,mouthwash-95
+49,MUPS Tablet,mups-tablet-151
+50,Muscle Rub,muscle-rub-124
+51,Nail Lacquer,nail-lacquer-174
+52,Nasal Drop,nasal-drop-10
+53,Nasal Ointment,nasal-ointment-165
+54,Nasal Spray,nasal-spray-53
+55,Nebuliser Solution,nebuliser-solution-141
+56,Nebuliser Suspension,nebuliser-suspension-139
+57,Ocular Spray,ocular-spray-170
+58,Ointment,ointment-7
+59,Ophthalmic Emulsion,ophthalmic-emulsion-157
+60,Ophthalmic Gel,ophthalmic-gel-76
+61,Ophthalmic Ointment,ophthalmic-ointment-19
+62,Ophthalmic Solution,ophthalmic-solution-148
+63,Ophthalmic Suspension,ophthalmic-suspension-118
+64,Oral Emulsion,oral-emulsion-142
+65,Oral Gel,oral-gel-78
+66,Oral Paste,oral-paste-22
+67,Oral Powder,oral-powder-20
+68,Oral Soluble Film,oral-soluble-film-144
+69,Oral Solution,oral-solution-18
+70,Oral Suspension,oral-suspension-5
+71,OROS Tablet,oros-tablet-181
+72,Pediatric Drops,pediatric-drops-21
+73,Powder for Injection,powder-for-injection-44
+74,Powder for Solution,powder-for-solution-33
+75,Powder for Suspension,powder-for-suspension-75
+76,Rectal Ointment,rectal-ointment-36
+77,Rectal Saline,rectal-saline-131
+78,Respirator Solution,respirator-solution-172
+79,Retard Tablet,retard-tablet-79
+80,SC Injection,sc-injection-67
+81,Scalp Lotion,scalp-lotion-89
+82,Scalp Ointment,scalp-ointment-127
+83,Scalp Solution,scalp-solution-90
+84,Shampoo,shampoo-125
+85,Solution,solution-85
+86,Solution for Inhalation,solution-for-inhalation-48
+87,Sprinkle Capsule,sprinkle-capsule-146
+88,Sublingual Tablet,sublingual-tablet-152
+89,Suppository,suppository-4
+90,Surgical Scrub,surgical-scrub-96
+91,Syrup,syrup-3
+92,Tablet,tablet-1
+93,Tablet (Controlled Release),tablet-controlled-release-43
+94,Tablet (Delayed Release),tablet-delayed-release-132
+95,Tablet (Enteric Coated),tablet-enteric-coated-46
+96,Tablet (Extended Release),tablet-extended-release-41
+97,Tablet (Immediate Release),tablet-immediate-release-154
+98,Tablet (Modified Release),tablet-modified-release-42
+99,Tablet (Prolonged Release),tablet-prolonged-release-160
+100,Tablet (Sustained Release),tablet-sustained-release-37
+101,Topical Gel,topical-gel-138
+102,Topical Powder,topical-powder-168
+103,Topical Solution,topical-solution-93
+104,Topical Spray,topical-spray-39
+105,Topical Suspension,topical-suspension-126
+106,Transdermal Patch,transdermal-patch-62
+107,Vaginal Cream,vaginal-cream-64
+108,Vaginal Gel,vaginal-gel-112
+109,Vaginal Pessary,vaginal-pessary-65
+110,Vaginal Suppository,vaginal-suppository-113
+111,Vaginal Tablet,vaginal-tablet-86
+112,Viscoelastic Solution,viscoelastic-solution-169
+113,Viscous Eye Drop,viscous-eye-drop-140

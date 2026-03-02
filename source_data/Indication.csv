@@ -1,0 +1,2044 @@
+﻿Indication_ID,Indication_Name,Slug
+1,Abdominal pain,abdominal-pain-2000
+2,Abortion,abortion-2001
+3,Abrasion,abrasion-2002
+4,Abscesses,abscesses-2003
+5,Absence seizures,absence-seizures-2004
+6,Achalasia,achalasia-2005
+7,Acid regurgitation,acid-regurgitation-2006
+8,Acidosis,acidosis-2008
+9,Acid-related dyspepsia,acid-related-dyspepsia-2007
+10,Acne rosacea,acne-rosacea-3908
+11,Acne vulgaris,acne-vulgaris-2009
+12,Acquired immunodeficiency syndrome (AIDS),acquired-immunodeficiency-syndrome-aids-2010
+13,Acrocyanosis,acrocyanosis-2011
+14,Acromegaly,acromegaly-2012
+15,Acromegaly and hyperprolactinemia,acromegaly-and-hyperprolactinemia-3775
+16,Actinic keratosis,actinic-keratosis-2013
+17,Active immunisation against diphtheria; tetanus and pertussis,active-immunisation-against-diphtheria-tetanus-and-pertussis-4099
+18,Active immunisation against hepatitis A,active-immunisation-against-hepatitis-a-3854
+19,Active immunisation against hepatitis B,active-immunisation-against-hepatitis-b-3855
+20,Active immunisation against mumps,active-immunisation-against-mumps-2933
+21,Active immunisation against Poliomyelitis,active-immunisation-against-poliomyelitis-3131
+22,Active immunisation against rabies,active-immunisation-against-rabies-4004
+23,Active immunisation against tetanus,active-immunisation-against-tetanus-2014
+24,Active immunisation against varicella infection,active-immunisation-against-varicella-infection-4056
+25,Active immunisation for the prevention of pneumonia,active-immunisation-for-the-prevention-of-pneumonia-3976
+26,Active immunization against Hepatitis A virus,active-immunization-against-hepatitis-a-virus-4193
+27,Active immunization against typhoid fever,active-immunization-against-typhoid-fever-4055
+28,Acute & chronic conjunctivitis,acute-chronic-conjunctivitis-2015
+29,Acute agitation,acute-agitation-2019
+30,Acute and chronic diseases of respiratory tracts,acute-and-chronic-diseases-of-respiratory-tracts-3637
+31,Acute and chronic non-infectious conjunctivitis,acute-and-chronic-non-infectious-conjunctivitis-3946
+32,Acute asthma,acute-asthma-2020
+33,Acute bacterial ear infections,acute-bacterial-ear-infections-2021
+34,Acute bacterial exacerbations of chronic bronchitis,acute-bacterial-exacerbations-of-chronic-bronchitis-3711
+35,Acute bacterial sinusitis,acute-bacterial-sinusitis-2022
+36,Acute bronchospasm,acute-bronchospasm-3646
+37,Acute coronary insufficiency,acute-coronary-insufficiency-4059
+38,Acute coronary syndrome,acute-coronary-syndrome-3658
+39,Acute coronary syndromes (unstable angina; non-ST elevation MI; ST elevation MI),acute-coronary-syndromes-unstable-angina-non-st-elevation-mi-st-elevation-mi-4048
+40,Acute dental infections,acute-dental-infections-3931
+41,Acute diarrhoea,acute-diarrhoea-4005
+42,Acute Evolving Myocardial Infarction,acute-evolving-myocardial-infarction-4023
+43,Acute Exacerbations of Chronic bronchitis,acute-exacerbations-of-chronic-bronchitis-2016
+44,Acute Exposure to Blood Containing HBsAg,acute-exposure-to-blood-containing-hbsag-4162
+45,Acute gonorrheal urethritis,acute-gonorrheal-urethritis-2023
+46,Acute gout,acute-gout-2024
+47,Acute gouty arthritis,acute-gouty-arthritis-3673
+48,Acute graft rejection in renal transplantation,acute-graft-rejection-in-renal-transplantation-2025
+49,Acute heart failure,acute-heart-failure-2026
+50,Acute hemorrhoidal thrombosis,acute-hemorrhoidal-thrombosis-4179
+51,Acute hypertension,acute-hypertension-4058
+52,Acute hypovolaemic shock,acute-hypovolaemic-shock-3631
+53,Acute lupus erythematosus,acute-lupus-erythematosus-2027
+54,Acute lymphoblastic leukaemia,acute-lymphoblastic-leukaemia-4064
+55,Acute Lymphocytic Leukemia,acute-lymphocytic-leukemia-2017
+56,Acute manic episodes of bipolar disorder,acute-manic-episodes-of-bipolar-disorder-3657
+57,Acute Massive Pulmonary Embolism,acute-massive-pulmonary-embolism-4024
+58,Acute maxillary sinusitis,acute-maxillary-sinusitis-3710
+59,Acute migraine attacks,acute-migraine-attacks-2028
+60,Acute Ml,acute-ml-2018
+61,Acute mucosal infections of the mouth and pharynx,acute-mucosal-infections-of-the-mouth-and-pharynx-3990
+62,Acute myeloid leukaemia,acute-myeloid-leukaemia-2029
+63,Acute necrotising ulcerative gingivitis,acute-necrotising-ulcerative-gingivitis-2030
+64,Acute non articular rheumatism,acute-non-articular-rheumatism-3902
+65,Acute nonspecific gastroenteritis,acute-nonspecific-gastroenteritis-2031
+66,Acute or chronic narrow angle glaucoma,acute-or-chronic-narrow-angle-glaucoma-4121
+67,Acute otitis media,acute-otitis-media-2032
+68,Acute pain,acute-pain-3952
+69,Acute painful shoulder,acute-painful-shoulder-4027
+70,Acute promyelocytic leukaemia,acute-promyelocytic-leukaemia-2033
+71,Acute psychosis,acute-psychosis-2034
+72,Acute pulmonary oedema,acute-pulmonary-oedema-2035
+73,Acute purulent conjunctivitis,acute-purulent-conjunctivitis-3716
+74,Acute renal failure,acute-renal-failure-2036
+75,Acute rheumatic carditis,acute-rheumatic-carditis-2037
+76,Acute salmonellosis,acute-salmonellosis-2038
+77,Acute severe asthma,acute-severe-asthma-4011
+78,Acute solar dermatitis,acute-solar-dermatitis-2039
+79,Acute sore throat,acute-sore-throat-2040
+80,Acute trauma,acute-trauma-2041
+81,Acute uncomplicated malaria,acute-uncomplicated-malaria-2042
+82,Adenocarcinoma,adenocarcinoma-3883
+83,Adjunct to IVF procedures and other assisted conception techniques,adjunct-to-ivf-procedures-and-other-assisted-conception-techniques-2043
+84,Adjunct to levodopa treatment in Parkinson's disease,adjunct-to-levodopa-treatment-in-parkinsons-disease-3812
+85,Adjuvant therapy in cardiovascular disease especially in angina and congestive heart failure,adjuvant-therapy-in-cardiovascular-disease-especially-in-angina-and-congestive-heart-failure-3762
+86,Adrenocortical insufficiency,adrenocortical-insufficiency-2044
+87,Adrenocortical insufficiency in Addisonâ€™s disease,adrenocortical-insufficiency-in-addisons-disease-4146
+88,Adult chronic immune (idiopathic) thrombocytopenic purpura (ITP),adult-chronic-immune-idiopathic-thrombocytopenic-purpura-itp-3813
+89,Adult enuresis,adult-enuresis-2046
+90,Adult Respiratory Distress Syndrome,adult-respiratory-distress-syndrome-2045
+91,Age related eye disease,age-related-eye-disease-4081
+92,Age-related macular degeneration (AMD),age-related-macular-degeneration-amd-2047
+93,Aggression,aggression-2048
+94,Agitation,agitation-2049
+95,Agoraphobia,agoraphobia-2050
+96,Aid controlled ventilation,aid-controlled-ventilation-2051
+97,Aid in dispersal of extravasated fluids or blood,aid-in-dispersal-of-extravasated-fluids-or-blood-2053
+98,Aid in ophthalmic surgery by staining the anterior capsule of the lens,aid-in-ophthalmic-surgery-by-staining-the-anterior-capsule-of-the-lens-4053
+99,AIDS-related Kaposi's sarcoma,aids-related-kaposis-sarcoma-1999
+100,Albinism,albinism-2054
+101,Alcohol dependence,alcohol-dependence-2055
+102,Alcohol withdrawal syndrome,alcohol-withdrawal-syndrome-2056
+103,Alcoholism & drug induced hepatotoxicity,alcoholism-drug-induced-hepatotoxicity-2057
+104,Alkalinizing agent,alkalinizing-agent-2058
+105,Allergic anaphylactic shock,allergic-anaphylactic-shock-2059
+106,Allergic and inflammatory conditions of the ear,allergic-and-inflammatory-conditions-of-the-ear-2060
+107,Allergic and inflammatory conditions of the eye,allergic-and-inflammatory-conditions-of-the-eye-2061
+108,Allergic and inflammatory disorders,allergic-and-inflammatory-disorders-2062
+109,Allergic blepharitis,allergic-blepharitis-2063
+110,Allergic conditions,allergic-conditions-2064
+111,Allergic conjunctivitis,allergic-conjunctivitis-2065
+112,Allergic contact dermatitis,allergic-contact-dermatitis-4033
+113,Allergic dermatitis,allergic-dermatitis-2066
+114,Allergic otitis externa,allergic-otitis-externa-3781
+115,Allergic rhinitis,allergic-rhinitis-2067
+116,Allergic rhinitis accompanied by nasal congestion,allergic-rhinitis-accompanied-by-nasal-congestion-2068
+117,Allergic skin conditions,allergic-skin-conditions-2069
+118,Allergies,allergies-2070
+119,Allogeneic bone marrow transplantation,allogeneic-bone-marrow-transplantation-2071
+120,Allogeneic or autologous haematopoietic progenitor cell transplantation (HPCT),allogeneic-or-autologous-haematopoietic-progenitor-cell-transplantation-hpct-4212
+121,Alopecia areata,alopecia-areata-2073
+122,Altitude sickness,altitude-sickness-2074
+123,Aluminum overload,aluminum-overload-2075
+124,Alzheimerâ€™s disease,alzheimers-disease-2076
+125,Amblyopia,amblyopia-3727
+126,Amenorrhea- galactorrhea syndrome,amenorrhea-galactorrhea-syndrome-2077
+127,Amoebiasis,amoebiasis-2079
+128,Amoebic dysentery,amoebic-dysentery-3955
+129,Amyotrophic lateral sclerosis (ALS),amyotrophic-lateral-sclerosis-als-4160
+130,Anaemia,anaemia-2080
+131,Anaemia due to inflammatory bowel disease,anaemia-due-to-inflammatory-bowel-disease-2081
+132,Anaemia in chemotherapy patients,anaemia-in-chemotherapy-patients-2082
+133,Anaemia in zidovudine-treated HIV-infected patients,anaemia-in-zidovudine-treated-hiv-infected-patients-2083
+134,Anaemia of chronic renal failure,anaemia-of-chronic-renal-failure-2084
+135,Anaemia of prematurity,anaemia-of-prematurity-2085
+136,Anaemia related to non-myeloid malignant disease chemotherapy,anaemia-related-to-non-myeloid-malignant-disease-chemotherapy-3819
+137,Anaerobic bacterial infections,anaerobic-bacterial-infections-2086
+138,Anaesthesia,anaesthesia-2087
+139,Anal fissure,anal-fissure-2088
+140,Anal fissures; pruritus ani and similar conditions of the anal area,anal-fissures-pruritus-ani-and-similar-conditions-of-the-anal-area-3893
+141,Anal itching,anal-itching-3895
+142,Anal or vulvar pruritus,anal-or-vulvar-pruritus-2089
+143,Anal pruritus,anal-pruritus-2090
+144,Analgesia,analgesia-2091
+145,Analgesia during labour,analgesia-during-labour-2092
+146,Anaphylactic shock,anaphylactic-shock-2093
+147,Ancylostomiasis,ancylostomiasis-2094
+148,Androgenic alopecia,androgenic-alopecia-2072
+149,Anemia; vitamin & mineral deficiency,anemia-vitamin-mineral-deficiency-4097
+150,Anesthesia adjunct,anesthesia-adjunct-2095
+151,Angina pectoris,angina-pectoris-3652
+152,Angiocardiography,angiocardiography-4155
+153,Angiography,angiography-4153
+154,Angioplasty,angioplasty-2098
+155,Angular cheilitis,angular-cheilitis-2099
+156,Anitis,anitis-4175
+157,Ankylosing spondylitis,ankylosing-spondylitis-2100
+158,Anogenital pruritus,anogenital-pruritus-2101
+159,Anogenital warts,anogenital-warts-2102
+160,Anorexia and cachexia,anorexia-and-cachexia-2103
+161,Anorexia nervosa,anorexia-nervosa-2104
+162,Anovulatory infertility,anovulatory-infertility-2105
+163,Anthrax,anthrax-2106
+164,Anti - inflammatory treatment,anti-inflammatory-treatment-3927
+165,Antibiotic-associated colitis,antibiotic-associated-colitis-2107
+166,Antidepressant-induced inorgasmia,antidepressant-induced-inorgasmia-3777
+167,Anti-hypertensive,anti-hypertensive-4151
+168,Anti-inflammatory or immunosuppressive,anti-inflammatory-or-immunosuppressive-3925
+169,Antioxidant,antioxidant-3761
+170,Antiseptic skin cleanser,antiseptic-skin-cleanser-3992
+171,Anxiety,anxiety-2108
+172,Apathy,apathy-2109
+173,Apnoea,apnoea-2110
+174,Appetite stimulation,appetite-stimulation-3772
+175,Apthous ulcer,apthous-ulcer-2111
+176,Arrhythmias,arrhythmias-2112
+177,Arterial Thrombosis or Embolism,arterial-thrombosis-or-embolism-4025
+178,Arteriography,arteriography-4154
+179,Arteriovenous Cannulae Occlusion,arteriovenous-cannulae-occlusion-4026
+180,Artherosclerotic vascular disease,artherosclerotic-vascular-disease-2114
+181,Arthritis,arthritis-2115
+182,Artificial sweetener,artificial-sweetener-2116
+183,Artificially ventilated patients,artificially-ventilated-patients-2117
+184,Ascariasis,ascariasis-2118
+185,Ascites,ascites-2119
+186,Aspergillosis,aspergillosis-2120
+187,Aspiration pneumonia,aspiration-pneumonia-2121
+188,Assisted reproductive technologies,assisted-reproductive-technologies-2122
+189,Asthma,asthma-2123
+190,Asthma prophylaxis,asthma-prophylaxis-2124
+191,Asthmatic bronchitis,asthmatic-bronchitis-3639
+192,Astrocytoma,astrocytoma-2125
+193,Atelectasis,atelectasis-2126
+194,Atherosclerosis,atherosclerosis-2127
+195,Athleteâ€™s foot,athletes-foot-2128
+196,Atopic dermatitis,atopic-dermatitis-2129
+197,Atopic eczema,atopic-eczema-2130
+198,Atopic or contact dermatoses,atopic-or-contact-dermatoses-2131
+199,Atrial fibrillation,atrial-fibrillation-2132
+200,Atrial fibrillation and atrial flutter,atrial-fibrillation-and-atrial-flutter-2133
+201,Atrial flutter,atrial-flutter-2134
+202,Attention deficit hyperactivity disorder (ADHD),attention-deficit-hyperactivity-disorder-adhd-2135
+203,Atypical pneumonia,atypical-pneumonia-2136
+204,Auditory vestibular and visual disorder,auditory-vestibular-and-visual-disorder-2137
+205,Aural infections,aural-infections-2138
+206,Auto-immune diseases,auto-immune-diseases-2139
+207,Babesiosis,babesiosis-2141
+208,Back pain,back-pain-2142
+209,Backache,backache-2143
+210,Bacteraemia,bacteraemia-2144
+211,Bacteraemia and meningitis,bacteraemia-and-meningitis-2145
+212,Bacteraemic pneumonia,bacteraemic-pneumonia-2146
+213,Bacterial and trichomonal vaginitis,bacterial-and-trichomonal-vaginitis-2150
+214,Bacterial Conjunctivitis,bacterial-conjunctivitis-2147
+215,Bacterial corneal ulcer,bacterial-corneal-ulcer-2151
+216,Bacterial ear infections,bacterial-ear-infections-2152
+217,Bacterial endocarditis,bacterial-endocarditis-2153
+218,Bacterial eye infections,bacterial-eye-infections-2154
+219,Bacterial infections,bacterial-infections-2155
+220,Bacterial meningitis,bacterial-meningitis-2156
+221,Bacterial Meningitis caused by Staphylococcus,bacterial-meningitis-caused-by-staphylococcus-2148
+222,Bacterial ocular infections,bacterial-ocular-infections-2157
+223,Bacterial or fungal vaginal infection,bacterial-or-fungal-vaginal-infection-2158
+224,Bacterial Pneumonia caused by Staphylococcus,bacterial-pneumonia-caused-by-staphylococcus-2149
+225,Bacterial prostatis,bacterial-prostatis-2159
+226,Bacterial septicemia,bacterial-septicemia-2160
+227,Bacterial skin infections,bacterial-skin-infections-2161
+228,Bacterial vaginosis,bacterial-vaginosis-2162
+229,Bad breath,bad-breath-2163
+230,Balanced anaesthesia,balanced-anaesthesia-2164
+231,Balantidiasis,balantidiasis-2165
+232,Basal cell carcinoma,basal-cell-carcinoma-3885
+233,Bed sore,bed-sore-2166
+234,Behavioral disturbances,behavioral-disturbances-2167
+235,Behcetâ€™s syndrome,behcets-syndrome-2168
+236,Bellâ€™s palsy,bells-palsy-2169
+237,Benign breast disorders,benign-breast-disorders-2170
+238,Benign gastric and duodenal ulceration,benign-gastric-and-duodenal-ulceration-3723
+239,Benign prostatic hyperplasia (BPH),benign-prostatic-hyperplasia-bph-2171
+240,Benzodiazepine overdose,benzodiazepine-overdose-2172
+241,Benzodiazepine-induced sedation,benzodiazepine-induced-sedation-2173
+242,Beriberi and polyneuritis,beriberi-and-polyneuritis-4076
+243,Beriberi and Wernickâ€™s encephalopathy,beriberi-and-wernicks-encephalopathy-2174
+244,Biliary colic,biliary-colic-2175
+245,Biliary dyskinesia,biliary-dyskinesia-2176
+246,Biliary-tract infections,biliary-tract-infections-2177
+247,Binge eating disorder,binge-eating-disorder-2178
+248,Bipolar disorder,bipolar-disorder-2179
+249,Bipolar mania,bipolar-mania-2180
+250,Bites,bites-2181
+251,Bladder carcinoma,bladder-carcinoma-2182
+252,Bladder spasms,bladder-spasms-2183
+253,Blastocystis hominis infection,blastocystis-hominis-infection-3930
+254,Bleeding or blood clotting problems,bleeding-or-blood-clotting-problems-2185
+255,Blepharitis,blepharitis-2186
+256,Blepharospasm,blepharospasm-2187
+257,Blisters,blisters-2188
+258,Block the virus from multiplying,block-the-virus-from-multiplying-4117
+259,Body dysmorphic disorder,body-dysmorphic-disorder-2190
+260,Bodyache,bodyache-2191
+261,Boils,boils-2192
+262,Bone and Joint Infections,bone-and-joint-infections-2193
+263,Bone malignancies,bone-malignancies-2194
+264,Bone marrow stimulation,bone-marrow-stimulation-2195
+265,Bone marrow transplantation,bone-marrow-transplantation-2196
+266,Botulism,botulism-2197
+267,Bowel evacuation,bowel-evacuation-2198
+268,Braces,braces-3666
+269,Bradycardia,bradycardia-2200
+270,Brain abscesses,brain-abscesses-2201
+271,Brain tumours,brain-tumours-2202
+272,Breakthrough pain,breakthrough-pain-2203
+273,Breast cancer,breast-cancer-3655
+274,Breast cancer and bone metastases,breast-cancer-and-bone-metastases-2204
+275,Breast cancer in postmenopausal women,breast-cancer-in-postmenopausal-women-2205
+276,Breast cancers and glioblastoma multiforme of the brain,breast-cancers-and-glioblastoma-multiforme-of-the-brain-2206
+277,Breast pain,breast-pain-2207
+278,Bronchial asthma,bronchial-asthma-3640
+279,Bronchiectasis,bronchiectasis-2208
+280,Bronchitis,bronchitis-2209
+281,Bronchodilator,bronchodilator-4054
+282,Bronchopneumonia,bronchopneumonia-2210
+283,Brucellosis,brucellosis-2211
+284,Bulimia nervosa,bulimia-nervosa-2212
+285,Bullous dermatitis herpetiformis,bullous-dermatitis-herpetiformis-2213
+286,Burkitt's lymphoma,burkitts-lymphoma-3919
+287,Burn injury,burn-injury-3875
+288,Burning and irritation of the eye,burning-and-irritation-of-the-eye-2214
+289,Burning feet syndrome,burning-feet-syndrome-3700
+290,Burning mouth syndrome,burning-mouth-syndrome-3743
+291,Burning sansation,burning-sansation-2216
+292,Burning; pain and skin inflammations,burning-pain-and-skin-inflammations-2215
+293,Burns,burns-2217
+294,Bursitis,bursitis-2219
+295,B-vitamins and Zinc deficiencies,b-vitamins-and-zinc-deficiencies-2140
+296,Calcium & vitamin D supplement,calcium-vitamin-d-supplement-3698
+297,Calcium and magnesium deficiencies,calcium-and-magnesium-deficiencies-2225
+298,Calcium and vitamin C deficiency,calcium-and-vitamin-c-deficiency-2226
+299,Calcium and vitamin D deficiency,calcium-and-vitamin-d-deficiency-2227
+300,Calcium deficiency,calcium-deficiency-2228
+301,Calcium suppliment,calcium-suppliment-3692
+302,Callus,callus-2229
+303,Caloric feeding,caloric-feeding-2230
+304,Cancer,cancer-3877
+305,Cancer pain,cancer-pain-2232
+306,Cancer patients receiving bone marrow transplant,cancer-patients-receiving-bone-marrow-transplant-3839
+307,Cancer patients receiving myelosuppressive chemotherapy,cancer-patients-receiving-myelosuppressive-chemotherapy-3837
+308,Cancer Prevention,cancer-prevention-2231
+309,Cancer therapy-induced hyperuricaemia,cancer-therapy-induced-hyperuricaemia-2233
+310,Candida albicans,candida-albicans-2234
+311,Candida nappy rash,candida-nappy-rash-2235
+312,Candidaemia,candidaemia-4103
+313,Candidal balanitis,candidal-balanitis-2236
+314,Candidal cystitis,candidal-cystitis-2237
+315,Candidemia,candidemia-2238
+316,Candidiasis,candidiasis-2239
+317,Canker sores,canker-sores-3665
+318,CAPD associated peritonitis,capd-associated-peritonitis-2221
+319,Capillary bleeding,capillary-bleeding-2240
+320,Carbohydrate nutrient in diabetic patients,carbohydrate-nutrient-in-diabetic-patients-2241
+321,Carbon monoxide poisoning,carbon-monoxide-poisoning-2242
+322,Carbuncles,carbuncles-2243
+323,Carcinoma,carcinoma-2244
+324,Carcinoma of the colon or rectum,carcinoma-of-the-colon-or-rectum-2246
+325,Cardiac arrest,cardiac-arrest-2247
+326,Cardiac arrhythmias,cardiac-arrhythmias-2248
+327,Cardiac stress test,cardiac-stress-test-2249
+328,Cardiomyopathy,cardiomyopathy-2250
+329,Cardiopulmonary Bypass Surgery,cardiopulmonary-bypass-surgery-2251
+330,Cardiovascular disease,cardiovascular-disease-2252
+331,Cardiovascular event prevention,cardiovascular-event-prevention-2253
+332,Cardiovascular risk reduction,cardiovascular-risk-reduction-4036
+333,Carditis,carditis-2254
+334,Cat scratch disease,cat-scratch-disease-2255
+335,Cataplexy,cataplexy-2257
+336,Cataract & glaucoma operations,cataract-glaucoma-operations-2258
+337,Cataract surgery,cataract-surgery-2259
+338,Catarrh,catarrh-2260
+339,Cavities,cavities-2261
+340,Cellulitis,cellulitis-2262
+341,Central respiratory depression,central-respiratory-depression-2263
+342,Central retinal vein occlusion,central-retinal-vein-occlusion-2264
+343,Cerebral oedema,cerebral-oedema-2265
+344,Cerebral or pulmonary edema,cerebral-or-pulmonary-edema-2267
+345,Cerebral palsy,cerebral-palsy-2266
+346,Cerebrovascular disease,cerebrovascular-disease-2268
+347,Cerebrovascular insufficiency,cerebrovascular-insufficiency-2269
+348,Cervical cancer,cervical-cancer-2270
+349,Cervical dystonia,cervical-dystonia-3748
+350,Cervical intraepithelial neoplasia,cervical-intraepithelial-neoplasia-2271
+351,Cervical priming,cervical-priming-2272
+352,Cervical softening and dilatation,cervical-softening-and-dilatation-2273
+353,Cervicitis,cervicitis-2274
+354,Cervicitis and proctitis,cervicitis-and-proctitis-2275
+355,Cervicitis and salpingitis,cervicitis-and-salpingitis-2276
+356,Chancroid,chancroid-2277
+357,Chapped roughened hands,chapped-roughened-hands-2278
+358,Cheilosis,cheilosis-4075
+359,Chemotherapy induced nausea and vomiting,chemotherapy-induced-nausea-and-vomiting-2280
+360,Chemotherapy induced-neutropenia,chemotherapy-induced-neutropenia-2279
+361,Chest congestion,chest-congestion-4170
+362,Chickenpox,chickenpox-2281
+363,Childrenâ€™s growth disorders,childrens-growth-disorders-2282
+364,Chlamydial cervicitis,chlamydial-cervicitis-2283
+365,Chlamydial infections,chlamydial-infections-2284
+366,Chlamydial urethritis,chlamydial-urethritis-2285
+367,Chloasma,chloasma-2286
+368,Chloroquine-resistant falciparum malaria,chloroquine-resistant-falciparum-malaria-2287
+369,Cholecystitis,cholecystitis-2289
+370,Cholera,cholera-2291
+371,Cholestatic liver disease,cholestatic-liver-disease-4172
+372,Chorea,chorea-2292
+373,Choriocarcinoma,choriocarcinoma-3920
+374,Choroiditis,choroiditis-3782
+375,Chronic anal fissure,chronic-anal-fissure-2294
+376,Chronic angina,chronic-angina-4006
+377,Chronic anterior uveitis and corneal injury,chronic-anterior-uveitis-and-corneal-injury-2295
+378,Chronic asthma,chronic-asthma-2296
+379,Chronic atopic dermatitis,chronic-atopic-dermatitis-2297
+380,Chronic bacterial prostatitis,chronic-bacterial-prostatitis-2298
+381,Chronic bronchitis,chronic-bronchitis-2299
+382,Chronic cholelithiasis,chronic-cholelithiasis-2300
+383,Chronic conjunctivitis,chronic-conjunctivitis-2301
+384,Chronic cutaneous graft-vs-host disease,chronic-cutaneous-graft-vs-host-disease-4035
+385,Chronic emphysema,chronic-emphysema-2302
+386,Chronic Fatigue Syndrome,chronic-fatigue-syndrome-2293
+387,Chronic gastritis,chronic-gastritis-2303
+388,Chronic hepatitis B,chronic-hepatitis-b-2304
+389,Chronic hepatitis C,chronic-hepatitis-c-2305
+390,Chronic idiopathic constipation,chronic-idiopathic-constipation-2306
+391,Chronic idiopathic myelofibrosis,chronic-idiopathic-myelofibrosis-4181
+392,Chronic idiopathic urticaria (hives),chronic-idiopathic-urticaria-hives-2307
+393,Chronic iron overload,chronic-iron-overload-2308
+394,Chronic low back pain,chronic-low-back-pain-2309
+395,Chronic lymphocytic leukaemia,chronic-lymphocytic-leukaemia-2310
+396,Chronic lymphocytic leukemia,chronic-lymphocytic-leukemia-4139
+397,Chronic muscle spasticity,chronic-muscle-spasticity-2311
+398,Chronic myelogenous leukaemia,chronic-myelogenous-leukaemia-2312
+399,Chronic myeloid leukaemia,chronic-myeloid-leukaemia-2313
+400,Chronic obstructive pulmonary disease (COPD),chronic-obstructive-pulmonary-disease-copd-2314
+401,Chronic open angle glaucoma,chronic-open-angle-glaucoma-2315
+402,Chronic or recurrent bacteriuria,chronic-or-recurrent-bacteriuria-2316
+403,Chronic pain,chronic-pain-3950
+404,Chronic pneumonia.,chronic-pneumonia-3641
+405,Chronic psychoses,chronic-psychoses-4009
+406,Chronic renal failure,chronic-renal-failure-2317
+407,Chronic simple lichen,chronic-simple-lichen-3674
+408,Chronic stable angina,chronic-stable-angina-2318
+409,chronic stable or vasospastic angina,chronic-stable-or-vasospastic-angina-3648
+410,Chronic urticaria,chronic-urticaria-2319
+411,Chronic venous disease,chronic-venous-disease-2320
+412,Cirrhosis,cirrhosis-2321
+413,Cleansing and irrigating the skin or dirty wounds,cleansing-and-irrigating-the-skin-or-dirty-wounds-2322
+414,Cleansing of the colon,cleansing-of-the-colon-2323
+415,Cluster headache,cluster-headache-2325
+416,CMV infections,cmv-infections-2222
+417,Coccidioidomycosis,coccidioidomycosis-2326
+418,Cocorticoid induced osteoporosis,cocorticoid-induced-osteoporosis-4008
+419,Cognitive decline,cognitive-decline-3764
+420,Cognitive enhancer,cognitive-enhancer-2327
+421,Cold,cold-2328
+422,Cold sores,cold-sores-2329
+423,Colic,colic-2330
+424,Colitis,colitis-2331
+425,Colonopathies,colonopathies-2332
+426,Colonoscopy,colonoscopy-2333
+427,Colonoscopy preparation,colonoscopy-preparation-2334
+428,Colorectal cancer,colorectal-cancer-2335
+429,Common cold,common-cold-2337
+430,Community-acquired pneumonia,community-acquired-pneumonia-2338
+431,Complicated and recurrent urinary tract infections,complicated-and-recurrent-urinary-tract-infections-2340
+432,Complicated skin and skin structure infections,complicated-skin-and-skin-structure-infections-4106
+433,Complicated UTI,complicated-uti-2339
+434,Condylomata acuminata,condylomata-acuminata-2342
+435,Congenital adrenal hyperplasia,congenital-adrenal-hyperplasia-2343
+436,Congenital icthyosis,congenital-icthyosis-2344
+437,Congestion,congestion-2345
+438,Congestive heart failure,congestive-heart-failure-2346
+439,Conjunctival decongestant,conjunctival-decongestant-2347
+440,Conjunctivitis,conjunctivitis-2348
+441,Conjunctivitis; blepharitis and blepharoconjunctivitis,conjunctivitis-blepharitis-and-blepharoconjunctivitis-3847
+442,Constipation,constipation-2349
+443,Constipation and bowel irregularity,constipation-and-bowel-irregularity-2350
+444,Contact dermatitis,contact-dermatitis-2351
+445,Contraception,contraception-2352
+446,Conversion of atrial fibrillation/flutter,conversion-of-atrial-fibrillationflutter-4159
+447,COPD,copd-2223
+448,Cornea transplant surgery,cornea-transplant-surgery-2353
+449,Corneal anesthesia,corneal-anesthesia-2354
+450,Corneal protection,corneal-protection-2355
+451,Corneal ulcer,corneal-ulcer-2356
+452,Corns,corns-2357
+453,Corns and calluses,corns-and-calluses-2358
+454,Coronary artery disease,coronary-artery-disease-3649
+455,Cortical myoclonus,cortical-myoclonus-2359
+456,Corticosteriod responsive dermatoses with secondary infection,corticosteriod-responsive-dermatoses-with-secondary-infection-2361
+457,Corticosteriod-responsive dermatoses,corticosteriod-responsive-dermatoses-2360
+458,Cough,cough-4107
+459,Cough and common cold,cough-and-common-cold-2363
+460,Cough and runny nose,cough-and-runny-nose-2362
+461,Cracked and itchy skin,cracked-and-itchy-skin-2364
+462,Cracked feet,cracked-feet-2365
+463,Crohnâ€™s disease,crohns-disease-2366
+464,Crural ulcer,crural-ulcer-2367
+465,Cryptitis,cryptitis-4177
+466,Cryptococcal meningitis,cryptococcal-meningitis-2369
+467,Cryptococcosis,cryptococcosis-2370
+468,Cryptorchidism,cryptorchidism-3857
+469,Cryptosporidiosis,cryptosporidiosis-2371
+470,Curvature,curvature-4204
+471,Cushing's and Nelson's syndrome,cushings-and-nelsons-syndrome-3774
+472,Cushing's disease,cushings-disease-2372
+473,Cutaneous albinism,cutaneous-albinism-2374
+474,Cutaneous candidiasis,cutaneous-candidiasis-2375
+475,Cutaneous candidiasis and pityriasis versicolor,cutaneous-candidiasis-and-pityriasis-versicolor-2376
+476,Cutaneous T-cell lymphoma,cutaneous-t-cell-lymphoma-2373
+477,CutaneousÂor mucocutaneous mycotic infections,cutaneous-or-mucocutaneous-mycotic-infections-4119
+478,Cuteneous candidiasis with superficial bacterial infection,cuteneous-candidiasis-with-superficial-bacterial-infection-3872
+479,Cuts,cuts-2377
+480,CVD,cvd-2224
+481,Cyanide poisoning,cyanide-poisoning-2378
+482,Cyanosis,cyanosis-2379
+483,Cyclical mastalgia,cyclical-mastalgia-3998
+484,Cyclitis,cyclitis-2380
+485,Cycloplegia,cycloplegia-2381
+486,Cystic fibrosis,cystic-fibrosis-2382
+487,Cystitis,cystitis-2383
+488,Cystoid macular oedema,cystoid-macular-oedema-2384
+489,Cytomegaloviral infections,cytomegaloviral-infections-3851
+490,Cytomegalovirus (CMV) retinitis,cytomegalovirus-cmv-retinitis-4161
+491,Daily multivitamin maintenance,daily-multivitamin-maintenance-4065
+492,Dandruff,dandruff-2385
+493,Darier's disease,dariers-disease-2386
+494,Decubitus or stasis ulcers,decubitus-or-stasis-ulcers-2387
+495,Deep anesthesia as in cataract extraction,deep-anesthesia-as-in-cataract-extraction-4000
+496,Deep tissue candida infections,deep-tissue-candida-infections-2388
+497,Deep vein thrombosis,deep-vein-thrombosis-2389
+498,Deficient protein metabolism,deficient-protein-metabolism-4198
+499,Degenerative diseases,degenerative-diseases-2390
+500,Degenerative joint disease,degenerative-joint-disease-2391
+501,Dehydration,dehydration-2392
+502,Delay imminent pre-term birth,delay-imminent-pre-term-birth-4210
+503,Delayed puberty,delayed-puberty-2393
+504,Delirium,delirium-2394
+505,Dementia,dementia-2395
+506,Dementia in alzheimer's disease,dementia-in-alzheimers-disease-3789
+507,Dental abscess,dental-abscess-2396
+508,Dental bleeding,dental-bleeding-2397
+509,Dental caries,dental-caries-2398
+510,Dental cavity,dental-cavity-3832
+511,Dental hypersensitivity,dental-hypersensitivity-4200
+512,Dental infections,dental-infections-3730
+513,Dental infiltration anesthesia,dental-infiltration-anesthesia-4101
+514,Dental nerve block,dental-nerve-block-4100
+515,Dental pain,dental-pain-2399
+516,Dental plaque,dental-plaque-3833
+517,Dental surgery,dental-surgery-2400
+518,Denture sores,denture-sores-2401
+519,Denture stomatitis,denture-stomatitis-2402
+520,Dentures,dentures-3668
+521,Depression,depression-2403
+522,Dermatitis,dermatitis-2404
+523,Dermatitis herpetiformis,dermatitis-herpetiformis-2405
+524,Dermatitis Solaris,dermatitis-solaris-3681
+525,Dermatofibro sarcoma protuberans,dermatofibro-sarcoma-protuberans-2406
+526,Dermatomycoses,dermatomycoses-2407
+527,Dermatomyositis,dermatomyositis-2408
+528,Dermatophytosis,dermatophytosis-2409
+529,Developed to treat the muscle rigidity,developed-to-treat-the-muscle-rigidity-4094
+530,Development and proper functioning of their vital organs,development-and-proper-functioning-of-their-vital-organs-4067
+531,Diabetes insipidus,diabetes-insipidus-2410
+532,Diabetes mellitus,diabetes-mellitus-2411
+533,Diabetic angiopathy,diabetic-angiopathy-2412
+534,Diabetic coma,diabetic-coma-2413
+535,Diabetic foot infections,diabetic-foot-infections-3767
+536,Diabetic foot ulcer,diabetic-foot-ulcer-2414
+537,Diabetic gastric stasis,diabetic-gastric-stasis-2415
+538,Diabetic ketoacidosis,diabetic-ketoacidosis-2416
+539,Diabetic macular edema,diabetic-macular-edema-2417
+540,Diabetic nephropathy,diabetic-nephropathy-2418
+541,Diabetic neuropathy,diabetic-neuropathy-2419
+542,Diabetic ulcers,diabetic-ulcers-2420
+543,Diagnostic ophthalmic procedures,diagnostic-ophthalmic-procedures-2421
+544,Diagnostic procedures,diagnostic-procedures-2422
+545,Dialysis,dialysis-2423
+546,Diaper rash,diaper-rash-2424
+547,Diarrhoea,diarrhoea-2425
+548,Dietary supplement for infants,dietary-supplement-for-infants-2426
+549,Dietary supplements,dietary-supplements-2427
+550,Dietary supplements (Vitamin deficiencies),dietary-supplements-vitamin-deficiencies-2428
+551,Different skin problems (e.g.; psoriasis),different-skin-problems-eg-psoriasis-3753
+552,Diffuse scleroderma,diffuse-scleroderma-2429
+553,Dilatation of pupil,dilatation-of-pupil-2430
+554,Diluting or dissolving drugs,diluting-or-dissolving-drugs-2431
+555,Diphtheria,diphtheria-2432
+556,Direct acting antiviral agent (DAA) against the hepatitis C virus,direct-acting-antiviral-agent-daa-against-the-hepatitis-c-virus-4118
+557,Discomfort of the eye,discomfort-of-the-eye-2433
+558,Disinfection,disinfection-2434
+559,Disinfection of the skin and hand,disinfection-of-the-skin-and-hand-2435
+560,Disseminated candidiasis,disseminated-candidiasis-2437
+561,Dissolution of cholesterol rich gallstones,dissolution-of-cholesterol-rich-gallstones-2438
+562,Disturbed biorhythms,disturbed-biorhythms-2439
+563,Diverticular diseases,diverticular-diseases-2440
+564,Diverticulitis,diverticulitis-3636
+565,Dizziness,dizziness-2441
+566,Down Syndrome,down-syndrome-2442
+567,Dracunculiasis,dracunculiasis-2443
+568,Drug hypersensitivity reactions,drug-hypersensitivity-reactions-2444
+569,Drug induced extrapyramidal syndrome,drug-induced-extrapyramidal-syndrome-2446
+570,Drug induced Myopathy,drug-induced-myopathy-3760
+571,Drug induced photosensitivity,drug-induced-photosensitivity-2447
+572,Drug overdose,drug-overdose-2445
+573,Dry cough,dry-cough-2449
+574,Dry eye,dry-eye-2450
+575,Dry Irritated eyes,dry-irritated-eyes-2448
+576,Dry mouth,dry-mouth-2451
+577,Dry skin,dry-skin-2452
+578,Dry skin associated with contact dermatitis,dry-skin-associated-with-contact-dermatitis-3815
+579,Dryness and pain associated with reduced or abnormal tear production,dryness-and-pain-associated-with-reduced-or-abnormal-tear-production-3709
+580,Duodenal ulcer,duodenal-ulcer-2453
+581,Duodenitis,duodenitis-2454
+582,During infectious diseases and convalescence,during-infectious-diseases-and-convalescence-3694
+583,Dyeing hair,dyeing-hair-2456
+584,Dysentery,dysentery-2457
+585,Dysfunctional uterine bleeding (DUB),dysfunctional-uterine-bleeding-dub-3806
+586,Dyskeratosis,dyskeratosis-2458
+587,Dyslipidemia,dyslipidemia-2459
+588,Dysmenorrhoea,dysmenorrhoea-2460
+589,Dyspareunia,dyspareunia-2461
+590,Dyspepsia,dyspepsia-2462
+591,Dysphoria,dysphoria-2463
+592,Dysuria,dysuria-2464
+593,Early menstrual regulation,early-menstrual-regulation-3936
+594,Eating disorder,eating-disorder-3725
+595,Echinococcosis,echinococcosis-2465
+596,Eclampsia,eclampsia-2466
+597,Eczema,eczema-2467
+598,Eczematoid dermatitis,eczematoid-dermatitis-2468
+599,Electrolyte replenisher,electrolyte-replenisher-2469
+600,Electrolytes or calories or as an alkalinizing agent,electrolytes-or-calories-or-as-an-alkalinizing-agent-3696
+601,Elevated intraocular pressure,elevated-intraocular-pressure-4132
+602,Emergency contraception,emergency-contraception-2470
+603,Emotional disturbance,emotional-disturbance-2471
+604,Emphysema,emphysema-2472
+605,Empyema,empyema-2473
+606,Encephalitis virus vaccine,encephalitis-virus-vaccine-4196
+607,Encephalomyelitis,encephalomyelitis-2474
+608,Endocarditis,endocarditis-2476
+609,Endocrine Disorders,endocrine-disorders-3926
+610,End-of-dose motor fluctuations,end-of-dose-motor-fluctuations-3706
+611,Endometrial carcinoma,endometrial-carcinoma-2477
+612,Endometriosis,endometriosis-2478
+613,Endometritis,endometritis-2479
+614,Endometrium cancer,endometrium-cancer-2480
+615,Endophthalmitis,endophthalmitis-2481
+616,Endotracheal intubation,endotracheal-intubation-2482
+617,End-stage renal failure,end-stage-renal-failure-2475
+618,Energy malnutrition,energy-malnutrition-2483
+619,Enoxaparin or dalteparin overdosage,enoxaparin-or-dalteparin-overdosage-2484
+620,Ensures good eye sight,ensures-good-eye-sight-3960
+621,Enteric fever,enteric-fever-2485
+622,Enteritis,enteritis-2486
+623,Enterobiasis,enterobiasis-2487
+624,Enterocolitis,enterocolitis-2488
+625,Enuresis,enuresis-2489
+626,Envenomation caused by snake bites,envenomation-caused-by-snake-bites-4015
+627,Epidermal growth factor receptor (EGFR),epidermal-growth-factor-receptor-egfr-4113
+628,Epidural,epidural-2490
+629,Epidural anaesthesia,epidural-anaesthesia-2491
+630,Epidural analgesia,epidural-analgesia-2492
+631,Epidural intrathecal anesthesia,epidural-intrathecal-anesthesia-3688
+632,Epilepsy,epilepsy-2493
+633,Episcleritis,episcleritis-2494
+634,Erectile dysfunction,erectile-dysfunction-2495
+635,Erosive oesophagitis,erosive-oesophagitis-2496
+636,Erysipelas,erysipelas-2497
+637,Erysipeloid,erysipeloid-2498
+638,Erythema multiforme,erythema-multiforme-2499
+639,Erythema nodosum leprosum (Type 2),erythema-nodosum-leprosum-type-2-2500
+640,Erythrasma,erythrasma-4021
+641,Essential hypertension,essential-hypertension-3651
+642,Essential thrombocythemia,essential-thrombocythemia-2501
+643,Essential tremor,essential-tremor-2502
+644,Excessive sweating,excessive-sweating-2503
+645,Excretory urography,excretory-urography-4156
+646,Exfoliative dermatitis,exfoliative-dermatitis-3676
+647,Extra-articular disorders,extra-articular-disorders-3953
+648,Extraocular and intraocular irrigating solution during ocular surgical procedure,extraocular-and-intraocular-irrigating-solution-during-ocular-surgical-procedure-3699
+649,Extrapyramidal symptoms,extrapyramidal-symptoms-2504
+650,Exudative ARMD,exudative-armd-3685
+651,Eye allergy,eye-allergy-2505
+652,Eye health,eye-health-4082
+653,Eye infections,eye-infections-2506
+654,Eye irritation,eye-irritation-2507
+655,Eye refraction,eye-refraction-2508
+656,Facial paralysis,facial-paralysis-4080
+657,Facilitate endotracheal intubation,facilitate-endotracheal-intubation-3968
+658,Facilitate lactation,facilitate-lactation-2509
+659,Facilitate mechanical ventilation in intensive care,facilitate-mechanical-ventilation-in-intensive-care-3970
+660,Faecal impaction,faecal-impaction-3918
+661,Falciparum malaria,falciparum-malaria-2510
+662,Familial adenomatous polyposis,familial-adenomatous-polyposis-2512
+663,Familial hypercholesterolemia,familial-hypercholesterolemia-2513
+664,Familial hypophosphatemia,familial-hypophosphatemia-2514
+665,Familial mediterranean fever,familial-mediterranean-fever-2511
+666,Fat carbohydrate metabolism,fat-carbohydrate-metabolism-3962
+667,Fatigue,fatigue-2515
+668,Fatty liver,fatty-liver-2516
+669,Febrile neutropenia,febrile-neutropenia-2517
+670,Feebleness,feebleness-4203
+671,Female hypogonadism,female-hypogonadism-3766
+672,Female infertility,female-infertility-2518
+673,fenestration,fenestration-4141
+674,Fertility,fertility-2519
+675,Fever,fever-2520
+676,Fever blisters,fever-blisters-2521
+677,Fibromyalgia,fibromyalgia-2522
+678,Filariasis,filariasis-2523
+679,Fitting of hard contact lenses,fitting-of-hard-contact-lenses-2524
+680,Flaking scalps,flaking-scalps-2525
+681,Flatulence,flatulence-2526
+682,Flu,flu-2527
+683,Fluid and electrolyte imbalance,fluid-and-electrolyte-imbalance-2528
+684,Fluid and electrolytes replenisher in hypervolemia,fluid-and-electrolytes-replenisher-in-hypervolemia-3697
+685,Fluid replacement,fluid-replacement-2529
+686,Folic acid & zinc Deficiency,folic-acid-zinc-deficiency-2530
+687,Folic acid deficiency,folic-acid-deficiency-2531
+688,Follicular lymphoma,follicular-lymphoma-2532
+689,Folliculitis,folliculitis-2533
+690,Following pancreatic surgery,following-pancreatic-surgery-2534
+691,Food supplement,food-supplement-2535
+692,For degerming skin in hyperalimentation and catheter care,for-degerming-skin-in-hyperalimentation-and-catheter-care-3987
+693,For growing children,for-growing-children-4066
+694,Fracture and joint manipulation,fracture-and-joint-manipulation-2537
+695,Freckles,freckles-2538
+696,Functional diarrhea,functional-diarrhea-2539
+697,Functional dyspepsia,functional-dyspepsia-2540
+698,Functional rehabilitation after cerebrovascular accidents,functional-rehabilitation-after-cerebrovascular-accidents-2541
+699,Funduscopy,funduscopy-2542
+700,Fungal conjunctivitis,fungal-conjunctivitis-3948
+701,Fungal corneal ulcers,fungal-corneal-ulcers-2544
+702,Fungal eye infections,fungal-eye-infections-2545
+703,Fungal infections,fungal-infections-2546
+704,Fungal infections of the mouth Throat and gut,fungal-infections-of-the-mouth-throat-and-gut-2547
+705,Fungal keratitis,fungal-keratitis-2548
+706,Fungal otitis externa,fungal-otitis-externa-2549
+707,Fungal skin infections,fungal-skin-infections-2550
+708,Fungal UTIs,fungal-utis-2543
+709,Fungating tumours,fungating-tumours-3932
+710,Furuncles,furuncles-2552
+711,Furunculosis,furunculosis-2553
+712,Fusobacterium infections,fusobacterium-infections-2554
+713,Galactorrhea,galactorrhea-3687
+714,Gangrene,gangrene-2557
+715,Gas gangrene,gas-gangrene-2559
+716,Gastric and duodenal ulceration,gastric-and-duodenal-ulceration-2561
+717,Gastric bypass surgery,gastric-bypass-surgery-2562
+718,Gastric cancer,gastric-cancer-2563
+719,Gastric Hyperacidity,gastric-hyperacidity-2560
+720,Gastric problems,gastric-problems-2564
+721,Gastric ulcer,gastric-ulcer-2565
+722,Gastritis,gastritis-2566
+723,Gastroenteritis,gastroenteritis-2569
+724,Gastro-enteritis with dehydration,gastro-enteritis-with-dehydration-2567
+725,Gastroesophageal reflux disease (GERD),gastroesophageal-reflux-disease-gerd-2568
+726,Gastrointestinal (Gl) bleeding from stress,gastrointestinal-gl-bleeding-from-stress-3972
+727,Gastrointestinal disorders,gastrointestinal-disorders-2570
+728,Gastrointestinal haemorrhage,gastrointestinal-haemorrhage-2555
+729,Gastrointestinal haemorrhage from stress ulceration,gastrointestinal-haemorrhage-from-stress-ulceration-2556
+730,Gastrointestinal hyperacidity,gastrointestinal-hyperacidity-2571
+731,Gastrointestinal stromal tumor,gastrointestinal-stromal-tumor-2572
+732,Gastrointestinal Stromal Tumors,gastrointestinal-stromal-tumors-4136
+733,Gastrointestinal tract infections,gastrointestinal-tract-infections-2573
+734,Gastrointestinal tract spasm,gastrointestinal-tract-spasm-2574
+735,Gastroparesis,gastroparesis-2575
+736,General anaesthesia,general-anaesthesia-2576
+737,General kidney & heart transplant,general-kidney-heart-transplant-4098
+738,General weakness,general-weakness-2577
+739,Generalized anxiety disorder,generalized-anxiety-disorder-2579
+740,Generalized tonic-clonic seizures,generalized-tonic-clonic-seizures-2578
+741,Genital herpes,genital-herpes-2580
+742,Genital warts,genital-warts-2581
+743,Genitourinary spasm,genitourinary-spasm-2582
+744,Genitourinary tract infections,genitourinary-tract-infections-2583
+745,Germ cell tumors,germ-cell-tumors-2584
+746,Giardiasis,giardiasis-2585
+747,Gingivitis,gingivitis-2586
+748,Glabellar and lateral Canthal lines (cosmetic purpose),glabellar-and-lateral-canthal-lines-cosmetic-purpose-3751
+749,Glaucoma,glaucoma-2587
+750,Glaucoma surgery,glaucoma-surgery-2588
+751,Glioblastoma multiforme,glioblastoma-multiforme-2589
+752,Glossitis,glossitis-4073
+753,Gluten enteropathy or sprue,gluten-enteropathy-or-sprue-2590
+754,Gnathostomiasis,gnathostomiasis-2591
+755,Gonococcal urethritis,gonococcal-urethritis-2592
+756,Gonorrhoea,gonorrhoea-2593
+757,Gout,gout-2594
+758,Gouty arthritis,gouty-arthritis-2595
+759,Gram-positive infection,gram-positive-infection-2596
+760,Granuloma inguinale,granuloma-inguinale-2597
+761,Gravesâ€™ disease,graves-disease-2598
+762,Graying hair,graying-hair-3701
+763,Grazes,grazes-3707
+764,Group A Streptococcus infections,group-a-streptococcus-infections-2599
+765,Growth and repair of body tissue; bone; skin; teeth & hair.,growth-and-repair-of-body-tissue-bone-skin-teeth-hair-3671
+766,Growth hormone deficiency,growth-hormone-deficiency-2600
+767,Guillain-Barre syndrome,guillain-barre-syndrome-3861
+768,Gum disease,gum-disease-2601
+769,Gum sore,gum-sore-2602
+770,Gum swelling,gum-swelling-3712
+771,Gynaecomastia,gynaecomastia-2603
+772,Gynecological infections,gynecological-infections-2604
+773,H. pylori infection,h-pylori-infection-2605
+774,Habitual abortion,habitual-abortion-4127
+775,Haematuria,haematuria-2609
+776,Haemodialysis,haemodialysis-2610
+777,Haemophilia A,haemophilia-a-3834
+778,Haemophilus influenzae type b infection,haemophilus-influenzae-type-b-infection-2611
+779,Haemoptysis,haemoptysis-2612
+780,Haemorrhage,haemorrhage-2613
+781,Haemorrhagic cystitis and haematuria,haemorrhagic-cystitis-and-haematuria-2614
+782,Haemorrhoids (Piles),haemorrhoids-piles-2615
+783,Hair loss,hair-loss-2616
+784,Hairy cell leukaemia,hairy-cell-leukaemia-2617
+785,Hand and foot eczema,hand-and-foot-eczema-4034
+786,Hay fever,hay-fever-2618
+787,Head & neck cancer,head-neck-cancer-2619
+788,Head injury,head-injury-2620
+789,Head lice,head-lice-2621
+790,Head pediculosis,head-pediculosis-3974
+791,Headache,headache-2622
+792,Healthy urinary flow,healthy-urinary-flow-4195
+793,Heart disease,heart-disease-2623
+794,Heart failure,heart-failure-2624
+795,Heartburn,heartburn-2625
+796,Heartburn & gastritis,heartburn-gastritis-2626
+797,Helicobacter pylori eradication,helicobacter-pylori-eradication-4125
+798,Helminthiasis,helminthiasis-2627
+799,Hematological and Oncological Disorders,hematological-and-oncological-disorders-3928
+800,Hemicrania continua,hemicrania-continua-2628
+801,Hemodialysis dependent-chronic kidney disease (HDD-CKD) patients receiving an erythropoietin,hemodialysis-dependent-chronic-kidney-disease-hdd-ckd-patients-receiving-an-erythropoietin-3810
+802,Hemofiltration,hemofiltration-2629
+803,Hemolytic disease of the newborn,hemolytic-disease-of-the-newborn-2630
+804,Hemophilia,hemophilia-2631
+805,Hemophilia A,hemophilia-a-2632
+806,Hemorrhage,hemorrhage-3768
+807,Heparin overdosage,heparin-overdosage-2634
+808,Hepatic amoebiasis,hepatic-amoebiasis-2635
+809,Hepatic cirrhosis with ascites and oedema,hepatic-cirrhosis-with-ascites-and-oedema-2636
+810,Hepatic encephalopathy,hepatic-encephalopathy-2637
+811,Hepatic insufficiency,hepatic-insufficiency-3878
+812,Hepatic transplant rejection,hepatic-transplant-rejection-2638
+813,Hepatitis A virus,hepatitis-a-virus-2639
+814,Hepatitis B virus,hepatitis-b-virus-2640
+815,Hepatitis C virus related thrombocytopenia,hepatitis-c-virus-related-thrombocytopenia-3814
+816,Hepatits A,hepatits-a-3864
+817,Hepatocellular Carcinoma,hepatocellular-carcinoma-4137
+818,Hepatoprotective and antioxidant activity,hepatoprotective-and-antioxidant-activity-4014
+819,Hereditary angioedema,hereditary-angioedema-2641
+820,Hereditary hemorrhagic telangiectasia,hereditary-hemorrhagic-telangiectasia-2642
+821,Herpes labialis,herpes-labialis-2643
+822,Herpes simplex,herpes-simplex-2644
+823,Herpes simplex keratitis,herpes-simplex-keratitis-2645
+824,Herpes virus infections,herpes-virus-infections-2646
+825,Herpes zoster (shingles),herpes-zoster-shingles-2647
+826,Herpes zoster keratitis,herpes-zoster-keratitis-3910
+827,Herpes zoster ophthalmicus,herpes-zoster-ophthalmicus-2648
+828,Hiccups,hiccups-2649
+829,Hidradenitis,hidradenitis-4018
+830,High Cholesterol,high-cholesterol-3758
+831,High triglyceride,high-triglyceride-2650
+832,Hirsutism,hirsutism-2651
+833,Histiocytic lymphoma,histiocytic-lymphoma-4060
+834,Histoplasmosis,histoplasmosis-2652
+835,HIV infection,hiv-infection-2606
+836,HIV-associated diarrhoea,hiv-associated-diarrhoea-2607
+837,HIV-associated wasting or cachexia,hiv-associated-wasting-or-cachexia-2608
+838,Hives,hives-2653
+839,HMG CoA reductase inhibitors,hmg-coa-reductase-inhibitors-3759
+840,Hodgkinâ€™s disease,hodgkins-disease-2654
+841,Hodgkinâ€™s lymphoma,hodgkins-lymphoma-2655
+842,Homozygous familial hypercholesterolemia,homozygous-familial-hypercholesterolemia-2656
+843,Hookworm infections,hookworm-infections-2657
+844,Hormone replacement therapy,hormone-replacement-therapy-2658
+845,Hot flushes,hot-flushes-2659
+846,Household Exposure to Persons with Acute HBV Infection,household-exposure-to-persons-with-acute-hbv-infection-4165
+847,Human Papillomavirus infection,human-papillomavirus-infection-2660
+848,Hydration,hydration-2661
+849,Hyperacidity,hyperacidity-2662
+850,Hyperactivity,hyperactivity-2663
+851,Hyperactivity disorders,hyperactivity-disorders-2664
+852,Hyperaldosteronism,hyperaldosteronism-2665
+853,Hypercalcaemia,hypercalcaemia-2666
+854,Hypercalcaemia of malignancy,hypercalcaemia-of-malignancy-2667
+855,Hyperchlorhydria,hyperchlorhydria-2668
+856,Hypercholesterolaemia,hypercholesterolaemia-2669
+857,Hyperekplexia,hyperekplexia-2670
+858,Hypereosinophilic syndrome,hypereosinophilic-syndrome-2671
+859,Hyperhidrosis,hyperhidrosis-2672
+860,Hyperhomocysteinemia,hyperhomocysteinemia-2673
+861,Hyperkalaemia,hyperkalaemia-2674
+862,Hyperkalemia,hyperkalemia-4169
+863,Hyperkeratosis,hyperkeratosis-2675
+864,Hyperkeratotic,hyperkeratotic-2676
+865,Hyperkeratotic and scaling skin conditions,hyperkeratotic-and-scaling-skin-conditions-2677
+866,Hyperlipidaemia,hyperlipidaemia-2678
+867,Hyperlipidemia,hyperlipidemia-4191
+868,Hyperparathyroidism,hyperparathyroidism-2679
+869,Hyperphosphataemia,hyperphosphataemia-2680
+870,Hyperphosphataemia in patients with chronic renal failure,hyperphosphataemia-in-patients-with-chronic-renal-failure-4013
+871,Hyperpigmentation,hyperpigmentation-2681
+872,Hyperprolactinemia,hyperprolactinemia-2682
+873,hyperpyrexia,hyperpyrexia-3778
+874,Hypersecretory conditions,hypersecretory-conditions-2683
+875,Hypersensitivity reactions,hypersensitivity-reactions-2684
+876,Hypertension,hypertension-2685
+877,Hypertensive crisis,hypertensive-crisis-2686
+878,Hyperthyroidism,hyperthyroidism-2687
+879,Hypertriglyceridaemia,hypertriglyceridaemia-2688
+880,Hypertrophic cardiomyopathy,hypertrophic-cardiomyopathy-2689
+881,Hyperuricaemia,hyperuricaemia-2690
+882,Hypnotic,hypnotic-2691
+883,Hypoalbuminemia,hypoalbuminemia-2692
+884,Hypocalcaemia,hypocalcaemia-2693
+885,Hypocalcemic tetany,hypocalcemic-tetany-2694
+886,Hypodermoclysis,hypodermoclysis-2695
+887,Hypoglycemia,hypoglycemia-2696
+888,Hypogonadism,hypogonadism-2697
+889,Hypogonadotrophic hypogonadism,hypogonadotrophic-hypogonadism-2698
+890,Hypokalaemia,hypokalaemia-2699
+891,Hypomagnesemia,hypomagnesemia-2700
+892,Hyponatraemia,hyponatraemia-2701
+893,Hypoparathyroidism,hypoparathyroidism-2702
+894,Hypophosphataemia,hypophosphataemia-2703
+895,Hypoproteinaemia,hypoproteinaemia-2704
+896,Hypoprothrombinemia,hypoprothrombinemia-2705
+897,Hypotension,hypotension-2706
+898,Hypotensive anaesthesia,hypotensive-anaesthesia-2707
+899,Hypothyroidism,hypothyroidism-2708
+900,Hypovolaemia and shock,hypovolaemia-and-shock-2709
+901,Hypovolaemic shock,hypovolaemic-shock-2710
+902,Hypovolemia,hypovolemia-2711
+903,Ichthyosis,ichthyosis-2713
+904,Ichthyosis and dry skin conditions,ichthyosis-and-dry-skin-conditions-2714
+905,Ideal for those with photodermatoses & reduced skin pigmentation,ideal-for-those-with-photodermatoses-reduced-skin-pigmentation-3934
+906,Idiopathic intracranial hypertension,idiopathic-intracranial-hypertension-2715
+907,Idiopathic parkinsonism,idiopathic-parkinsonism-2716
+908,Idiopathic Pulmonary Fibrosis,idiopathic-pulmonary-fibrosis-4149
+909,Idiopathic thrombocytopenic purpura,idiopathic-thrombocytopenic-purpura-2717
+910,Imaging of the Gl tract,imaging-of-the-gl-tract-2718
+911,Immune system depression,immune-system-depression-3763
+912,Immunodeficiency,immunodeficiency-2719
+913,Impaired speech,impaired-speech-4208
+914,Impetigo,impetigo-2720
+915,Impetigo and infected dermatitis,impetigo-and-infected-dermatitis-2721
+916,Improve appetite and growth of children,improve-appetite-and-growth-of-children-3957
+917,Improve skin tone and texture,improve-skin-tone-and-texture-2722
+918,Improves Cardiovascular health (Atherosclerosis; reduce cholesterol),improves-cardiovascular-health-atherosclerosis-reduce-cholesterol-3792
+919,Improves recovery from central nervous system injuries,improves-recovery-from-central-nervous-system-injuries-3785
+920,Improving recovery after stroke,improving-recovery-after-stroke-2723
+921,Improving the nutritional status of women prior to conception,improving-the-nutritional-status-of-women-prior-to-conception-3941
+922,Improving the nutritional status of women throughout the pregnancy,improving-the-nutritional-status-of-women-throughout-the-pregnancy-3940
+923,In vitro fertilization,in-vitro-fertilization-2725
+924,In vitro fertilization procedures,in-vitro-fertilization-procedures-4093
+925,Incisions and other topical lesions,incisions-and-other-topical-lesions-3986
+926,Including patients managed medically,including-patients-managed-medically-4049
+927,Increase bone mass in men with osteoporosis,increase-bone-mass-in-men-with-osteoporosis-4007
+928,Increase platelet count in patients with idiopathic thrombocytopenic purpura,increase-platelet-count-in-patients-with-idiopathic-thrombocytopenic-purpura-3859
+929,Increase yield of autologous blood,increase-yield-of-autologous-blood-3821
+930,Increased demand for Calcium and Vitamin C,increased-demand-for-calcium-and-vitamin-c-2727
+931,Increases immunity,increases-immunity-4069
+932,Increases the carnitine which is responsible of energy production,increases-the-carnitine-which-is-responsible-of-energy-production-3964
+933,Indigestion,indigestion-2728
+934,Induction and augmentation of labor,induction-and-augmentation-of-labor-2729
+935,Induction of anesthesia,induction-of-anesthesia-2730
+936,Infantile colic,infantile-colic-2731
+937,Infantile eczema,infantile-eczema-2732
+938,Infantile spasms,infantile-spasms-2733
+939,Infected acne,infected-acne-2734
+940,Infected burns,infected-burns-2735
+941,Infected decubitus or stasis ulcers,infected-decubitus-or-stasis-ulcers-3981
+942,Infected eczema,infected-eczema-2736
+943,Infected surgical incisions,infected-surgical-incisions-3980
+944,Infected traumatic lesions,infected-traumatic-lesions-3984
+945,Infected wounds & ulcers,infected-wounds-ulcers-2737
+946,Infections,infections-2738
+947,Infections caused by Staphylococcus,infections-caused-by-staphylococcus-2739
+948,Infections of the lower respiratory tract,infections-of-the-lower-respiratory-tract-2740
+949,Infectious disease,infectious-disease-2742
+950,Infective endocarditis,infective-endocarditis-2743
+951,Infective otitis externa,infective-otitis-externa-3780
+952,Infertility,infertility-2744
+953,Infertility due to cervical hostility,infertility-due-to-cervical-hostility-3829
+954,Infiltration anesthesia,infiltration-anesthesia-2745
+955,Inflammation,inflammation-2746
+956,Inflammation of the cornea,inflammation-of-the-cornea-2747
+957,Inflammation of the external ear,inflammation-of-the-external-ear-2748
+958,Inflammatory bowel disease,inflammatory-bowel-disease-2749
+959,Inflammatory conditions of the palpebral and bulbar conjunctiva,inflammatory-conditions-of-the-palpebral-and-bulbar-conjunctiva-2750
+960,Inflammatory diseases of Rhinopharyngeal tract,inflammatory-diseases-of-rhinopharyngeal-tract-3638
+961,Inflammatory eye disorders,inflammatory-eye-disorders-2751
+962,Inflammatory joint disease,inflammatory-joint-disease-2752
+963,Inflammatory skin disorders,inflammatory-skin-disorders-2753
+964,Influenza,influenza-2754
+965,Influenza A and B,influenza-a-and-b-2755
+966,Influenza virus vaccine,influenza-virus-vaccine-2756
+967,Ingrown toenails,ingrown-toenails-3977
+968,Injuries (traumatic shock),injuries-traumatic-shock-2757
+969,Injury of the pyramidal tract,injury-of-the-pyramidal-tract-2758
+970,Inoperable metastatic breast cancer,inoperable-metastatic-breast-cancer-2759
+971,Insect bite and skin disease by secondary bacterial infection.,insect-bite-and-skin-disease-by-secondary-bacterial-infection-3684
+972,Insect bites,insect-bites-2760
+973,Insect repellent,insect-repellent-4199
+974,Insect stings,insect-stings-2761
+975,Insomnia and sleep disturbances,insomnia-and-sleep-disturbances-2762
+976,Insomnia associated with anxiety,insomnia-associated-with-anxiety-3905
+977,Intermittent angioneurotic dysbasia,intermittent-angioneurotic-dysbasia-2763
+978,Intermittent claudication,intermittent-claudication-2764
+979,Interstitial cystitis,interstitial-cystitis-3722
+980,Intertrigo,intertrigo-3675
+981,Intestinal amoebiasis,intestinal-amoebiasis-2765
+982,Intestinal candidiasis,intestinal-candidiasis-2767
+983,Intestinal hypermotility,intestinal-hypermotility-2768
+984,Intestinal or oropharyngeal candidiasis,intestinal-or-oropharyngeal-candidiasis-2769
+985,Intimate hygiene wash,intimate-hygiene-wash-4213
+986,Intra-abdominal infections,intra-abdominal-infections-2770
+987,Intrapartum prophylaxis against group B streptococcal infections,intrapartum-prophylaxis-against-group-b-streptococcal-infections-2772
+988,Intrauterine growth retardation,intrauterine-growth-retardation-2773
+989,Intravenous use in MRI to visualize lesions with abnormal vascularity in the brain; spine and associated tissues,intravenous-use-in-mri-to-visualize-lesions-with-abnormal-vascularity-in-the-brain-spine-and-associated-tissues-3850
+990,Invasive aspergillosis,invasive-aspergillosis-2775
+991,Iodine deficiency,iodine-deficiency-2776
+992,Iodine deficiency disorders,iodine-deficiency-disorders-2777
+993,Iridocyclitis,iridocyclitis-2778
+994,Iritis,iritis-2779
+995,Iritis and iridocyclitis,iritis-and-iridocyclitis-2780
+996,Iron and folic acid deficiency in pregnancy,iron-and-folic-acid-deficiency-in-pregnancy-2782
+997,Iron deficiency,iron-deficiency-2783
+998,Iron deficiency anemia,iron-deficiency-anemia-2784
+999,Iron deficiency during pregnancy and lactation,iron-deficiency-during-pregnancy-and-lactation-2785
+1000,Iron overload,iron-overload-2786
+1001,Iron poisoning,iron-poisoning-2787
+1002,Iron supplement,iron-supplement-2788
+1003,Iron; Folic Acid and zinc deficiency during pregnancy and lactation,iron-folic-acid-and-zinc-deficiency-during-pregnancy-and-lactation-2781
+1004,Iron; Folic acid; Zinc; Vitamin B & Vitamin C deficiency during pregnancy and lactation,iron-folic-acid-zinc-vitamin-b-vitamin-c-deficiency-during-pregnancy-and-lactation-3708
+1005,Iron; Vitamin B and Zinc deficiencies,iron-vitamin-b-and-zinc-deficiencies-3582
+1006,Irrigation of the tear ducts,irrigation-of-the-tear-ducts-2789
+1007,Irrigation solution,irrigation-solution-2790
+1008,Irritability,irritability-3732
+1009,Irritability in autism,irritability-in-autism-2791
+1010,Irritable bowel syndrome (IBS),irritable-bowel-syndrome-ibs-2792
+1011,Irritable bowel syndrome and constipation,irritable-bowel-syndrome-and-constipation-2793
+1012,Irritable or spastic colon,irritable-or-spastic-colon-2794
+1013,Irritation and discomfort of the eye,irritation-and-discomfort-of-the-eye-2795
+1014,Ischaemic events,ischaemic-events-2796
+1015,Ischaemic heart disease,ischaemic-heart-disease-2797
+1016,Ischemic stroke,ischemic-stroke-2798
+1017,Itchiness or irritation around the anus,itchiness-or-irritation-around-the-anus-3691
+1018,Itching,itching-2799
+1019,Itching and pain,itching-and-pain-3836
+1020,Itchy or watery eyes,itchy-or-watery-eyes-2800
+1021,Jaundice,jaundice-2801
+1022,Jock itch,jock-itch-2802
+1023,Joint and muscular pains,joint-and-muscular-pains-2803
+1024,Joint inflammations,joint-inflammations-2804
+1025,Joint pain,joint-pain-2805
+1026,Joint stiffness,joint-stiffness-2806
+1027,Juvenile idiopathic arthritis,juvenile-idiopathic-arthritis-2807
+1028,Juvenile rheumatoid arthritis,juvenile-rheumatoid-arthritis-2808
+1029,Kaposi's sarcoma,kaposis-sarcoma-2809
+1030,Kawasaki disease,kawasaki-disease-3860
+1031,Kawasaki disease and dermatomyositis sarcoidosis,kawasaki-disease-and-dermatomyositis-sarcoidosis-2810
+1032,Keratitis,keratitis-2811
+1033,Keratitis disciformis,keratitis-disciformis-2812
+1034,Keratoconjunctivitis,keratoconjunctivitis-2813
+1035,Keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex viruses,keratoconjunctivitis-and-recurrent-epithelial-keratitis-due-to-herpes-simplex-viruses-2814
+1036,Keratoconjunctivitis sicca,keratoconjunctivitis-sicca-2815
+1037,Keratosis,keratosis-2816
+1038,Keratosis pilaris,keratosis-pilaris-2817
+1039,Kidney cancer,kidney-cancer-2818
+1040,Kidney disease,kidney-disease-2819
+1041,Kidney stones and inflammatory bowel disease (e.g.; ulcerative colitis; leaky gut syndrome),kidney-stones-and-inflammatory-bowel-disease-eg-ulcerative-colitis-leaky-gut-syndrome-3755
+1042,Labour induction,labour-induction-2820
+1043,Lacerations,lacerations-2821
+1044,Lacrimation,lacrimation-2822
+1045,Lactation,lactation-2823
+1046,Lactation suppression,lactation-suppression-2824
+1047,Lactose intolerance such as bloating; flatulence; diarrhea,lactose-intolerance-such-as-bloating-flatulence-diarrhea-4083
+1048,Latent tetany,latent-tetany-2825
+1049,Left ventricular dysfunction,left-ventricular-dysfunction-2826
+1050,Leg cramps,leg-cramps-2827
+1051,Leg ulcers and pressure sores,leg-ulcers-and-pressure-sores-2828
+1052,Legionellosis,legionellosis-3729
+1053,Legionnaireâ€™s disease,legionnaires-disease-2829
+1054,Leishmaniasis,leishmaniasis-2830
+1055,Lens opacification,lens-opacification-2831
+1056,Leprosy,leprosy-2832
+1057,Letterer-Siwe disease,letterer-siwe-disease-4061
+1058,Leukemia,leukemia-2833
+1059,Libido,libido-2834
+1060,Lichen,lichen-3737
+1061,Lichen planus,lichen-planus-2835
+1062,Lichen sclerosus,lichen-sclerosus-2836
+1063,Lichen simplex,lichen-simplex-2837
+1064,Limb spasticity,limb-spasticity-3749
+1065,Listeriosis,listeriosis-2838
+1066,Liver cirrhosis,liver-cirrhosis-2839
+1067,Liver disease,liver-disease-3769
+1068,Liver transplant,liver-transplant-2840
+1069,Local anaesthesia,local-anaesthesia-2841
+1070,Local occular anaesthesia,local-occular-anaesthesia-2842
+1071,Local or regional anesthesia,local-or-regional-anesthesia-2843
+1072,Local pain relief,local-pain-relief-2844
+1073,Loeffler's syndrome,loefflers-syndrome-2845
+1074,Loiasis,loiasis-2846
+1075,Low back pain,low-back-pain-2847
+1076,Lower respiratory tract infections,lower-respiratory-tract-infections-2848
+1077,Lower the blood pressure,lower-the-blood-pressure-4152
+1078,Lower urinary tract infections,lower-urinary-tract-infections-2849
+1079,Lubrication,lubrication-2850
+1080,Lumbago sciatica,lumbago-sciatica-4037
+1081,Lung abscess,lung-abscess-2851
+1082,Lung cancer,lung-cancer-2852
+1083,Lyme disease,lyme-disease-2853
+1084,Lymphatic filariasis,lymphatic-filariasis-2854
+1085,Lymphocytic leukemia,lymphocytic-leukemia-2855
+1086,Lymphocytic lymphoma,lymphocytic-lymphoma-4062
+1087,Lymphogranuloma venereum,lymphogranuloma-venereum-2856
+1088,Lymphoma,lymphoma-2857
+1089,Lymphosarcoma,lymphosarcoma-3922
+1090,Macrocytic anaemia,macrocytic-anaemia-2859
+1091,Macular Degeneration,macular-degeneration-2860
+1092,Magnesium sulfate overdose,magnesium-sulfate-overdose-2861
+1093,Maintain anesthesia,maintain-anesthesia-3966
+1094,Maintain healthy skin; hair; nail; teeth; bone; eye and nervous system,maintain-healthy-skin-hair-nail-teeth-bone-eye-and-nervous-system-4070
+1095,Maintenance of normal sinus rhythm,maintenance-of-normal-sinus-rhythm-4158
+1096,Major depression,major-depression-2862
+1097,Major depressive disorder,major-depressive-disorder-3630
+1098,Major trauma,major-trauma-2863
+1099,Malaria,malaria-2864
+1100,Malaria prophylaxis,malaria-prophylaxis-2865
+1101,Male hypogonadism,male-hypogonadism-2866
+1102,Male Hypogonadotropic Hypogonadism,male-hypogonadotropic-hypogonadism-3856
+1103,Male infertility,male-infertility-2867
+1104,Male pattern baldness,male-pattern-baldness-2868
+1105,Malignancy,malignancy-2869
+1106,Malignant effusions,malignant-effusions-2870
+1107,Malignant gastrointestinal stromal tumours,malignant-gastrointestinal-stromal-tumours-2871
+1108,Malignant gliomas,malignant-gliomas-2872
+1109,Malignant melanoma,malignant-melanoma-2873
+1110,Malignant neoplasm,malignant-neoplasm-3884
+1111,Malignant pleural mesothelioma,malignant-pleural-mesothelioma-2874
+1112,Malnourished infants,malnourished-infants-4096
+1113,Malnutrition,malnutrition-3880
+1114,Mania,mania-2875
+1115,Mantle cell lymphoma,mantle-cell-lymphoma-4138
+1116,Mastitis,mastitis-2876
+1117,Mastocytosis,mastocytosis-2877
+1118,mastoidectomy,mastoidectomy-4142
+1119,Measles,measles-2878
+1120,Measles attack in immunocompromised patients,measles-attack-in-immunocompromised-patients-3865
+1121,Megaloblastic anaemia,megaloblastic-anaemia-2879
+1122,Melanoma,melanoma-2880
+1123,Melasma,melasma-2881
+1124,Melioidosis,melioidosis-2882
+1125,Memory deficiency,memory-deficiency-4207
+1126,Meniereâ€™s disease,menieres-disease-2883
+1127,Meningioma,meningioma-2884
+1128,Meningitis,meningitis-2885
+1129,Meningitis and brain abscesses,meningitis-and-brain-abscesses-2886
+1130,Meningococcal infection,meningococcal-infection-2887
+1131,Meningococcal meningitis,meningococcal-meningitis-2888
+1132,Meningococcal meningitis and septicaemia,meningococcal-meningitis-and-septicaemia-2889
+1133,Meningococcal Pneumonia,meningococcal-pneumonia-3939
+1134,Meningococcemia,meningococcemia-2890
+1135,Menopausal atrophic vaginitis,menopausal-atrophic-vaginitis-2892
+1136,Menopausal flushing,menopausal-flushing-2893
+1137,Menopausal hormone replacement therapy,menopausal-hormone-replacement-therapy-2894
+1138,Menopausal HRT,menopausal-hrt-2891
+1139,Menopausal symptoms,menopausal-symptoms-2895
+1140,Menorrhagia,menorrhagia-2896
+1141,Menstrual cramps,menstrual-cramps-2897
+1142,Menstrual disorders,menstrual-disorders-2898
+1143,Metabolic alkalosis,metabolic-alkalosis-2900
+1144,Metastatic breast carcinoma,metastatic-breast-carcinoma-2903
+1145,Metastatic melanoma,metastatic-melanoma-2904
+1146,Metastatic non-small cell lung cancer,metastatic-non-small-cell-lung-cancer-4135
+1147,Metastatic Ovarian Tumors,metastatic-ovarian-tumors-2901
+1148,Metastatic prostate cancer,metastatic-prostate-cancer-2905
+1149,Metastatic Testicular Tumors,metastatic-testicular-tumors-2902
+1150,Methotrexate toxicity,methotrexate-toxicity-2906
+1151,Microbial contamination in burns,microbial-contamination-in-burns-3985
+1152,Microcytic anaemia,microcytic-anaemia-2907
+1153,Micturition complaints,micturition-complaints-3831
+1154,Middle ear infections (otitis media),middle-ear-infections-otitis-media-2908
+1155,Migraine,migraine-2909
+1156,Migraine and bipolar disorder,migraine-and-bipolar-disorder-2910
+1157,Migraine headache,migraine-headache-3635
+1158,Migraine prophylaxis,migraine-prophylaxis-2911
+1159,Migraines,migraines-4214
+1160,Mild cystitis and spasmodic dysmenorrhoea,mild-cystitis-and-spasmodic-dysmenorrhoea-2912
+1161,Mild diarrhea,mild-diarrhea-2913
+1162,Mild to moderate dementia in Alzheimerâ€™s disease,mild-to-moderate-dementia-in-alzheimers-disease-3337
+1163,Mild to moderate hypertension,mild-to-moderate-hypertension-3647
+1164,Mild to moderate pain,mild-to-moderate-pain-2914
+1165,Mild to moderate pain and fever,mild-to-moderate-pain-and-fever-2915
+1166,Mineral supplement,mineral-supplement-2916
+1167,Minor burns,minor-burns-2917
+1168,Minor cuts,minor-cuts-2918
+1169,Minor cuts and wounds,minor-cuts-and-wounds-3988
+1170,Minor dental procedures,minor-dental-procedures-3667
+1171,Minor skin infections,minor-skin-infections-2919
+1172,Miosis,miosis-2920
+1173,Miscarriage,miscarriage-2921
+1174,Missed abortion,missed-abortion-2922
+1175,Ml,ml-2858
+1176,Moderate to severe pain,moderate-to-severe-pain-2923
+1177,Moderate to severe symptoms of uterine fibroids,moderate-to-severe-symptoms-of-uterine-fibroids-4084
+1178,Moderate to severe tardive dyskinesia,moderate-to-severe-tardive-dyskinesia-4042
+1179,Moderate to severe vasomotor symptoms associated with menopause,moderate-to-severe-vasomotor-symptoms-associated-with-menopause-3826
+1180,Motion sickness,motion-sickness-2924
+1181,Mottled hyperpigmentation,mottled-hyperpigmentation-2925
+1182,Mouth sore,mouth-sore-2926
+1183,Mouth ulcers,mouth-ulcers-2927
+1184,Movement disorders,movement-disorders-4041
+1185,Mucocutaneous herpes,mucocutaneous-herpes-2928
+1186,Mucolytic,mucolytic-3686
+1187,Mucosal candidiasis,mucosal-candidiasis-2929
+1188,Multiple drug resistant pneumonia,multiple-drug-resistant-pneumonia-2930
+1189,Multiple myeloma,multiple-myeloma-2931
+1190,Multiple sclerosis,multiple-sclerosis-2932
+1191,Muscle aches,muscle-aches-2934
+1192,Muscle pain caused by spinal cord injury,muscle-pain-caused-by-spinal-cord-injury-3770
+1193,Muscle relaxant,muscle-relaxant-2935
+1194,Muscle relaxant in general anaesthesia,muscle-relaxant-in-general-anaesthesia-3969
+1195,Muscle relaxant in general anesthesia,muscle-relaxant-in-general-anesthesia-2936
+1196,Muscle spasm,muscle-spasm-2937
+1197,Muscular cramps.,muscular-cramps-3703
+1198,Muscular hypertension,muscular-hypertension-2938
+1199,Musculoskeletal and joint disorders,musculoskeletal-and-joint-disorders-2939
+1200,Musculoskeletal joint pain,musculoskeletal-joint-pain-2940
+1201,Musculoskeletal pain,musculoskeletal-pain-2941
+1202,Myasthenia gravis,myasthenia-gravis-2942
+1203,Mycoplasma pneumoniae,mycoplasma-pneumoniae-2943
+1204,Mycosis fungoides,mycosis-fungoides-2944
+1205,Mydriasis,mydriasis-2945
+1206,Mydriasis and cycloplegia for refraction,mydriasis-and-cycloplegia-for-refraction-2946
+1207,Myelodysplastic disease,myelodysplastic-disease-2947
+1208,Myelofibrosis,myelofibrosis-4180
+1209,Myeloproliferative disorders,myeloproliferative-disorders-2949
+1210,Myocardial infarction,myocardial-infarction-2950
+1211,Myositis,myositis-3951
+1212,Myxoedema coma,myxoedema-coma-2952
+1213,Nail fungal infections,nail-fungal-infections-2954
+1214,Nail infections,nail-infections-2955
+1215,Nappy rash,nappy-rash-2956
+1216,Narcolepsy,narcolepsy-2957
+1217,Nasal congestion,nasal-congestion-2958
+1218,Nasal polyposis,nasal-polyposis-2959
+1219,Nasal polyps,nasal-polyps-2960
+1220,Nausea,nausea-2961
+1221,Nausea and vomiting,nausea-and-vomiting-2962
+1222,Nausea and vomiting after surgery,nausea-and-vomiting-after-surgery-3656
+1223,Nausea and vomiting associated with chemotherapy or radiotherapy,nausea-and-vomiting-associated-with-chemotherapy-or-radiotherapy-2963
+1224,Necessary for the normal process in protein,necessary-for-the-normal-process-in-protein-3961
+1225,Neck pain,neck-pain-3924
+1226,Negative nitrogen balance,negative-nitrogen-balance-2964
+1227,Neonatal Conjunctivitis,neonatal-conjunctivitis-2965
+1228,Neonatal hyperbilirubinaemia,neonatal-hyperbilirubinaemia-3632
+1229,Neonatal sepsis,neonatal-sepsis-2966
+1230,Neovascular age-related macular degeneration,neovascular-age-related-macular-degeneration-2967
+1231,Nephrosis,nephrosis-2968
+1232,Nephrotic syndrome,nephrotic-syndrome-2969
+1233,Neural tube defect,neural-tube-defect-2970
+1234,Neuralgia,neuralgia-2971
+1235,Neuritis of pregnancy,neuritis-of-pregnancy-2972
+1236,Neuroblastoma,neuroblastoma-2973
+1237,Neurocysticercosis,neurocysticercosis-2974
+1238,Neurodermatitis,neurodermatitis-2975
+1239,Neuroendocrine tumors,neuroendocrine-tumors-2976
+1240,Neurogenic bladder disorders,neurogenic-bladder-disorders-3965
+1241,Neurological disorders,neurological-disorders-2977
+1242,Neuropathic pain,neuropathic-pain-2978
+1243,Neuropathy,neuropathy-2979
+1244,Neurosyphilis,neurosyphilis-2980
+1245,Neutropenia,neutropenia-2981
+1246,Neutropenia after cytotoxic chemotherapy,neutropenia-after-cytotoxic-chemotherapy-3623
+1247,Nicotinic acid deficiency,nicotinic-acid-deficiency-2982
+1248,Night blindness,night-blindness-2983
+1249,Nocturia,nocturia-2984
+1250,Nocturnal enuresis,nocturnal-enuresis-2985
+1251,Nocturnal leg cramps,nocturnal-leg-cramps-2986
+1252,Nocturnal myoclonus,nocturnal-myoclonus-3741
+1253,Non ST segment elevation Myocardial Infarction,non-st-segment-elevation-myocardial-infarction-3846
+1254,Non ulcer dyspepsia,non-ulcer-dyspepsia-2987
+1255,Non-alcoholic fatty liver disease (NAFLD),non-alcoholic-fatty-liver-disease-nafld-4173
+1256,Non-alcoholic steatohepatitis (NASH),non-alcoholic-steatohepatitis-nash-4174
+1257,Nonallergic rhinitis,nonallergic-rhinitis-3662
+1258,Non-dialysis dependent-chronic kidney disease (NDD-CKD) patients not receiving an erythropoietin,non-dialysis-dependent-chronic-kidney-disease-ndd-ckd-patients-not-receiving-an-erythropoietin-3809
+1259,Non-dialysis dependent-chronic kidney disease (NDD-CKD) patients receiving an erythropoietin,non-dialysis-dependent-chronic-kidney-disease-ndd-ckd-patients-receiving-an-erythropoietin-3808
+1260,Nongonococcal cervicitis,nongonococcal-cervicitis-2993
+1261,Non-gonococcal urethritis,non-gonococcal-urethritis-2989
+1262,Non-Hodgkin lymphoma,non-hodgkin-lymphoma-2988
+1263,Nonketotic hyperosmolar coma,nonketotic-hyperosmolar-coma-2994
+1264,Non-productive cough,non-productive-cough-2990
+1265,Nonproductive coughs,nonproductive-coughs-3532
+1266,Non-small cell lung cancer,non-small-cell-lung-cancer-2991
+1267,Nonspecific conjunctival irritation,nonspecific-conjunctival-irritation-2995
+1268,Non-ST-elevation myocardial infarction (NSTEMI),non-st-elevation-myocardial-infarction-nstemi-3996
+1269,Non-tubercular mycobacterial infections,non-tubercular-mycobacterial-infections-2992
+1270,Nosocomial pneumonia,nosocomial-pneumonia-2996
+1271,NSAID-induced ulcers,nsaid-induced-ulcers-2953
+1272,Nutrition,nutrition-2997
+1273,Nutritional supplement,nutritional-supplement-2998
+1274,Nutritional supplement of osteoporosis,nutritional-supplement-of-osteoporosis-3693
+1275,Nutritional therapy,nutritional-therapy-2999
+1276,Obesity,obesity-3645
+1277,Obliquity of male organ.,obliquity-of-male-organ-4206
+1278,Obliterative arteriosclerosis,obliterative-arteriosclerosis-3000
+1279,Obliterative thromboangitis,obliterative-thromboangitis-3001
+1280,Obsessive-compulsive disorder (OCD),obsessive-compulsive-disorder-ocd-3002
+1281,Obstetric analgesia,obstetric-analgesia-3003
+1282,Obstructive sleep apnea (OSA),obstructive-sleep-apnea-osa-4130
+1283,Occular pain and inflammation,occular-pain-and-inflammation-3005
+1284,Ocular and ear inflammation with bacterial infection,ocular-and-ear-inflammation-with-bacterial-infection-3006
+1285,Ocular hypertension,ocular-hypertension-3007
+1286,Ocular infections,ocular-infections-4110
+1287,Ocular inflammation,ocular-inflammation-3008
+1288,Ocular pain,ocular-pain-3009
+1289,Ocular pain and inflammation,ocular-pain-and-inflammation-4111
+1290,Oedema,oedema-3010
+1291,Oesophageal cancer,oesophageal-cancer-3011
+1292,Oesophageal carcinoma,oesophageal-carcinoma-3886
+1293,Oesophagitis,oesophagitis-3012
+1294,Oestrogen deficiency,oestrogen-deficiency-3013
+1295,Oliguric phase of renal failure,oliguric-phase-of-renal-failure-3014
+1296,Onchocerciasis,onchocerciasis-3015
+1297,Onychomycosis,onychomycosis-3016
+1298,Open angle glaucoma,open-angle-glaucoma-3018
+1299,Open heart surgery,open-heart-surgery-3017
+1300,Ophthalmic surgery,ophthalmic-surgery-3019
+1301,Opioid dependence,opioid-dependence-3020
+1302,Opioid induced depression,opioid-induced-depression-3022
+1303,Opioid overdosage,opioid-overdosage-3021
+1304,Optic neuritis,optic-neuritis-3023
+1305,Oral candidiasis or thrush,oral-candidiasis-or-thrush-3024
+1306,Oral contraceptives,oral-contraceptives-3025
+1307,Oral hygiene,oral-hygiene-3026
+1308,Organ transplantation,organ-transplantation-3027
+1309,Organic brain syndrome (OBS),organic-brain-syndrome-obs-3844
+1310,Organophosphorous poisoning,organophosphorous-poisoning-3028
+1311,Oropharyngeal candidiasis/Thrush,oropharyngeal-candidiasisthrush-3029
+1312,Orthopedics Surgery,orthopedics-surgery-3030
+1313,Osmotic laxative,osmotic-laxative-3031
+1314,Osmotic purgative,osmotic-purgative-3032
+1315,Osteoarthritis (degenerative arthritis),osteoarthritis-degenerative-arthritis-3033
+1316,Osteocalcaemia,osteocalcaemia-3035
+1317,Osteogenic sarcoma,osteogenic-sarcoma-3036
+1318,Osteomalacia,osteomalacia-3037
+1319,Osteomyelitis,osteomyelitis-3038
+1320,Osteopetrosis or stone bone,osteopetrosis-or-stone-bone-3039
+1321,Osteoporosis,osteoporosis-3040
+1322,Otic infections,otic-infections-3041
+1323,Otic inflammation,otic-inflammation-3042
+1324,Otitis externa,otitis-externa-3043
+1325,Otitis media,otitis-media-3044
+1326,Ovarian cancer,ovarian-cancer-3046
+1327,Ovarian failure,ovarian-failure-3047
+1328,Ovarian hyperstimulation syndrome,ovarian-hyperstimulation-syndrome-3045
+1329,Overactive bladder,overactive-bladder-3050
+1330,Over-anticoagulation,over-anticoagulation-3049
+1331,Ovulation induction,ovulation-induction-3051
+1332,Pagetâ€™s disease of bone,pagets-disease-of-bone-3052
+1333,Pain,pain-3053
+1334,Pain and fever,pain-and-fever-3054
+1335,Pain and inflammation,pain-and-inflammation-3055
+1336,Pain and inflammation associated with musculoskeletal and joint disorders,pain-and-inflammation-associated-with-musculoskeletal-and-joint-disorders-3056
+1337,Pain and itching caused by sunburn,pain-and-itching-caused-by-sunburn-3057
+1338,Pain and joint stiffness,pain-and-joint-stiffness-3058
+1339,Pain associated with myocardial infarction,pain-associated-with-myocardial-infarction-3059
+1340,Pain or irritation of the mouth and throat,pain-or-irritation-of-the-mouth-and-throat-3060
+1341,Pain or swelling of the cornea,pain-or-swelling-of-the-cornea-3061
+1342,Painful bladder syndrome,painful-bladder-syndrome-3062
+1343,Painful muscle spasm,painful-muscle-spasm-3063
+1344,Palliative treatment of endometrial and renal carcinoma,palliative-treatment-of-endometrial-and-renal-carcinoma-3914
+1345,Palliative treatment of prostatic carcinoma,palliative-treatment-of-prostatic-carcinoma-3913
+1346,Pancreatic cancer,pancreatic-cancer-3064
+1347,Pancreatic insufficiency,pancreatic-insufficiency-3065
+1348,Pancreatitis,pancreatitis-3066
+1349,Panic attack,panic-attack-3067
+1350,Panic disorder,panic-disorder-3068
+1351,Papillitis,papillitis-4178
+1352,Paracetamol poisoning,paracetamol-poisoning-3069
+1353,Paralytic ileus,paralytic-ileus-3070
+1354,Paralytic ileus and post-operative urinary retention,paralytic-ileus-and-post-operative-urinary-retention-3071
+1355,Parasomnia,parasomnia-3072
+1356,Parathyroid carcinoma,parathyroid-carcinoma-3073
+1357,Paratyphoid fever,paratyphoid-fever-3074
+1358,Parenteral fat emulsions,parenteral-fat-emulsions-3076
+1359,Parenteral nutrition,parenteral-nutrition-3077
+1360,Parenteral nutrition & hydration,parenteral-nutrition-hydration-3075
+1361,Parkinsonâ€™s disease,parkinsons-disease-3078
+1362,Parkinsonism,parkinsonism-3079
+1363,Paronychia,paronychia-4020
+1364,Paroxysmal supraventricular tachycardia,paroxysmal-supraventricular-tachycardia-3080
+1365,Partial seizures,partial-seizures-3081
+1366,Passive immunisation against tetanus,passive-immunisation-against-tetanus-4040
+1367,Passive immunity in the prevention & treatment of tetanus,passive-immunity-in-the-prevention-treatment-of-tetanus-4051
+1368,Patent ductus arteriosus,patent-ductus-arteriosus-3082
+1369,Patients with Acute Myeloid Leukemia receiving induction or consolidation chemotherapy,patients-with-acute-myeloid-leukemia-receiving-induction-or-consolidation-chemotherapy-3843
+1370,Pediatric eye examinations,pediatric-eye-examinations-3083
+1371,Pediculosis capitis,pediculosis-capitis-3084
+1372,Pediculosis pubis,pediculosis-pubis-3085
+1373,Pelvic cellulitis,pelvic-cellulitis-3086
+1374,Pelvic Inflammatory Disease (PID),pelvic-inflammatory-disease-pid-3654
+1375,Peptic ulcer disease,peptic-ulcer-disease-3088
+1376,Percutaneous coronary intervention (PCI),percutaneous-coronary-intervention-pci-3820
+1377,Percutaneous transluminal coronary angioplasty (PTCA),percutaneous-transluminal-coronary-angioplasty-ptca-3903
+1378,Perennial or seasonal allergic rhinitis,perennial-or-seasonal-allergic-rhinitis-3089
+1379,Perianal pain and itching,perianal-pain-and-itching-3091
+1380,Perianitis,perianitis-4176
+1381,Pericarditis,pericarditis-3092
+1382,Perinatal Exposure of Infants Born to HBsAg-positive Mothers,perinatal-exposure-of-infants-born-to-hbsag-positive-mothers-4163
+1383,Periodontal Disease,periodontal-disease-3765
+1384,Periodontitis,periodontitis-3093
+1385,Periods of rapid growth childhood,periods-of-rapid-growth-childhood-3094
+1386,Peripheral arterial embolism,peripheral-arterial-embolism-3096
+1387,Peripheral blood progenitor cell collection and therapy,peripheral-blood-progenitor-cell-collection-and-therapy-3841
+1388,Peripheral nerve block,peripheral-nerve-block-3097
+1389,Peripheral neuralgias: Diabetic neuropathy,peripheral-neuralgias-diabetic-neuropathy-3098
+1390,Peripheral neuritis,peripheral-neuritis-3702
+1391,Peripheral neuropathy,peripheral-neuropathy-3099
+1392,Peripheral vascular disease,peripheral-vascular-disease-3100
+1393,Peripheral venography,peripheral-venography-4157
+1394,Peritoneal dialysis,peritoneal-dialysis-3101
+1395,Peritoneal dialysis dependent-chronic kidney disease (PDD-CKD) patients receiving an erythropoietin,peritoneal-dialysis-dependent-chronic-kidney-disease-pdd-ckd-patients-receiving-an-erythropoietin-3811
+1396,Peritonitis,peritonitis-3102
+1397,Pernicious anemia,pernicious-anemia-3103
+1398,Pertussis,pertussis-3104
+1399,Phaeochromocytoma,phaeochromocytoma-3105
+1400,Pharyngitis,pharyngitis-3106
+1401,Pharyngitis and tonsillitis,pharyngitis-and-tonsillitis-3107
+1402,Phobias,phobias-3109
+1403,Photoaging,photoaging-3110
+1404,Photodermatitis,photodermatitis-3738
+1405,Piles,piles-3111
+1406,pimples and other signs of aging,pimples-and-other-signs-of-aging-3795
+1407,Pink eye,pink-eye-3112
+1408,Pituitary adenomas,pituitary-adenomas-3113
+1409,Pityriasis rubra pilaris,pityriasis-rubra-pilaris-3114
+1410,Pityriasis versicolor,pityriasis-versicolor-3115
+1411,Plague,plague-3116
+1412,Plaque,plaque-3117
+1413,Plaque psoriasis,plaque-psoriasis-3118
+1414,Pleural effusions,pleural-effusions-3119
+1415,Pleural empyema,pleural-empyema-3120
+1416,Pneumococcal disease,pneumococcal-disease-3121
+1417,Pneumococcal meningitis,pneumococcal-meningitis-3122
+1418,Pneumococcal pneumonia,pneumococcal-pneumonia-3123
+1419,Pneumococcus species gonorrhoea,pneumococcus-species-gonorrhoea-3124
+1420,Pneumocystis jiroveci pneumonia,pneumocystis-jiroveci-pneumonia-3125
+1421,Pneumonia,pneumonia-3126
+1422,Poison ivy,poison-ivy-3127
+1423,Poison oak,poison-oak-3128
+1424,Poison sumac,poison-sumac-3129
+1425,Poisoning due to foods; heavy meals & drugs,poisoning-due-to-foods-heavy-meals-drugs-3627
+1426,Poisonings,poisonings-3130
+1427,Polycystic ovarian syndrome,polycystic-ovarian-syndrome-3132
+1428,Polycythaemia vera,polycythaemia-vera-3133
+1429,Polymorphic light eruption,polymorphic-light-eruption-3134
+1430,Polymyositis,polymyositis-3135
+1431,Porphyria,porphyria-3136
+1432,Porphyria cutanea tarda,porphyria-cutanea-tarda-3137
+1433,Post essential thrombocythaemia myelofibrosis,post-essential-thrombocythaemia-myelofibrosis-4183
+1434,Post inflammatory hyperpigmentation,post-inflammatory-hyperpigmentation-3138
+1435,Post myocardial infarction,post-myocardial-infarction-3139
+1436,Post operative inflammation in the eye and ear,post-operative-inflammation-in-the-eye-and-ear-3724
+1437,Post polycythaemia vera myelofibrosis,post-polycythaemia-vera-myelofibrosis-4182
+1438,Post traumatic stress disorder (PTSD),post-traumatic-stress-disorder-ptsd-3742
+1439,Postcoital contraception,postcoital-contraception-3147
+1440,Posterior segment surgery,posterior-segment-surgery-3148
+1441,Postexposure prophylaxis of tetanus,postexposure-prophylaxis-of-tetanus-3149
+1442,Postexposure vaccination,postexposure-vaccination-4057
+1443,Post-herpetic keratitis,post-herpetic-keratitis-3140
+1444,Post-herpetic neuralgia,post-herpetic-neuralgia-3141
+1445,Post-menopausal osteoporosis,post-menopausal-osteoporosis-3142
+1446,Post-op conditions after strabotomy,post-op-conditions-after-strabotomy-2951
+1447,Postoperative bleeding,postoperative-bleeding-3150
+1448,Postoperative eye inflammation,postoperative-eye-inflammation-3151
+1449,Postoperative infections,postoperative-infections-3152
+1450,Post-operative nausea and vomiting,post-operative-nausea-and-vomiting-3143
+1451,Postoperative ocular inflammation,postoperative-ocular-inflammation-3153
+1452,Postoperative pain,postoperative-pain-3917
+1453,Post-operative pain,post-operative-pain-3144
+1454,Post-operative wound dressing,post-operative-wound-dressing-3145
+1455,Postpartum and post-abortion bleeding,postpartum-and-post-abortion-bleeding-3154
+1456,Postpartum haemorrhage,postpartum-haemorrhage-3155
+1457,Posttraumatic or pre- and postoperative otitis externa,posttraumatic-or-pre-and-postoperative-otitis-externa-3848
+1458,Post-traumatic stress disorder,post-traumatic-stress-disorder-3146
+1459,Postural hypotension,postural-hypotension-4148
+1460,Prader Willi syndrome,prader-willi-syndrome-3156
+1461,Pre & post operative cough,pre-post-operative-cough-3690
+1462,Pre-eclampsia,pre-eclampsia-3159
+1463,Pregnancy,pregnancy-3162
+1464,Pregnancy and lactation,pregnancy-and-lactation-3163
+1465,Pregnancy-associated nausea and vomiting,pregnancy-associated-nausea-and-vomiting-3165
+1466,Premalignant cervical lesions and cervical cancer,premalignant-cervical-lesions-and-cervical-cancer-3166
+1467,Premature ejaculation,premature-ejaculation-3167
+1468,Premature labour,premature-labour-3168
+1469,Premedication in surgery,premedication-in-surgery-3904
+1470,Premenstrual dysmorphic disorder,premenstrual-dysmorphic-disorder-3169
+1471,Premenstrual syndrome,premenstrual-syndrome-3170
+1472,Pre-operative and post-operative skin cleansing,pre-operative-and-post-operative-skin-cleansing-3157
+1473,Pre-operative antimuscarinic agent,pre-operative-antimuscarinic-agent-3868
+1474,Preoperative hand disinfection,preoperative-hand-disinfection-3717
+1475,Pre-operative or post-operative sedation,pre-operative-or-post-operative-sedation-3158
+1476,Pre-operative scrubbing & washing,pre-operative-scrubbing-washing-3160
+1477,Preoperative sedation,preoperative-sedation-3171
+1478,Pre-operative skin disinfection,pre-operative-skin-disinfection-3161
+1479,Pre-Operative Supplements,pre-operative-supplements-3901
+1480,Preparation for thyroidectomy,preparation-for-thyroidectomy-3172
+1481,Pressure sores,pressure-sores-3174
+1482,Prevent aging,prevent-aging-4032
+1483,Prevent cardiovascular and immunological disorders,prevent-cardiovascular-and-immunological-disorders-4031
+1484,Prevent certain types of cancer by blocking the formation of cancer causing substances in the body,prevent-certain-types-of-cancer-by-blocking-the-formation-of-cancer-causing-substances-in-the-body-4030
+1485,Prevent gout,prevent-gout-3175
+1486,Prevent kidney stone,prevent-kidney-stone-3177
+1487,Prevent nitrogen loss,prevent-nitrogen-loss-3178
+1488,Prevent the development of infections and permit wound healing,prevent-the-development-of-infections-and-permit-wound-healing-3989
+1489,Prevent vitamin deficiency and restore lost vitality after illness,prevent-vitamin-deficiency-and-restore-lost-vitality-after-illness-4068
+1490,Prevention & control of bleeding in Factor VIII deficiency,prevention-control-of-bleeding-in-factor-viii-deficiency-4087
+1491,Prevention and treatment of vitamin deficiency in children and infants.,prevention-and-treatment-of-vitamin-deficiency-in-children-and-infants-4085
+1492,Prevention of gallstones,prevention-of-gallstones-3728
+1493,Prevention of gout and kidney stones,prevention-of-gout-and-kidney-stones-3180
+1494,Prevention of infections after bone marrow transplantation,prevention-of-infections-after-bone-marrow-transplantation-3858
+1495,Prevention of itching associated with allergic conjunctivitis,prevention-of-itching-associated-with-allergic-conjunctivitis-3628
+1496,Prevention of measles,prevention-of-measles-3181
+1497,Prevention of recurrent UTI and vaginal Infections,prevention-of-recurrent-uti-and-vaginal-infections-3830
+1498,Prevention of rejection in organ and tissue transplantation,prevention-of-rejection-in-organ-and-tissue-transplantation-3182
+1499,Prevention of typhoid,prevention-of-typhoid-3184
+1500,Primary amoebic meningoencephalitis,primary-amoebic-meningoencephalitis-3185
+1501,Primary antibodies deficiency,primary-antibodies-deficiency-3863
+1502,Primary biliary cholangitis (PBC),primary-biliary-cholangitis-pbc-4171
+1503,Primary biliary cirrhosis,primary-biliary-cirrhosis-3186
+1504,Primary dysbetalipoproteinemia,primary-dysbetalipoproteinemia-3660
+1505,Primary dysmenorrhoea,primary-dysmenorrhoea-3954
+1506,Primary hypercholesterolemia,primary-hypercholesterolemia-3659
+1507,Primary irritant and allergic dermatitis (napkin rash),primary-irritant-and-allergic-dermatitis-napkin-rash-3739
+1508,Primary or secondary topical infections,primary-or-secondary-topical-infections-3979
+1509,Primary ovarian failure,primary-ovarian-failure-3187
+1510,Primary rubella in pregnant women,primary-rubella-in-pregnant-women-3866
+1511,Proctitis,proctitis-3188
+1512,Production of cycloplegia,production-of-cycloplegia-3189
+1513,Production of mydriasis,production-of-mydriasis-3190
+1514,Productive cough,productive-cough-3191
+1515,Progestogen component in menopausal hormonal replacement therapy,progestogen-component-in-menopausal-hormonal-replacement-therapy-3915
+1516,Progressive loss of hearing,progressive-loss-of-hearing-3672
+1517,Prolactinomas,prolactinomas-3193
+1518,Prolonged vomiting,prolonged-vomiting-3194
+1519,Promote the quality and quantity of milk,promote-the-quality-and-quantity-of-milk-4211
+1520,Promotes muscle growth,promotes-muscle-growth-3958
+1521,Proper development of the baby in pregnant and nursing mothers,proper-development-of-the-baby-in-pregnant-and-nursing-mothers-4072
+1522,Prophylaxis and therapy of protein deficiency,prophylaxis-and-therapy-of-protein-deficiency-3644
+1523,Prophylaxis for acid aspiration syndrome during induction of anaesthesia,prophylaxis-for-acid-aspiration-syndrome-during-induction-of-anaesthesia-3973
+1524,Prophylaxis of acute renal graft rejection,prophylaxis-of-acute-renal-graft-rejection-3943
+1525,Prophylaxis of cardiac graft rejection,prophylaxis-of-cardiac-graft-rejection-3942
+1526,Prophylaxis of clotting in extracorporeal circulation in haemodialysis or haemofiltration,prophylaxis-of-clotting-in-extracorporeal-circulation-in-haemodialysis-or-haemofiltration-3195
+1527,Prophylaxis of cytomegaloviral infections,prophylaxis-of-cytomegaloviral-infections-3852
+1528,Prophylaxis of omphalitis,prophylaxis-of-omphalitis-4192
+1529,Prophylaxis of organ rejection,prophylaxis-of-organ-rejection-4168
+1530,Prophylaxis of osteoporosis in postmenopausal women,prophylaxis-of-osteoporosis-in-postmenopausal-women-3825
+1531,Prophylaxis of surgical infections,prophylaxis-of-surgical-infections-3197
+1532,Prophylaxis of uterine atony and excessive bleeding after caesarean section,prophylaxis-of-uterine-atony-and-excessive-bleeding-after-caesarean-section-3704
+1533,Prophylaxis of venous thromboembolism during surgery,prophylaxis-of-venous-thromboembolism-during-surgery-3198
+1534,Prostate carcinoma,prostate-carcinoma-3199
+1535,Prostatic or bladder surgery,prostatic-or-bladder-surgery-3200
+1536,Prostatitis,prostatitis-3201
+1537,Protect sensitive skin,protect-sensitive-skin-3202
+1538,Protecting against cancer,protecting-against-cancer-3203
+1539,Protection from harmful UV rays,protection-from-harmful-uv-rays-3933
+1540,Protects eyes from cataract and age-related macular degeneration (AMD),protects-eyes-from-cataract-and-age-related-macular-degeneration-amd-3784
+1541,Protects from Parkinson's disease,protects-from-parkinsons-disease-3786
+1542,Protein deficiency or Sarcopenia,protein-deficiency-or-sarcopenia-3876
+1543,Protein supply for peritoneal nutrition,protein-supply-for-peritoneal-nutrition-3643
+1544,Protozoal infections,protozoal-infections-3204
+1545,Prurigo nodularis,prurigo-nodularis-3205
+1546,Pruritic skin conditions,pruritic-skin-conditions-3206
+1547,Pruritus,pruritus-3207
+1548,Pruritus and eczema,pruritus-and-eczema-3208
+1549,Pruritus ani,pruritus-ani-3680
+1550,Pseudohypoparathyroidism (PHP),pseudohypoparathyroidism-php-3209
+1551,Psittacosis,psittacosis-3210
+1552,Psoriasis,psoriasis-3211
+1553,Psoriatic arthritis,psoriatic-arthritis-3212
+1554,Psoriatic plaques,psoriatic-plaques-3213
+1555,Psychogenic amenorrhea,psychogenic-amenorrhea-3214
+1556,Psychoneurosis,psychoneurosis-3215
+1557,Psychoses in parkinsonâ€™s disease,psychoses-in-parkinsons-disease-3216
+1558,Psychosis,psychosis-3217
+1559,Psychotic disorders,psychotic-disorders-3218
+1560,Pulmonary arterial hypertension,pulmonary-arterial-hypertension-3219
+1561,Pulmonary embolism,pulmonary-embolism-3220
+1562,Pulmonary eosinophilia,pulmonary-eosinophilia-3221
+1563,Pulmonary oedema,pulmonary-oedema-3223
+1564,Pulmonary thromboembolism,pulmonary-thromboembolism-3224
+1565,Pyelonephritis,pyelonephritis-3226
+1566,Pylorospasm,pylorospasm-3227
+1567,Pyoderma,pyoderma-3228
+1568,Pyoderma gangrenosum,pyoderma-gangrenosum-3229
+1569,Pyodermas,pyodermas-3982
+1570,Pyogenic & seborrhoeic dermatitis,pyogenic-seborrhoeic-dermatitis-3230
+1571,Q fever,q-fever-3715
+1572,Radiographic contrast medium for diagnostic procedures,radiographic-contrast-medium-for-diagnostic-procedures-3234
+1573,Raised intracranial pressure,raised-intracranial-pressure-3235
+1574,Rapid eye movement,rapid-eye-movement-3236
+1575,Rash and pruritus in a variety of condition,rash-and-pruritus-in-a-variety-of-condition-3771
+1576,Rashes,rashes-3237
+1577,Rat bite fever,rat-bite-fever-3238
+1578,Raynaud's disease,raynauds-disease-3239
+1579,RBC formation and proper cell functioning,rbc-formation-and-proper-cell-functioning-3963
+1580,Receiving a kidney transplant,receiving-a-kidney-transplant-4167
+1581,Recurrent miscarriage,recurrent-miscarriage-3241
+1582,Recurrent renal stones,recurrent-renal-stones-3242
+1583,Recurrent unipolar depression,recurrent-unipolar-depression-3243
+1584,Recurrent UTI,recurrent-uti-3240
+1585,Red eye,red-eye-3244
+1586,Reduce peristalsis,reduce-peristalsis-4190
+1587,Reduce risk of infertility,reduce-risk-of-infertility-3800
+1588,Reduce the risk of getting HIV-1 infection,reduce-the-risk-of-getting-hiv-1-infection-3245
+1589,Reduce the risk of preterm birth in women,reduce-the-risk-of-preterm-birth-in-women-4150
+1590,Reducing cholesterol levels,reducing-cholesterol-levels-3246
+1591,Reduction of raised intracranial pressure,reduction-of-raised-intracranial-pressure-3248
+1592,Reduction of unwanted facial hair in women,reduction-of-unwanted-facial-hair-in-women-4145
+1593,Reflux oesophagitis,reflux-oesophagitis-3249
+1594,Refractive errors,refractive-errors-3250
+1595,Refractory angina pectoris where nitrate therapy has failed,refractory-angina-pectoris-where-nitrate-therapy-has-failed-3653
+1596,Regional anesthesia,regional-anesthesia-3251
+1597,Relapsing fever and louse-borne typhus,relapsing-fever-and-louse-borne-typhus-3252
+1598,Relieve pain,relieve-pain-3254
+1599,Removal of earwax,removal-of-earwax-4095
+1600,Removal of foreign bodies,removal-of-foreign-bodies-4002
+1601,Removal of sutures,removal-of-sutures-4001
+1602,Renal and urinary tract infections,renal-and-urinary-tract-infections-3255
+1603,Renal angiomyolipoma,renal-angiomyolipoma-3256
+1604,Renal cancers,renal-cancers-3257
+1605,Renal cell carcinoma,renal-cell-carcinoma-3258
+1606,Renal colic,renal-colic-3259
+1607,Renal disease,renal-disease-3260
+1608,Renal disease and vitamin B12 deficiency,renal-disease-and-vitamin-b12-deficiency-3261
+1609,Renal function testing,renal-function-testing-3262
+1610,Renal homotransplantation,renal-homotransplantation-3263
+1611,Renal impairment,renal-impairment-3264
+1612,Renal insufficiency,renal-insufficiency-3879
+1613,Renal osteodystrophy,renal-osteodystrophy-3265
+1614,Renal stone,renal-stone-3266
+1615,Renal transplant,renal-transplant-3267
+1616,Renal tubular acidosis,renal-tubular-acidosis-3268
+1617,Repairs; restores & protects dry skin & sensitive skin conditions,repairs-restores-protects-dry-skin-sensitive-skin-conditions-3719
+1618,Replacement therapy in adrenocortical insufficiency,replacement-therapy-in-adrenocortical-insufficiency-3891
+1619,Reproductive tract infection and skin infections,reproductive-tract-infection-and-skin-infections-3269
+1620,Resistant depression,resistant-depression-3744
+1621,Respiratory Distress Syndrome (RDS) in premature infants.,respiratory-distress-syndrome-rds-in-premature-infants-3975
+1622,Respiratory tract infections,respiratory-tract-infections-3270
+1623,Restless leg syndrome,restless-leg-syndrome-3271
+1624,Restlessness,restlessness-3733
+1625,Resuscitation,resuscitation-3272
+1626,Retinal hemorrhage,retinal-hemorrhage-3273
+1627,Retinal photography,retinal-photography-3274
+1628,Retinoblastoma,retinoblastoma-3275
+1629,Reversal of neuromuscular blockade,reversal-of-neuromuscular-blockade-3276
+1630,Reverse residual neuromuscular blockade,reverse-residual-neuromuscular-blockade-3869
+1631,Rhesus disease,rhesus-disease-3277
+1632,Rheumatic disorders,rheumatic-disorders-3278
+1633,Rheumatic fever,rheumatic-fever-3279
+1634,Rheumatic pain,rheumatic-pain-3280
+1635,Rheumatism strains,rheumatism-strains-3281
+1636,Rheumatoid arthritis,rheumatoid-arthritis-3282
+1637,Rhinitis,rhinitis-3283
+1638,Rhinorrhoea,rhinorrhoea-3284
+1639,Riboflavin deficiency,riboflavin-deficiency-3285
+1640,Rickets,rickets-3286
+1641,Rigidity,rigidity-3288
+1642,Rocky mountain spotted fever,rocky-mountain-spotted-fever-3289
+1643,Root canal operation,root-canal-operation-4043
+1644,Rosacea,rosacea-3290
+1645,Rosacea melasma,rosacea-melasma-3291
+1646,Rotavirus diarrhea,rotavirus-diarrhea-3292
+1647,Rough & defective voice,rough-defective-voice-4209
+1648,Rough skin,rough-skin-3293
+1649,Roughness and fine wrinkling of photodamaged skin,roughness-and-fine-wrinkling-of-photodamaged-skin-3294
+1650,Rrinkles,rrinkles-3794
+1651,Rubella,rubella-3295
+1652,Runny nose,runny-nose-3296
+1653,Salmonellosis,salmonellosis-3298
+1654,Salt losing adrenogenital syndrome,salt-losing-adrenogenital-syndrome-4147
+1655,Sarcoma,sarcoma-3299
+1656,Scabies,scabies-3300
+1657,Scaling skin conditions,scaling-skin-conditions-3302
+1658,Scalp and non-scalp psoriasis,scalp-and-non-scalp-psoriasis-3303
+1659,Scalp disorders,scalp-disorders-3304
+1660,Scalp psoriasis,scalp-psoriasis-3305
+1661,Scaly or itchy scalps,scaly-or-itchy-scalps-3306
+1662,Scaly skin disease,scaly-skin-disease-3307
+1663,Scborrhea,scborrhea-3735
+1664,Scedosporiosis and fusariosis,scedosporiosis-and-fusariosis-3308
+1665,Schistosomiasis,schistosomiasis-3309
+1666,Schizoaffective Disorder,schizoaffective-disorder-4129
+1667,Schizophrenia,schizophrenia-3310
+1668,Scleritis,scleritis-3311
+1669,Scrapes,scrapes-3312
+1670,Scratches,scratches-3313
+1671,Scrub typhus,scrub-typhus-3314
+1672,Scurvy,scurvy-3315
+1673,Seasonal allergic rhinitis,seasonal-allergic-rhinitis-4120
+1674,Seborrhea,seborrhea-3736
+1675,Seborrheic dermatitis of the scalp,seborrheic-dermatitis-of-the-scalp-3316
+1676,Seborrhoeic dermatitis,seborrhoeic-dermatitis-3317
+1677,Second stage of labor,second-stage-of-labor-3318
+1678,Secondarily infected dermatoses,secondarily-infected-dermatoses-3983
+1679,Secondary amenorrhoea,secondary-amenorrhoea-3916
+1680,Secondary hemorrhage,secondary-hemorrhage-3319
+1681,Secondary hyperparathyroidism,secondary-hyperparathyroidism-3320
+1682,Secondary skin infections,secondary-skin-infections-3321
+1683,Secretory neoplasms,secretory-neoplasms-3322
+1684,Sedation,sedation-3323
+1685,Seizures,seizures-3803
+1686,Seizures associated with lennox-gastaut syndrome,seizures-associated-with-lennox-gastaut-syndrome-3324
+1687,Senile lentigines,senile-lentigines-3325
+1688,Senile pruritus,senile-pruritus-3816
+1689,Sepsis,sepsis-3326
+1690,Sepsis gonorrhea,sepsis-gonorrhea-3670
+1691,Septic abortion,septic-abortion-3328
+1692,Septic arthritis,septic-arthritis-3327
+1693,Septicemia,septicemia-3642
+1694,Serious staphylococcal or other gram-positive infections,serious-staphylococcal-or-other-gram-positive-infections-3330
+1695,Serum sickness,serum-sickness-3331
+1696,Severe allergic asthma,severe-allergic-asthma-3334
+1697,Severe anxiety disorders,severe-anxiety-disorders-3335
+1698,Severe bronchospasm,severe-bronchospasm-4010
+1699,Severe burns,severe-burns-3336
+1700,Severe congestive heart failure,severe-congestive-heart-failure-3332
+1701,Severe diarrhea,severe-diarrhea-3338
+1702,Severe erythema multiforme (Stevens-Johnson syndrome),severe-erythema-multiforme-stevens-johnson-syndrome-3339
+1703,Severe gram-negative infections,severe-gram-negative-infections-3333
+1704,Severe hemorrhage,severe-hemorrhage-3340
+1705,Severe hypertension,severe-hypertension-3341
+1706,Severe idiopathic short stature,severe-idiopathic-short-stature-3342
+1707,Severe inflammatory skin disorders,severe-inflammatory-skin-disorders-3343
+1708,Severe metabolic acidosis,severe-metabolic-acidosis-3344
+1709,Severe or recurrent respiratory tract infections,severe-or-recurrent-respiratory-tract-infections-3345
+1710,Severe Primary Axillary Hyperhidrosis,severe-primary-axillary-hyperhidrosis-3750
+1711,Sexual Exposure to an HBsAg-positive Person,sexual-exposure-to-an-hbsag-positive-person-4164
+1712,Shift work disorder (SWD),shift-work-disorder-swd-4131
+1713,Shigellosis,shigellosis-3347
+1714,Shock,shock-3348
+1715,Short bowel syndrome,short-bowel-syndrome-3349
+1716,Shortness,shortness-4205
+1717,Short-term pain relief,short-term-pain-relief-3350
+1718,Shoulder pain,shoulder-pain-3923
+1719,Sialorrhea,sialorrhea-3351
+1720,Sickle-cell disease,sickle-cell-disease-3352
+1721,Sinusitis,sinusitis-3353
+1722,Sjogrenâ€™s syndrome,sjogrens-syndrome-3354
+1723,Skeletal muscle relaxation,skeletal-muscle-relaxation-3355
+1724,Skin & nervous system,skin-nervous-system-4038
+1725,Skin and skin sructure infections,skin-and-skin-sructure-infections-3357
+1726,Skin and soft tissue infections,skin-and-soft-tissue-infections-3956
+1727,Skin and wound infections,skin-and-wound-infections-3358
+1728,Skin care,skin-care-3360
+1729,Skin damage from ultraviolet (UV) light,skin-damage-from-ultraviolet-uv-light-3247
+1730,Skin fungal infections,skin-fungal-infections-3361
+1731,Skin grafting,skin-grafting-3356
+1732,Skin grafts,skin-grafts-4017
+1733,Skin healthness,skin-healthness-3362
+1734,Skin infections,skin-infections-3363
+1735,Skin irritations,skin-irritations-3364
+1736,Skin moisturization,skin-moisturization-3366
+1737,Skin mycosis (athlete's foot; trichophytia),skin-mycosis-athletes-foot-trichophytia-3682
+1738,Skin rash,skin-rash-3367
+1739,Skin ulcers and wounds,skin-ulcers-and-wounds-3368
+1740,Slit lamp examination,slit-lamp-examination-3369
+1741,Sluggishness,sluggishness-4202
+1742,Small cell lung cancer,small-cell-lung-cancer-3370
+1743,Smoking cessation,smoking-cessation-3371
+1744,Smoking cessation aid,smoking-cessation-aid-3372
+1745,Smooth muscle spasm of the gastrointestinal disorder,smooth-muscle-spasm-of-the-gastrointestinal-disorder-3967
+1746,Sneezing,sneezing-3373
+1747,Social anxiety disorder,social-anxiety-disorder-3374
+1748,Social phobia,social-phobia-3375
+1749,Sodium Chloride deficiency,sodium-chloride-deficiency-4201
+1750,Soft tissue infections,soft-tissue-infections-3376
+1751,Soft tissue inflammation,soft-tissue-inflammation-3377
+1752,Soft tissue sarcoma,soft-tissue-sarcoma-3378
+1753,Solar urticaria,solar-urticaria-3379
+1754,Solid tumours,solid-tumours-3938
+1755,Sore gums,sore-gums-3664
+1756,Sore lips,sore-lips-3380
+1757,Sore throat,sore-throat-3381
+1758,Soreness and discomfort due to hemorrhoids,soreness-and-discomfort-due-to-hemorrhoids-3892
+1759,Source of water,source-of-water-3695
+1760,Spasm,spasm-3382
+1761,Spastic or irritable colon,spastic-or-irritable-colon-3383
+1762,Spasticity,spasticity-3384
+1763,Spasticity and muscle spasms,spasticity-and-muscle-spasms-3385
+1764,Spermatogenesis induction,spermatogenesis-induction-3387
+1765,Spinal anesthesia,spinal-anesthesia-3388
+1766,Spinal automatism and discopathy,spinal-automatism-and-discopathy-3389
+1767,Spondylitis,spondylitis-3391
+1768,Spontaneous or elective abortion,spontaneous-or-elective-abortion-3392
+1769,Sprains,sprains-3394
+1770,Spring catarrh,spring-catarrh-4115
+1771,Squamous cell or testicular tumours,squamous-cell-or-testicular-tumours-3395
+1772,Stabilize blood sugar,stabilize-blood-sugar-3801
+1773,Stable plaque psoriasis,stable-plaque-psoriasis-3396
+1774,Staphylococcal infections,staphylococcal-infections-3397
+1775,Staphylococcal infections resistant to benzylpenicillin,staphylococcal-infections-resistant-to-benzylpenicillin-3398
+1776,Staphylococcal skin infections,staphylococcal-skin-infections-3399
+1777,Status asthmaticus,status-asthmaticus-3400
+1778,Status epilepticus,status-epilepticus-3401
+1779,ST-elevation myocardial infarction (STEMI),st-elevation-myocardial-infarction-stemi-3997
+1780,Stent thrombosis,stent-thrombosis-3994
+1781,Steroid-responsive inflammatory ocular conditions,steroid-responsive-inflammatory-ocular-conditions-3402
+1782,Stevens-Johnson syndrome,stevens-johnson-syndrome-3403
+1783,Stiff neck,stiff-neck-3404
+1784,Stiffness,stiffness-3405
+1785,Stimulate ovulation,stimulate-ovulation-3406
+1786,Stimulation of follicle growth,stimulation-of-follicle-growth-4123
+1787,Stings,stings-3407
+1788,Stomach carcinoma,stomach-carcinoma-3408
+1789,Stomach distension,stomach-distension-3409
+1790,Stomach upset,stomach-upset-3410
+1791,Stomatitis,stomatitis-4074
+1792,Stomatitis angularis,stomatitis-angularis-3411
+1793,Strabismus,strabismus-3412
+1794,Strains,strains-3718
+1795,Strength and endurance & immune system,strength-and-endurance-immune-system-3796
+1796,Streptococcal pharyngitis,streptococcal-pharyngitis-3413
+1797,Streptococcal pharyngitis or tonsillitis,streptococcal-pharyngitis-or-tonsillitis-3414
+1798,Streptococcus septicaemia,streptococcus-septicaemia-3415
+1799,Stress ulceration of upper Gl,stress-ulceration-of-upper-gl-3804
+1800,Stress urinary incontinence,stress-urinary-incontinence-3416
+1801,Stridor,stridor-3417
+1802,Stroke,stroke-3634
+1803,Stroke in patients with hypertension and left ventricular hypertrophy.,stroke-in-patients-with-hypertension-and-left-ventricular-hypertrophy-3867
+1804,Stroke prevention,stroke-prevention-3650
+1805,Strongyloidiasis,strongyloidiasis-3418
+1806,Subacute bacterial endocarditis,subacute-bacterial-endocarditis-3419
+1807,Subarachnoid anesthesia,subarachnoid-anesthesia-3420
+1808,Subarachnoid haemorrhage,subarachnoid-haemorrhage-3421
+1809,Substance abuse disorder,substance-abuse-disorder-3726
+1810,Sugar substitute,sugar-substitute-3422
+1811,Sunblock,sunblock-3423
+1812,Sunburn,sunburn-3424
+1813,Superficial bacterial infections,superficial-bacterial-infections-3425
+1814,Superficial bleeding,superficial-bleeding-3426
+1815,Superficial dermatophyte infections and pityriasis versicolor,superficial-dermatophyte-infections-and-pityriasis-versicolor-3427
+1816,Superficial ophthalmic infections,superficial-ophthalmic-infections-3428
+1817,Superficial punctate keratitis,superficial-punctate-keratitis-3909
+1818,Superficial skin infections,superficial-skin-infections-3429
+1819,Superficial wounds,superficial-wounds-3430
+1820,Supplement for intravenous nutrition,supplement-for-intravenous-nutrition-4077
+1821,Supplement in adrenal insufficiency during minor surgery under general anaesthesia,supplement-in-adrenal-insufficiency-during-minor-surgery-under-general-anaesthesia-3888
+1822,Supplement in adrenal insufficiency during moderate or major surgery,supplement-in-adrenal-insufficiency-during-moderate-or-major-surgery-3889
+1823,Supports normal prostate function,supports-normal-prostate-function-4194
+1824,Suprapubic pain,suprapubic-pain-3431
+1825,Supraventricular and ventricular arrhythmias,supraventricular-and-ventricular-arrhythmias-3432
+1826,Supraventricular arrhythmias,supraventricular-arrhythmias-3433
+1827,Supraventricular tachycardia,supraventricular-tachycardia-3434
+1828,Surface anaesthesia,surface-anaesthesia-3436
+1829,Surface disinfection,surface-disinfection-3435
+1830,Surgery,surgery-3873
+1831,Surgery (haemorrhagic shock),surgery-haemorrhagic-shock-3437
+1832,Surgical aid in the anterior segment,surgical-aid-in-the-anterior-segment-4022
+1833,Surgical anaesthesia,surgical-anaesthesia-3439
+1834,Surgical incisions,surgical-incisions-3440
+1835,Surgical infections,surgical-infections-3441
+1836,Surgical prophylaxis,surgical-prophylaxis-3438
+1837,Susceptible infections,susceptible-infections-3444
+1838,Suspected glaucoma,suspected-glaucoma-4122
+1839,Suspected or confirmed COVID-19,suspected-or-confirmed-covid-19-4197
+1840,Sweat rash,sweat-rash-3445
+1841,Sweating feet,sweating-feet-3446
+1842,Swine flu,swine-flu-3447
+1843,Sycosis barbae,sycosis-barbae-4019
+1844,Sympathetic nerve block,sympathetic-nerve-block-3448
+1845,Syphilis,syphilis-3449
+1846,Systemic fungal infections,systemic-fungal-infections-3450
+1847,Systemic hyperfibrinolysis,systemic-hyperfibrinolysis-3451
+1848,Systemic lupus erythematosus (SLE),systemic-lupus-erythematosus-sle-3452
+1849,Systemic sclerosis,systemic-sclerosis-3453
+1850,Tachycardia,tachycardia-3458
+1851,T-cell lymphoma,t-cell-lymphoma-3454
+1852,Teeth cleaner & brighter,teeth-cleaner-brighter-3459
+1853,Teeth whitening,teeth-whitening-3460
+1854,Teething pain,teething-pain-3461
+1855,Tendonitis,tendonitis-3462
+1856,Tension,tension-3463
+1857,Termination of pregnancy,termination-of-pregnancy-3464
+1858,Termination of pregnancy upto 9th week (63 days) of gestation,termination-of-pregnancy-upto-9th-week-63-days-of-gestation-3935
+1859,Testicular cancer,testicular-cancer-3465
+1860,Testosterone replacement therapy,testosterone-replacement-therapy-3466
+1861,Tetanus,tetanus-3467
+1862,Thalassaemia,thalassaemia-3469
+1863,Therapeutic dilution of blood,therapeutic-dilution-of-blood-3978
+1864,Thiamine and riboflavin deficiency,thiamine-and-riboflavin-deficiency-3470
+1865,Thiamine deficiency,thiamine-deficiency-4045
+1866,Third stage of labour,third-stage-of-labour-3471
+1867,Threatened abortion,threatened-abortion-4126
+1868,Threatened miscarriage,threatened-miscarriage-3472
+1869,Threatened premature delivery,threatened-premature-delivery-4128
+1870,Throat infections,throat-infections-3473
+1871,Thromboembolic disorders,thromboembolic-disorders-3474
+1872,Thromboembolism,thromboembolism-3475
+1873,Thrombotic cardiovascular (CV) events,thrombotic-cardiovascular-cv-events-3993
+1874,Thrush,thrush-3476
+1875,Thyroid cancer,thyroid-cancer-4144
+1876,Thyroid storm,thyroid-storm-3478
+1877,Thyrotoxicosis,thyrotoxicosis-3479
+1878,Tic disorders,tic-disorders-3480
+1879,Tinea (pityriasis) versicolor,tinea-pityriasis-versicolor-3481
+1880,Tinea corporis (ringworm),tinea-corporis-ringworm-3482
+1881,Tinea cruris (jock itch),tinea-cruris-jock-itch-3483
+1882,Tinea pedis (athleteâ€™s foot),tinea-pedis-athletes-foot-3484
+1883,Tinea versicolor,tinea-versicolor-3683
+1884,Tinnitus,tinnitus-3485
+1885,To develop immune system,to-develop-immune-system-4028
+1886,To prevent scurvey; beriberi; pellagra and others,to-prevent-scurvey-beriberi-pellagra-and-others-4029
+1887,To reduce the need for allogenic blood tranfusion,to-reduce-the-need-for-allogenic-blood-tranfusion-3486
+1888,Tonic-clonic status epilepticus,tonic-clonic-status-epilepticus-3487
+1889,Tonometry,tonometry-4003
+1890,Tonsillitis,tonsillitis-3488
+1891,Tooth extraction,tooth-extraction-3489
+1892,Toothache,toothache-3490
+1893,Topical anesthesia,topical-anesthesia-3491
+1894,Topical antiseptic,topical-antiseptic-3853
+1895,Total or partial gastrectomy,total-or-partial-gastrectomy-3492
+1896,Tourette syndrome,tourette-syndrome-3493
+1897,Toxaemia,toxaemia-3779
+1898,Toxic shock syndrome,toxic-shock-syndrome-3731
+1899,Toxocariasis,toxocariasis-3494
+1900,Toxoplasmosis,toxoplasmosis-3495
+1901,Tracheolaryngitis,tracheolaryngitis-3496
+1902,Tracheostomy care during anaesthesia.,tracheostomy-care-during-anaesthesia-3625
+1903,Trachoma,trachoma-3497
+1904,Tranquilizer overdoses,tranquilizer-overdoses-3498
+1905,Transfusion reactions,transfusion-reactions-3499
+1906,Transient ischemic attack,transient-ischemic-attack-3456
+1907,Transurethral prostatic resection,transurethral-prostatic-resection-3501
+1908,Trauma,trauma-3874
+1909,Traumatic hyphema,traumatic-hyphema-3502
+1910,Travellerâ€™s diarrhea,travellers-diarrhea-3503
+1911,Treat and prevent chronic diseases like heart diseases; rheumatoid arthritis; COPD and cancer,treat-and-prevent-chronic-diseases-like-heart-diseases-rheumatoid-arthritis-copd-and-cancer-4071
+1912,Treatment and prophylaxis of mild chronic thiamine deficiency,treatment-and-prophylaxis-of-mild-chronic-thiamine-deficiency-4046
+1913,Treatment or shock states,treatment-or-shock-states-3929
+1914,Trichinellosis,trichinellosis-3505
+1915,Trichinosis,trichinosis-3506
+1916,Trichomoniasis,trichomoniasis-3507
+1917,Trichostrongyliasis,trichostrongyliasis-3508
+1918,Trichotillomania,trichotillomania-3509
+1919,Trichuriasis,trichuriasis-3510
+1920,Trigeminal neuralgia,trigeminal-neuralgia-3511
+1921,Trophoblastic neoplasms,trophoblastic-neoplasms-3512
+1922,TSH suppression,tsh-suppression-3457
+1923,Tuberculosis,tuberculosis-3513
+1924,Tuberculous meningitis,tuberculous-meningitis-3514
+1925,Tuberous sclerosis,tuberous-sclerosis-3515
+1926,Tularaemia,tularaemia-3516
+1927,Tumor lysis syndrome,tumor-lysis-syndrome-3517
+1928,tympanoplasty,tympanoplasty-4143
+1929,Type 1 DM,type-1-dm-3518
+1930,Type 2 DM,type-2-dm-3519
+1931,Typhoid fever,typhoid-fever-3520
+1932,Ulcer resistant to H2 receptor antagonists,ulcer-resistant-to-h2-receptor-antagonists-3971
+1933,Ulcerative colitis,ulcerative-colitis-3523
+1934,Ulcerative Proctitis,ulcerative-proctitis-3624
+1935,Ulcers,ulcers-3524
+1936,Uncomplicated cystitis,uncomplicated-cystitis-3526
+1937,Uncomplicated gonorrhoea,uncomplicated-gonorrhoea-3527
+1938,Uncomplicated pneumococcal pneumonia,uncomplicated-pneumococcal-pneumonia-3528
+1939,Uncomplicated premature labour,uncomplicated-premature-labour-3529
+1940,Uncomplicated skin infections,uncomplicated-skin-infections-3530
+1941,Uncomplicated UTI,uncomplicated-uti-3525
+1942,Unipolar and bipolar depression,unipolar-and-bipolar-depression-3531
+1943,Unstable angina,unstable-angina-3533
+1944,Unstable tear film,unstable-tear-film-3900
+1945,Upper and lower respiratory tract infections,upper-and-lower-respiratory-tract-infections-3535
+1946,Upper gastrointestinal haemorrhage,upper-gastrointestinal-haemorrhage-3536
+1947,Upper Gl bloating,upper-gl-bloating-3534
+1948,Urethritis,urethritis-3537
+1949,Urge incontinence,urge-incontinence-3538
+1950,Uric acid nephropathy,uric-acid-nephropathy-3539
+1951,Urinary frequency and urgency,urinary-frequency-and-urgency-3541
+1952,Urinary incontinence,urinary-incontinence-3542
+1953,Urinary tract infection,urinary-tract-infection-3543
+1954,Urine alkalinisation,urine-alkalinisation-3544
+1955,Urothelial bladder carcinoma,urothelial-bladder-carcinoma-3545
+1956,Urothelial toxicity,urothelial-toxicity-3546
+1957,Urticaria,urticaria-3547
+1958,Uterine atony,uterine-atony-3548
+1959,Uterine bleeding,uterine-bleeding-3549
+1960,Uterine fibroids,uterine-fibroids-3550
+1961,Uterine hemorrhage,uterine-hemorrhage-3551
+1962,UTI caused by Staphylococcus Aureus,uti-caused-by-staphylococcus-aureus-3540
+1963,Uveal tract inflammation,uveal-tract-inflammation-3552
+1964,Uveitis,uveitis-3553
+1965,Vaginal atrophy,vaginal-atrophy-3554
+1966,Vaginal candidiasis or thrush,vaginal-candidiasis-or-thrush-3555
+1967,Vaginal dryness,vaginal-dryness-3556
+1968,Vaginal leucorrhoea,vaginal-leucorrhoea-3557
+1969,Vaginal or rectal irritation,vaginal-or-rectal-irritation-3558
+1970,Vaginal thrush,vaginal-thrush-3807
+1971,Vaginal trichomoniasis,vaginal-trichomoniasis-3559
+1972,Vaginitis,vaginitis-3560
+1973,Variceal haemorrhage,variceal-haemorrhage-3561
+1974,Varicella infection,varicella-infection-3562
+1975,Varicella zoster (chickenpox),varicella-zoster-chickenpox-3563
+1976,Varicose ulcers,varicose-ulcers-4016
+1977,Vascular complications (e. g.; atherosclerosis),vascular-complications-e-g-atherosclerosis-3754
+1978,Vasculitis,vasculitis-3564
+1979,Vasomotor rhinitis,vasomotor-rhinitis-3661
+1980,Venous thromboembolism,venous-thromboembolism-3565
+1981,Venous thrombosis,venous-thrombosis-3566
+1982,Ventricular arrhythmias,ventricular-arrhythmias-3567
+1983,Ventricular fibrillation,ventricular-fibrillation-3568
+1984,Ventricular tachycardia,ventricular-tachycardia-3570
+1985,Verruca,verruca-3572
+1986,Vertigo,vertigo-3573
+1987,Vertigo and vestibular disorders,vertigo-and-vestibular-disorders-3574
+1988,Vestibular and visual disorders of ischaemic aetiology,vestibular-and-visual-disorders-of-ischaemic-aetiology-3633
+1989,Vestibular disorders,vestibular-disorders-3576
+1990,Vestibular neuritis,vestibular-neuritis-3577
+1991,Vincentâ€™s infection,vincents-infection-3578
+1992,Viral conjunctivitis,viral-conjunctivitis-3947
+1993,Visceral leishmaniasis,visceral-leishmaniasis-4116
+1994,Visceral muscle spasm,visceral-muscle-spasm-3579
+1995,Visceral spasms,visceral-spasms-3580
+1996,Vitamin A deficiency,vitamin-a-deficiency-3581
+1997,Vitamin B deficiencies,vitamin-b-deficiencies-3583
+1998,Vitamin B;Vitamin-C and Folic acid deficiencies,vitamin-bvitamin-c-and-folic-acid-deficiencies-3845
+1999,Vitamin B1 deficiency,vitamin-b1-deficiency-4079
+2000,Vitamin B12 deficiency,vitamin-b12-deficiency-3584
+2001,Vitamin B6 deficiency,vitamin-b6-deficiency-3585
+2002,Vitamin C deficiency,vitamin-c-deficiency-3592
+2003,Vitamin D deficiency,vitamin-d-deficiency-3586
+2004,Vitamin deficiency,vitamin-deficiency-3591
+2005,Vitamin E deficiency and peripheral neuropathy,vitamin-e-deficiency-and-peripheral-neuropathy-3588
+2006,Vitamin K deficiency,vitamin-k-deficiency-3589
+2007,Vitamin K deficiency bleeding,vitamin-k-deficiency-bleeding-3590
+2008,Vitamin or mineral deficiency,vitamin-or-mineral-deficiency-3593
+2009,Vitamin or mineral deficiency during pregnancy and lactation,vitamin-or-mineral-deficiency-during-pregnancy-and-lactation-3594
+2010,Vitamin or mineral supplement,vitamin-or-mineral-supplement-3595
+2011,Vitamins B and Zinc deficiencies,vitamins-b-and-zinc-deficiencies-4078
+2012,Vitiligo,vitiligo-3596
+2013,Vomiting,vomiting-3597
+2014,Vulvovaginal candidiasis,vulvovaginal-candidiasis-3598
+2015,WaldenstrÃ¶m's macroglobulinemia,waldenstrÃ¶ms-macroglobulinemia-4140
+2016,Waldenstrom's macroglobulinaemia,waldenstroms-macroglobulinaemia-3714
+2017,Warts,warts-3734
+2018,Water disinfection,water-disinfection-3599
+2019,Water purification,water-purification-3600
+2020,Watery eye,watery-eye-3602
+2021,Weight gain and calcium retention,weight-gain-and-calcium-retention-3959
+2022,Wernicke-Korsakoff syndrome,wernicke-korsakoff-syndrome-4047
+2023,Wet age-related macular degeneration,wet-age-related-macular-degeneration-3603
+2024,Wheezing,wheezing-3604
+2025,Whippleâ€™s disease,whipples-disease-3605
+2026,Whooping cough,whooping-cough-3689
+2027,Wilm's tumour,wilms-tumour-4063
+2028,Wiskott-Aldrich syndrome,wiskott-aldrich-syndrome-3606
+2029,With percutaneous coronary intervention or coronary artery bypass graft,with-percutaneous-coronary-intervention-or-coronary-artery-bypass-graft-4050
+2030,Worm infections,worm-infections-3607
+2031,Wound and burn dressing,wound-and-burn-dressing-3608
+2032,Wound and ulcer cleansing,wound-and-ulcer-cleansing-3609
+2033,Wound cleansing,wound-cleansing-3610
+2034,Wound debribement and suturing,wound-debribement-and-suturing-3611
+2035,Wound infection,wound-infection-3613
+2036,Wound sepsis,wound-sepsis-3614
+2037,Wounds,wounds-3615
+2038,Xerophthalmia,xerophthalmia-3617
+2039,X-ray imaging,x-ray-imaging-3616
+2040,Yellow fever infection,yellow-fever-infection-3619
+2041,Zinc & folic acid deficiency,zinc-folic-acid-deficiency-3620
+2042,Zinc deficiency,zinc-deficiency-3621
+2043,Zollinger-Ellison syndrome,zollinger-ellison-syndrome-3622
