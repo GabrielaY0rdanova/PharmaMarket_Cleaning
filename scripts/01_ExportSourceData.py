@@ -156,16 +156,45 @@ tables = {
 }
 
 # ==========================
+# INTEGER COLUMNS PER TABLE
+# pyodbc reads nullable INT columns from SQL Server as
+# float (e.g. 299.0 instead of 299) when NULLs are present.
+# Casting to pandas Int64 (nullable integer) before export
+# ensures clean integer formatting in the CSV, which
+# BULK INSERT can then load directly without TRY_CAST errors.
+# ==========================
+
+integer_columns = {
+    'Drug_Class':               ['Drug_Class_ID'],
+    'Dosage_Form':              ['Dosage_Form_ID'],
+    'Manufacturer':             ['Manufacturer_ID'],
+    'Indication':               ['Indication_ID'],
+    'Generic':                  ['Generic_ID', 'Drug_Class_ID'],
+    'Medicine':                 ['Brand_ID', 'Dosage_Form_ID', 'Generic_ID', 'Manufacturer_ID'],
+    'Medicine_PackageSize':     ['PackageSize_ID', 'Brand_ID', 'Pack_Size'],
+    'Medicine_PackageContainer':['PackageContainer_ID', 'Brand_ID'],
+    'Generic_Indication':       ['Generic_Indication_ID', 'Generic_ID', 'Indication_ID'],
+}
+
+# ==========================
 # EXPORT
-# pandas to_csv handles quoted fields automatically
+# pandas to_csv handles quoted fields automatically.
 # encoding='utf-8-sig' adds BOM marker for SQL Server
-# compatibility and preserves Unicode characters
+# compatibility and preserves Unicode characters.
+# Integer columns are cast to Int64 before export so
+# they write as plain integers (e.g. 299, not 299.0).
 # ==========================
 
 for table_name, query in tables.items():
     print(f'Exporting {table_name}...', end=' ')
 
     df = pd.read_sql(query, conn)
+
+    # Cast integer columns to nullable Int64 to prevent
+    # float formatting (299.0) caused by NULLs in the data
+    for col in integer_columns.get(table_name, []):
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors='coerce').astype('Int64')
 
     output_path = os.path.join(OUTPUT_FOLDER, f'{table_name}.csv')
     df.to_csv(output_path, index=False, encoding='utf-8-sig')

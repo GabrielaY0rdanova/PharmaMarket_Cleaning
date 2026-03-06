@@ -165,8 +165,22 @@ GO
 -- CREATE and LOAD Medicine
 --
 -- Uses staging because Generic_ID and Manufacturer_ID
--- can be NULL in the source data — TRY_CAST handles
--- the conversion safely.
+-- can be NULL in the source data.
+--
+-- BUG FIX: pyodbc exports nullable INT columns as float
+-- strings (e.g. '299.0') when NULLs are present in the
+-- column. TRY_CAST('299.0' AS INT) returns NULL silently,
+-- causing all Generic_ID and Manufacturer_ID values to
+-- load as NULL even when the CSV contains real values.
+--
+-- Fix applied in two places:
+--   1. 01_ExportSourceData.py now casts these columns to
+--      Int64 before writing the CSV, so values export as
+--      plain integers (299, not 299.0).
+--   2. This script uses CAST(CAST(x AS FLOAT) AS INT) as
+--      a defensive fallback in case the CSV was exported
+--      by an older version of the script or by another tool
+--      that writes float-formatted integers.
 --
 -- Package_Container, Package_Size, and Unit_Price are
 -- not present in this table — they were split into
@@ -226,11 +240,16 @@ INSERT INTO Medicine (
     Dosage_Form_ID, Generic_ID, Strength, Manufacturer_ID
 )
 SELECT
-    Brand_ID, Brand_Name, Type, Slug,
+    Brand_ID,
+    Brand_Name,
+    Type,
+    Slug,
     TRY_CAST(Dosage_Form_ID AS INT),
-    TRY_CAST(TRY_CAST(Generic_ID      AS FLOAT) AS INT),
+    -- CAST through FLOAT handles both plain integers ('299')
+    -- and float-formatted integers ('299.0') from older exports
+    CAST(CAST(Generic_ID      AS FLOAT) AS INT),
     Strength,
-    TRY_CAST(TRY_CAST(Manufacturer_ID AS FLOAT) AS INT)
+    CAST(CAST(Manufacturer_ID AS FLOAT) AS INT)
 FROM Staging_Medicine;
 
 DROP TABLE Staging_Medicine;
