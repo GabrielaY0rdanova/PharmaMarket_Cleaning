@@ -194,9 +194,13 @@ This dataset is used for educational purposes and to demonstrate data cleaning w
 
 ## 👩‍💻 About Me
 
-Hi! I'm [Gabriela Yordanova](https://www.linkedin.com/in/gabriela-yordanova-837ba2124/). I have 10 years of experience in pharmacy, which gives me genuine domain expertise in pharmaceutical data and a deep interest in making that data structured, accessible, and useful.
+Hi! I'm [Gabriela Yordanova](https://www.linkedin.com/in/gabriela-yordanova-837ba2124/). 
+With a background in pharmacy, I bring domain knowledge that goes beyond the data — 
+knowing which findings are meaningful and which are just noise is half the work in cleaning. 
+This project is the second stage of the pipeline, making sure the data is trustworthy 
+before any analysis begins.
 
-This project is part of my portfolio and demonstrates my skills in **SQL, data cleaning, encoding repair, and data quality validation** through real-world pharmaceutical data.
+*This project is part of my portfolio showcasing data cleaning and quality validation skills.*
 
 ---
 
