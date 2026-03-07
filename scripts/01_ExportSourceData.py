@@ -141,7 +141,8 @@ tables = {
         SELECT PackageContainer_ID,
                Brand_ID,
                Container_Size,
-               Unit_Price
+               Unit_Price,
+               Container_Type
         FROM Medicine_PackageContainer
         ORDER BY PackageContainer_ID
     ''',

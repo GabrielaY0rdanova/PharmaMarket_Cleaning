@@ -303,12 +303,16 @@ GO
 -- Unit_Price is NULL for 'Not for sale' and
 --   'Price Unavailable' rows (~39 rows total) and
 --   for µg pre-filled syringe rows (~3 rows).
+-- Container_Type is a category label derived from
+--   Container_Size during the ETL phase
+--   e.g. 'Bottle', 'Vial', 'Tablet Kit'.
 -- ==========================
 CREATE TABLE Medicine_PackageContainer (
     PackageContainer_ID  INT PRIMARY KEY,
     Brand_ID             INT NOT NULL,
     Container_Size       NVARCHAR(255),
     Unit_Price           DECIMAL(10,2),
+    Container_Type       NVARCHAR(100),
 
     CONSTRAINT FK_PackageContainer_Medicine
         FOREIGN KEY (Brand_ID)
@@ -321,7 +325,8 @@ CREATE TABLE Staging_PackageContainer (
     PackageContainer_ID  INT,
     Brand_ID             INT,
     Container_Size       NVARCHAR(255),
-    Unit_Price           NVARCHAR(50)
+    Unit_Price           NVARCHAR(50),
+    Container_Type       NVARCHAR(100)
 );
 
 BULK INSERT Staging_PackageContainer
@@ -339,13 +344,14 @@ WITH (
 -- Unit_Price uses TRY_CAST because NULL values export
 -- as empty strings which cannot be cast directly to DECIMAL
 INSERT INTO Medicine_PackageContainer (
-    PackageContainer_ID, Brand_ID, Container_Size, Unit_Price
+    PackageContainer_ID, Brand_ID, Container_Size, Unit_Price, Container_Type
 )
 SELECT
     PackageContainer_ID,
     Brand_ID,
     Container_Size,
-    TRY_CAST(TRY_CAST(Unit_Price AS FLOAT) AS DECIMAL(10,2))
+    TRY_CAST(TRY_CAST(Unit_Price AS FLOAT) AS DECIMAL(10,2)),
+    Container_Type
 FROM Staging_PackageContainer;
 
 DROP TABLE Staging_PackageContainer;
