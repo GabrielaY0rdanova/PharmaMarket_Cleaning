@@ -177,7 +177,7 @@ FROM 'C:\Your\Path\To\PharmaMarket_Cleaning\source_data\Drug_Class.csv'
 ## 🚀 Upcoming Projects
 This cleaning project is part of a series built on the PharmaMarketAnalytics database:
 
-- 🔍 **Exploratory Data Analysis (EDA)** — Uncovering patterns in drug classes, generics, manufacturers, and indications through analytical SQL queries and summary statistics.
+- 🔍 [**Exploratory Data Analysis (EDA)**](https://github.com/GabrielaY0rdanova/PharmaMarket_EDA) — Uncovering patterns in drug classes, generics, manufacturers, and indications through analytical SQL queries and summary statistics.
 - 📊 **Data Visualization** — An interactive dashboard presenting key insights from the database, including drug distribution, manufacturer market share, and indication trends.
 
 ---
@@ -194,7 +194,8 @@ This dataset is used for educational purposes and to demonstrate data cleaning w
 
 ## 👩‍💻 About Me
 
-Hi! I'm [Gabriela Yordanova](https://www.linkedin.com/in/gabriela-yordanova-837ba2124/). 
+Hi! I'm [Gabriela Yordanova](https://www.linkedin.com/in/gabriela-yordanova-837ba2124/). Check out my full portfolio 🗂️ [here](https://gabrielay0rdanova.github.io/).
+ 
 With a background in pharmacy, I bring domain knowledge that goes beyond the data — 
 knowing which findings are meaningful and which are just noise is half the work in cleaning. 
 This project is the second stage of the pipeline, making sure the data is trustworthy 
