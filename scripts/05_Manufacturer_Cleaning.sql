@@ -27,7 +27,7 @@
 --     'Adienne Pharma; Switzerland') — consistent pattern, intentional.
 -- =================================================
 
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
 GO
 
 -- =================================================
@@ -35,11 +35,11 @@ GO
 -- =================================================
 
 -- Full table preview
-SELECT *
+SELECT TOP (20) *
 FROM Manufacturer;
 
 -- All distinct manufacturer names
-SELECT DISTINCT Manufacturer_Name
+SELECT DISTINCT TOP (20) Manufacturer_Name
 FROM Manufacturer
 ORDER BY Manufacturer_Name;
 

@@ -11,7 +11,7 @@
 --   Section 5  — review manually for sense-checking
 -- =================================================
 
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
 GO
 
 -- =================================================

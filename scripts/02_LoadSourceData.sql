@@ -16,10 +16,15 @@
 --   Indication → Generic_Indication
 --   Generic → Generic_Indication
 --
--- IMPORTANT: Update the file path to match your local machine.
+-- IMPORTANT: Run in SQLCMD Mode and provide DatabaseName,
+-- SourceDataPath and AllowDestructiveReset variables.
 -- =================================================
 
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
+GO
+
+IF '$(AllowDestructiveReset)' <> 'YES'
+    THROW 50001, 'Destructive reload blocked. Set AllowDestructiveReset to YES.', 1;
 GO
 
 -- ==========================
@@ -46,7 +51,7 @@ CREATE TABLE Drug_Class (
 );
 
 BULK INSERT Drug_Class
-FROM 'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data\Drug_Class.csv'
+FROM '$(SourceDataPath)\Drug_Class.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -70,7 +75,7 @@ CREATE TABLE Dosage_Form (
 );
 
 BULK INSERT Dosage_Form
-FROM 'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data\Dosage_Form.csv'
+FROM '$(SourceDataPath)\Dosage_Form.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -94,7 +99,7 @@ CREATE TABLE Manufacturer (
 );
 
 BULK INSERT Manufacturer
-FROM 'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data\Manufacturer.csv'
+FROM '$(SourceDataPath)\Manufacturer.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -118,7 +123,7 @@ CREATE TABLE Indication (
 );
 
 BULK INSERT Indication
-FROM 'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data\Indication.csv'
+FROM '$(SourceDataPath)\Indication.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -147,7 +152,7 @@ CREATE TABLE Generic (
 );
 
 BULK INSERT Generic
-FROM 'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data\Generic.csv'
+FROM '$(SourceDataPath)\Generic.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -224,7 +229,7 @@ CREATE TABLE Staging_Medicine (
 );
 
 BULK INSERT Staging_Medicine
-FROM 'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data\Medicine.csv'
+FROM '$(SourceDataPath)\Medicine.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -276,7 +281,7 @@ CREATE TABLE Medicine_PackageSize (
 );
 
 BULK INSERT Medicine_PackageSize
-FROM 'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data\Medicine_PackageSize.csv'
+FROM '$(SourceDataPath)\Medicine_PackageSize.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -330,7 +335,7 @@ CREATE TABLE Staging_PackageContainer (
 );
 
 BULK INSERT Staging_PackageContainer
-FROM 'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data\Medicine_PackageContainer.csv'
+FROM '$(SourceDataPath)\Medicine_PackageContainer.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
@@ -380,7 +385,7 @@ CREATE TABLE Generic_Indication (
 );
 
 BULK INSERT Generic_Indication
-FROM 'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data\Generic_Indication.csv'
+FROM '$(SourceDataPath)\Generic_Indication.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',

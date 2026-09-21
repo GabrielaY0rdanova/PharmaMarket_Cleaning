@@ -24,7 +24,7 @@
 --   - / spacing: minor inconsistency, low priority
 -- =================================================
 
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
 GO
 
 -- =================================================
@@ -32,11 +32,11 @@ GO
 -- =================================================
 
 -- Full table preview
-SELECT *
+SELECT TOP (20) *
 FROM Drug_Class;
 
 -- All distinct drug class names
-SELECT DISTINCT Drug_Class_Name
+SELECT DISTINCT TOP (20) Drug_Class_Name
 FROM Drug_Class
 ORDER BY Drug_Class_Name;
 

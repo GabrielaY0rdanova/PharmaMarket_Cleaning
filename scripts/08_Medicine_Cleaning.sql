@@ -39,7 +39,7 @@
 --   Medicine table is accepted as-is with documented NULL fields.
 -- =================================================
 
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
 GO
 
 -- =================================================
@@ -47,7 +47,7 @@ GO
 -- =================================================
 
 -- Full table preview
-SELECT *
+SELECT TOP (20) *
 FROM Medicine;
 
 -- Row count and type distribution

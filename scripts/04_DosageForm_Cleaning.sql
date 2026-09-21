@@ -13,7 +13,7 @@
 -- different anatomical targets and are not duplicates of their full forms.
 -- =================================================
 
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
 GO
 
 -- =================================================
@@ -21,10 +21,10 @@ GO
 -- =================================================
 
 -- Full table preview
-SELECT * FROM Dosage_Form;
+SELECT TOP (20) * FROM Dosage_Form ORDER BY Dosage_Form_ID;
 
 -- All distinct dosage form names
-SELECT DISTINCT Dosage_Form_Name
+SELECT DISTINCT TOP (20) Dosage_Form_Name
 FROM Dosage_Form
 ORDER BY Dosage_Form_Name;
 

@@ -1,27 +1,34 @@
 -- =================================================
 -- 00_CreateDatabase.sql
--- Creates the PharmaMarketAnalytics_Clean database
+-- Creates the configured cleaning database
 -- Run this script first before any other scripts
 -- =================================================
 
 -- ==========================
 -- CREATE DATABASE IF NOT EXISTS
 -- ==========================
-IF NOT EXISTS (SELECT name FROM sys.databases WHERE name = 'PharmaMarketAnalytics_Clean')
+IF '$(DatabaseName)' = '$' + '(DatabaseName)'
+    THROW 50000, 'DatabaseName SQLCMD variable is required.', 1;
+
+DECLARE @DatabaseName sysname = N'$(DatabaseName)';
+DECLARE @CreateSql nvarchar(max);
+
+IF DB_ID(@DatabaseName) IS NULL
 BEGIN
-    CREATE DATABASE PharmaMarketAnalytics_Clean;
-    PRINT 'Database PharmaMarketAnalytics_Clean created successfully.';
+    SET @CreateSql = N'CREATE DATABASE ' + QUOTENAME(@DatabaseName) + N';';
+    EXEC sys.sp_executesql @CreateSql;
+    PRINT N'Database ' + QUOTENAME(@DatabaseName) + N' created successfully.';
 END
 ELSE
 BEGIN
-    PRINT 'Database PharmaMarketAnalytics_Clean already exists.';
+    PRINT N'Database ' + QUOTENAME(@DatabaseName) + N' already exists.';
 END
 GO
 
 -- ==========================
 -- SET CONTEXT TO DATABASE
 -- ==========================
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
 GO
 
 -- ==========================

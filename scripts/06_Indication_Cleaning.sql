@@ -17,7 +17,7 @@
 -- no IDs hardcoded anywhere in this script.
 -- =================================================
 
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
 GO
 
 -- =================================================
@@ -25,11 +25,11 @@ GO
 -- =================================================
 
 -- Full table preview
-SELECT *
+SELECT TOP (20) *
 FROM Indication;
 
 -- All distinct indication names
-SELECT DISTINCT Indication_Name
+SELECT DISTINCT TOP (20) Indication_Name
 FROM Indication
 ORDER BY Indication_Name;
 

@@ -24,7 +24,7 @@
 --   Generic_Indication table is accepted as-is.
 -- =================================================
 
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
 GO
 
 -- =================================================
@@ -32,7 +32,7 @@ GO
 -- =================================================
 
 -- Full table preview
-SELECT * FROM Generic_Indication;
+SELECT TOP (20) * FROM Generic_Indication ORDER BY Generic_Indication_ID;
 
 -- Row count
 SELECT COUNT(*) AS Total_Rows FROM Generic_Indication;

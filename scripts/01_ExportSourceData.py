@@ -23,21 +23,26 @@
 #    or open in Jupyter Notebook and run all cells
 # =================================================
 
-import pyodbc
-import pandas as pd
 import os
+from pathlib import Path
+
+import pandas as pd
+import pyodbc
 
 # ==========================
 # CONFIGURATION
 # Update these values to match your local setup
 # ==========================
 
-SERVER   = 'localhost'              # SQL Server instance name
-DATABASE = 'PharmaMarketAnalytics'
-
-# Path to the source_data folder in this project
-# Update this to match the location on your machine
-OUTPUT_FOLDER = r'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data'
+SERVER = os.getenv('PHARMA_SQL_SERVER', r'DESKTOP-SJC0GQV\SQLEXPRESS')
+DATABASE = os.getenv('PHARMA_ETL_DATABASE', 'PharmaMarketAnalytics_ETL_Test')
+ODBC_DRIVER = os.getenv('PHARMA_ODBC_DRIVER', 'ODBC Driver 17 for SQL Server')
+OUTPUT_FOLDER = Path(
+    os.getenv(
+        'PHARMA_CLEAN_SOURCE_DIR',
+        Path(__file__).resolve().parents[1] / 'source_data',
+    )
+).resolve()
 
 # ==========================
 # CONNECTION
@@ -46,13 +51,14 @@ OUTPUT_FOLDER = r'E:\Data Analysis\My Projects\PharmaMarket_Cleaning\source_data
 # ==========================
 
 conn = pyodbc.connect(
-    f'DRIVER={{SQL Server}};'
+    f'DRIVER={{{ODBC_DRIVER}}};'
     f'SERVER={SERVER};'
     f'DATABASE={DATABASE};'
     f'Trusted_Connection=yes;'
 )
 
 print(f'Connected to {DATABASE} on {SERVER}')
+OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 print(f'Exporting to: {OUTPUT_FOLDER}')
 print('-' * 50)
 
@@ -197,7 +203,7 @@ for table_name, query in tables.items():
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors='coerce').astype('Int64')
 
-    output_path = os.path.join(OUTPUT_FOLDER, f'{table_name}.csv')
+    output_path = OUTPUT_FOLDER / f'{table_name}.csv'
     df.to_csv(output_path, index=False, encoding='utf-8-sig')
 
     print(f'{len(df):,} rows exported to {output_path}')

@@ -30,7 +30,7 @@
 -- external research.
 -- =================================================
 
-USE PharmaMarketAnalytics_Clean;
+USE [$(DatabaseName)];
 GO
 
 -- =================================================
@@ -38,11 +38,11 @@ GO
 -- =================================================
 
 -- Full table preview
-SELECT *
+SELECT TOP (20) *
 FROM Generic;
 
 -- All distinct generic names
-SELECT DISTINCT Generic_Name
+SELECT DISTINCT TOP (20) Generic_Name
 FROM Generic
 ORDER BY Generic_Name;
 
