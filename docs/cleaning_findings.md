@@ -8,7 +8,7 @@
 
 ---
 
-## Table 1 — Drug_Class
+## Table 1: Drug_Class
 
 **Source rows:** 1,599  
 **Script:** `03_DrugClass_Cleaning.sql`
@@ -36,25 +36,25 @@
 
 ### Fix 4: Encoding artifacts
 - **Affected rows:** 2
-- **Issue:** Greek letter β (beta) was stored as garbled sequence — UTF-8 `NCHAR(946)` misread as Latin-1, producing `NCHAR(223)`.
+- **Issue:** Greek letter β (beta) was stored as garbled sequence: UTF-8 `NCHAR(946)` misread as Latin-1, producing `NCHAR(223)`.
 - **Pattern:** `NCHAR(223)` → `NCHAR(946)` = β
 - **Affected rows:** Drug_Class_ID 239 (`Long-acting selective β-adrenoceptor stimulants`) and 362 (`Short-acting selective & β2-adrenoceptor stimulants`)
 
 ### Final state
 - **Rows after cleaning:** 422 (down from 1,599)
 - **N/A placeholder:** Drug_Class_ID = 0 retained for unresolvable generics
-- **Known non-ASCII characters:** 2 (β in Drug_Class_IDs 239 and 362 — intentional, not artifacts)
+- **Known non-ASCII characters:** 2 (β in Drug_Class_IDs 239 and 362: intentional, not artifacts)
 
 ---
 
-## Table 2 — Dosage_Form
+## Table 2: Dosage_Form
 
 **Source rows:** 113  
 **Script:** `04_DosageForm_Cleaning.sql`
 
 ### Fix 1: Capitalisation inconsistency
 - **Affected rows:** 1
-- **Issue:** `'Emulsion for infusion'` — lowercase 'i' in 'infusion', inconsistent with all other dosage form names.
+- **Issue:** `'Emulsion for infusion'`: lowercase 'i' in 'infusion', inconsistent with all other dosage form names.
 - **Fix:** Updated to `'Emulsion for Infusion'`.
 
 ### Final state
@@ -63,12 +63,12 @@
 
 ---
 
-## Table 3 — Manufacturer
+## Table 3: Manufacturer
 
 **Source rows:** 240  
 **Script:** `05_Manufacturer_Cleaning.sql`
 
-### Fix 1: Encoding artifact — garbled apostrophe
+### Fix 1: Encoding artifact: garbled apostrophe
 - **Affected rows:** 1 (Manufacturer_ID 65)
 - **Pattern:** `NCHAR(226) + NCHAR(8364) + NCHAR(8482)` → `NCHAR(8217)` = '
 - **Cause:** UTF-8 right single quotation mark misread as Latin-1
@@ -93,7 +93,7 @@
 
 ### Fix 5: Typo in manufacturer name
 - **Affected rows:** 1 (Manufacturer_ID 129)
-- **Issue:** `'Pharmaceuticls'` — missing letter 'a'.
+- **Issue:** `'Pharmaceuticls'`: missing letter 'a'.
 - **Fix:** `'Libra Pharmaceuticls Ltd.'` → `'Libra Pharmaceuticals Ltd.'`
 
 ### No fix: 'Limited' vs 'Ltd.' variation
@@ -105,11 +105,11 @@
 ### Final state
 - **Rows after cleaning:** 240 (unchanged)
 - **No NULLs, blanks, or duplicates found.**
-- **Known non-ASCII characters:** 1 (curly apostrophe NCHAR 8217 in ID 65 — intentional, not an artifact)
+- **Known non-ASCII characters:** 1 (curly apostrophe NCHAR 8217 in ID 65: intentional, not an artifact)
 
 ---
 
-## Table 4 — Indication
+## Table 4: Indication
 
 **Source rows:** 2,043  
 **Script:** `06_Indication_Cleaning.sql`
@@ -135,11 +135,11 @@
 ### Final state
 - **Rows after cleaning:** 2,043 (unchanged)
 - **No NULLs, blanks, or duplicates found.**
-- **Known non-ASCII characters:** 23 (22 curly apostrophes NCHAR 8217 + 1 umlaut ö NCHAR 246 — intentional, not artifacts)
+- **Known non-ASCII characters:** 23 (22 curly apostrophes NCHAR 8217 + 1 umlaut ö NCHAR 246: intentional, not artifacts)
 
 ---
 
-## Table 5 — Generic
+## Table 5: Generic
 
 **Source rows:** 1,711  
 **Script:** `07_Generic_Cleaning.sql`
@@ -155,7 +155,7 @@
 - **Pattern:** `NCHAR(194) + '+' + NCHAR(194)` → `' + '`
 - **Cause:** UTF-8 non-breaking spaces surrounding a plus sign misread as Latin-1
 - **Affected row:** `'Paracetamol + Tramadol Hydrochloride'`
-- **Note:** Fix 2 must run before Fix 3 — both target NCHAR(194)
+- **Note:** Fix 2 must run before Fix 3: both target NCHAR(194)
 
 ### Fix 3: Garbled non-breaking space
 - **Affected rows:** 1
@@ -175,11 +175,11 @@
 ### Final state
 - **Rows after cleaning:** 1,711 (unchanged)
 - **No NULLs, blanks, duplicates, or whitespace issues found.**
-- **Known non-ASCII characters:** 3 (2 curly apostrophes NCHAR 8217 + 1 beta β NCHAR 946 — intentional, not artifacts)
+- **Known non-ASCII characters:** 3 (2 curly apostrophes NCHAR 8217 + 1 beta β NCHAR 946: intentional, not artifacts)
 
 ---
 
-## Table 6 — Medicine
+## Table 6: Medicine
 
 **Source rows:** 21,708 (21,357 allopathic, 351 herbal)  
 **Script:** `08_Medicine_Cleaning.sql`
@@ -194,10 +194,10 @@ The following NULL counts are expected and not fixable from source data:
 | Manufacturer_ID | 147 | Unknown manufacturer in source data |
 
 ### No fix: Brand_Name duplicates
-Hundreds of Brand_Names appear 2-9 times. All confirmed legitimate — same brand name, different strengths or dosage forms (e.g. Napa × 8 = 8 distinct strength/form combinations). No duplicate rows exist.
+Hundreds of Brand_Names appear 2-9 times. All confirmed legitimate: same brand name, different strengths or dosage forms (e.g. Napa × 8 = 8 distinct strength/form combinations). No duplicate rows exist.
 
 ### No fix: 59 true duplicate rows
-59 rows are true duplicates (identical Brand_Name + Strength + Dosage_Form_ID + Manufacturer_ID), caused by CSV parsing artifacts in the source file. These propagate into the child tables as known duplicate groups — documented in scripts 09 and 10. Retained as-is; deduplication would require source-level investigation.
+59 rows are true duplicates (identical Brand_Name + Strength + Dosage_Form_ID + Manufacturer_ID), caused by CSV parsing artifacts in the source file. These propagate into the child tables as known duplicate groups: documented in scripts 09 and 10. Retained as-is; deduplication would require source-level investigation.
 
 ### Final state
 - **Rows after cleaning:** 21,708 (unchanged)
@@ -206,7 +206,7 @@ Hundreds of Brand_Names appear 2-9 times. All confirmed legitimate — same bran
 
 ---
 
-## Table 7 — Medicine_PackageSize
+## Table 7: Medicine_PackageSize
 
 **Source rows:** 14,349  
 **Script:** `09_MedicinePackageSize_Cleaning.sql`
@@ -218,41 +218,41 @@ Hundreds of Brand_Names appear 2-9 times. All confirmed legitimate — same bran
 
 ### No fix: Known duplicate group
 - **Affected rows:** 1 duplicate group (Brand_ID 20089, Unisaline Fruity, Pack_Size 20)
-- Caused by upstream Medicine duplicate. Retained as-is — consistent with the known artifact documented in Table 6 above.
+- Caused by upstream Medicine duplicate. Retained as-is: consistent with the known artifact documented in Table 6 above.
 
 ### Notable: Max price
-- Max Pack_Price of 278,400 BDT — Juparib 150mg, 120 tablets. Confirmed plausible: Juparib (olaparib) is a PARP inhibitor used in oncology. Not an error.
+- Max Pack_Price of 278,400 BDT: Juparib 150mg, 120 tablets. Confirmed plausible: Juparib (olaparib) is a PARP inhibitor used in oncology. Not an error.
 
 ### Final state
 - **Rows after cleaning:** 14,349 (unchanged)
 
 ---
 
-## Table 8 — Medicine_PackageContainer
+## Table 8: Medicine_PackageContainer
 
 **Source rows:** 22,707  
 **Script:** `10_MedicinePackageContainer_Cleaning.sql`
 
 ### Data structure finding
-The ETL design assumed two exclusive formats — container medicines (Container_Size populated, Unit_Price NULL) and unit-priced medicines (Container_Size NULL, Unit_Price populated). Inspection revealed three actual formats:
+The ETL design assumed two exclusive formats: container medicines (Container_Size populated, Unit_Price NULL) and unit-priced medicines (Container_Size NULL, Unit_Price populated). Inspection revealed three actual formats:
 
 | Format | Description | Row Count |
 |---|---|---|
-| Format B | Unit-priced — Container_Size NULL, Unit_Price populated | 13,496 |
+| Format B | Unit-priced: Container_Size NULL, Unit_Price populated | 13,496 |
 | Format Mixed | Both Container_Size and Unit_Price populated | 9,172 |
 | Format Placeholder | Container_Size contains 'Price Unavailable' or 'Not for sale', Unit_Price NULL | 39 |
 
-Format Mixed reflects source data that had unit pricing alongside container size all along — the ETL captured this correctly. No data was lost or incorrectly transformed.
+Format Mixed reflects source data that had unit pricing alongside container size all along: the ETL captured this correctly. No data was lost or incorrectly transformed.
 
 ### No fix: Placeholder rows
 39 rows have Container_Size containing `'Price Unavailable'` or `'Not for sale'`. These carry meaningful context about why pricing is absent and are accepted as-is.
 
 ### No fix: Known duplicate groups
 - **Affected rows:** 3 duplicate groups (Brand_IDs 3952 Cholera Fluid, 9027 Glucose Saline, 13603 Normal Saline)
-- All caused by upstream Medicine duplicates. Retained as-is — consistent with the known artifact documented in Table 6 above.
+- All caused by upstream Medicine duplicates. Retained as-is: consistent with the known artifact documented in Table 6 above.
 
 ### Container_Type column
-`Container_Type` is a derived category column populated by the ETL project (`07b_Medicine_PackageContainer_ETL.sql`) using LIKE pattern matching on Container_Size. Categories include: Bottle, Vial, Tube, Ampoule, Drop, Inhaler, Pre-filled Syringe, Pen, Sachet, Bag, and others. 3 rows have `Container_Type = 'N/A'` — plain quantity strings (`250 mg` x2, `500 mg` x1) with no recognisable container keyword. Accepted as-is.
+`Container_Type` is a derived category column populated by the ETL project (`07b_Medicine_PackageContainer_ETL.sql`) using LIKE pattern matching on Container_Size. Categories include: Bottle, Vial, Tube, Ampoule, Drop, Inhaler, Pre-filled Syringe, Pen, Sachet, Bag, and others. 3 rows have `Container_Type = 'N/A'`: plain quantity strings (`250 mg` x2, `500 mg` x1) with no recognisable container keyword. Accepted as-is.
 
 ### Final state
 - **Rows after cleaning:** 22,707 (unchanged)
@@ -261,7 +261,7 @@ Format Mixed reflects source data that had unit pricing alongside container size
 
 ---
 
-## Table 9 — Generic_Indication
+## Table 9: Generic_Indication
 
 **Source rows:** 1,608  
 **Script:** `11_GenericIndication_Cleaning.sql`
@@ -273,11 +273,11 @@ Format Mixed reflects source data that had unit pricing alongside container size
 
 ### No fix: Pairs involving N/A generics
 - **Affected rows:** 9 pairs involve generics with `Drug_Class_ID = 0`.
-- The generic data is valid — only the drug class is unresolvable. Pairs retained as-is.
+- The generic data is valid: only the drug class is unresolvable. Pairs retained as-is.
 
 ### Notable characteristic
 - Every generic has exactly 1 indication in this table.
-- 1,608 distinct generics reference 662 distinct indications — many indications are shared across multiple generics.
+- 1,608 distinct generics reference 662 distinct indications: many indications are shared across multiple generics.
 
 ### Final state
 - **Rows after cleaning:** 1,608 (unchanged)
@@ -293,4 +293,4 @@ Format Mixed reflects source data that had unit pricing alongside container size
 59 true duplicate Medicine rows carried forward from the source CSV. Deduplication requires source-level investigation to confirm which rows to retain. Flagged for future work.
 
 ### 3. Medicine_PackageContainer N/A container types (3 rows)
-3 rows (`250 mg` x2, `500 mg` x1) have `Container_Type = 'N/A'` — plain quantity strings with no container keyword. Cannot be categorised without external reference. Accepted as-is.
+3 rows (`250 mg` x2, `500 mg` x1) have `Container_Type = 'N/A'`: plain quantity strings with no container keyword. Cannot be categorised without external reference. Accepted as-is.
