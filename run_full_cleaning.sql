@@ -1,4 +1,4 @@
-:setvar DatabaseName "PharmaMarketAnalytics_Clean_Test"
+:setvar DatabaseName "PharmaMarketAnalytics_Clean"
 :setvar AllowDestructiveReset "YES"
 :setvar SourceDataPath "E:\Data Analysis\My Projects\PharmaMarket Data Platform\PharmaMarket_Cleaning\source_data"
 :on error exit

@@ -83,7 +83,7 @@ The repository includes the exported CSV files in `source_data/`. You can rebuil
 3. Confirm the variables at the top of the file:
 
 ```sql
-:setvar DatabaseName "PharmaMarketAnalytics_Clean_Test"
+:setvar DatabaseName "PharmaMarketAnalytics_Clean"
 :setvar AllowDestructiveReset "YES"
 :setvar SourceDataPath "E:\Data Analysis\My Projects\PharmaMarket Data Platform\PharmaMarket_Cleaning\source_data"
 ```
@@ -91,7 +91,7 @@ The repository includes the exported CSV files in `source_data/`. You can rebuil
 4. Confirm that the `:r` paths match the local project location.
 5. Run the complete script.
 
-The default database is `PharmaMarketAnalytics_Clean_Test`. This keeps the verified test workflow separate from the original ETL and clean databases.
+The default database is the dedicated `PharmaMarketAnalytics_Clean` project database. The ETL source remains separate in `PharmaMarketAnalytics_ETL`.
 
 ### Export a Fresh ETL Snapshot
 
@@ -110,7 +110,7 @@ Example PowerShell configuration:
 
 ```powershell
 $env:PHARMA_SQL_SERVER = "DESKTOP-SJC0GQV\SQLEXPRESS"
-$env:PHARMA_ETL_DATABASE = "PharmaMarketAnalytics_ETL_Test"
+$env:PHARMA_ETL_DATABASE = "PharmaMarketAnalytics_ETL"
 $env:PHARMA_ODBC_DRIVER = "ODBC Driver 18 for SQL Server"
 python scripts/01_ExportSourceData.py
 ```
@@ -125,7 +125,7 @@ The default output directory is the repository's `source_data/` folder.
 :setvar AllowDestructiveReset "YES"
 ```
 
-The default runner targets `PharmaMarketAnalytics_Clean_Test`. Change the database name only when you intentionally want to rebuild another cleaning database.
+The default runner targets `PharmaMarketAnalytics_Clean`. Change the database name only when you intentionally want to rebuild another cleaning database.
 
 The workflow does not modify the ETL source database.
 
@@ -142,7 +142,7 @@ A successful run ends with:
 
 ```text
 Cleaning validation gate passed.
-Complete cleaning rebuild and validation finished for PharmaMarketAnalytics_Clean_Test.
+Complete cleaning rebuild and validation finished for PharmaMarketAnalytics_Clean.
 ```
 
 Run the repository contract tests with:

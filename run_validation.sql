@@ -1,4 +1,4 @@
-:setvar DatabaseName "PharmaMarketAnalytics_Clean_Test"
+:setvar DatabaseName "PharmaMarketAnalytics_Clean"
 :on error exit
 
 PRINT N'Validating database: $(DatabaseName)';

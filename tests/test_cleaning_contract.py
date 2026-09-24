@@ -43,12 +43,12 @@ class CleaningContractTests(unittest.TestCase):
         self.assertIn("QUOTENAME(@DatabaseName)", sql)
         self.assertIn("EXEC sys.sp_executesql @CreateSql", sql)
 
-    def test_full_runner_targets_test_database_and_includes_all_steps(self):
+    def test_full_runner_targets_clean_database_and_includes_all_steps(self):
         runner = (PROJECT_ROOT / "run_full_cleaning.sql").read_text(
             encoding="utf-8-sig"
         )
         self.assertIn(
-            ':setvar DatabaseName "PharmaMarketAnalytics_Clean_Test"', runner
+            ':setvar DatabaseName "PharmaMarketAnalytics_Clean"', runner
         )
         self.assertIn(':setvar AllowDestructiveReset "YES"', runner)
 
@@ -68,7 +68,7 @@ class CleaningContractTests(unittest.TestCase):
     def test_validation_runner_is_read_only(self):
         runner = (PROJECT_ROOT / "run_validation.sql").read_text(encoding="utf-8-sig")
         self.assertIn(
-            ':setvar DatabaseName "PharmaMarketAnalytics_Clean_Test"', runner
+            ':setvar DatabaseName "PharmaMarketAnalytics_Clean"', runner
         )
         self.assertEqual(runner.count("12_Validation.sql"), 1)
         self.assertEqual(runner.count("13_ValidationGate.sql"), 1)
